@@ -1,4 +1,6 @@
 浙江,#genre#
+1,rtsp://223.99.188.13/PLTV/88888888/224/3221225754/10000100000000060000000001367115_0.smil
+2,rtsp://223.99.188.13/PLTV/88888888/224/3221225755/10000100000000060000000001367489_0.smil
 CCTV1HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/42329859.smil/index.m3u8?fmt=ts2hls
 CCTV2HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/42329899.smil/index.m3u8?fmt=ts2hls
 CCTV3HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232596/341734363.smil/index.m3u8?fmt=ts2hls
