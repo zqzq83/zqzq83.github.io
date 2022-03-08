@@ -1623,6 +1623,12 @@ CCTV高尔夫网球,http://iptv.tvfix.org/hls/cctvgefwqhd.m3u8
 CCTV风云足球,http://iptv.tvfix.org/hls/cctvfyzqhd.m3u8
 CCTV女性时尚,http://iptv.tvfix.org/hls/cctvnxjkhd.m3u8
 CCTV卫生健康,http://iptv.tvfix.org/hls/cctvwsjkhd.m3u8
+东方都市,http://iptv.tvfix.org/hls/shdspdhd.m3u8
+东方新闻综合,http://iptv.tvfix.org/hls/shxwzhhd.m3u8
+东方影视,http://iptv.tvfix.org/hls/shdfyshd.m3u8
+第一财经,http://iptv.tvfix.org/hls/shdycjhd.m3u8
 CGNT,http://iptv.tvfix.org/hls/cgtnhd.m3u8
 TVB星河,http://iptv.tvfix.org/hls/tvbxh2.m3u8
-TVB翡翠，http://iptv.tvfix.org/hls/jade2.m3u8
+TVB翡翠,http://iptv.tvfix.org/hls/jade2.m3u8
+TVBj2,http://iptv.tvfix.org/hls/j22.m3u8
+TVB功夫,http://iptv.tvfix.org/hls/tvbkf2.m3u8
