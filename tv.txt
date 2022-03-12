@@ -1632,3 +1632,37 @@ TVB星河,http://iptv.tvfix.org/hls/tvbxh2.m3u8
 TVB翡翠,http://iptv.tvfix.org/hls/jade2.m3u8
 TVBj2,http://iptv.tvfix.org/hls/j22.m3u8
 TVB功夫,http://iptv.tvfix.org/hls/tvbkf2.m3u8
+翡翠台(第2声道简体),http://iptv.tvfix.org/hls/jade.m3u8
+翡翠台海外版(粤语繁体),http://iptv.tvfix.org/hls/jade2.m3u8
+翡翠台海外版(普通话简体),http://iptv.tvfix.org/hls/jadenhk.m3u8
+J2,http://iptv.tvfix.org/hls/jadenhk2.m3u8
+J2(第2声道),http://iptv.tvfix.org/hls/j2.m3u8
+无线新闻台,http://iptv.tvfix.org/hls/j22.m3u8
+无线新闻台(第2声道),http://iptv.tvfix.org/hls/inews.m3u8
+明珠台,http://iptv.tvfix.org/hls/inews2.m3u8
+明珠台(第2声道),http://iptv.tvfix.org/hls/pearl.m3u8
+无线财经资讯台,http://iptv.tvfix.org/hls/pearl2.m3u8
+无线财经资讯台(第2声道),http://iptv.tvfix.org/hls/finance.m3u8
+无线财经资讯台海外版,http://iptv.tvfix.org/hls/finance2.m3u8
+ViuTV,http://iptv.tvfix.org/hls/financenhk.m3u8
+ViuTV(第2声道),http://iptv.tvfix.org/hls/viutv.m3u8
+ViuTV6,http://iptv.tvfix.org/hls/viutv2.m3u8
+RTHK31,http://iptv.tvfix.org/hls/viutv6.m3u8
+RTHK32,http://iptv.tvfix.org/hls/rthk31.m3u8
+HK国际财经台,http://iptv.tvfix.org/hls/rthk32.m3u8
+HK开电视,http://iptv.tvfix.org/hls/hkibc.m3u8
+HBO(第1声道粤语),http://iptv.tvfix.org/hls/opentv.m3u8
+HBO(第2声道原声),http://iptv.tvfix.org/hls/hbo.m3u8
+HBO Hits(第1声道粤语),http://iptv.tvfix.org/hls/hbo2.m3u8
+HBO Hits(第2声道原声),http://iptv.tvfix.org/hls/hbohits.m3u8
+TVB经典台,http://iptv.tvfix.org/hls/hbohits2.m3u8
+TVB星河(粤语),http://iptv.tvfix.org/hls/tvbjd.m3u8
+TVB星河(普通话),http://iptv.tvfix.org/hls/tvbxh.m3u8
+TVB功夫台(粤语),http://iptv.tvfix.org/hls/tvbxh2.m3u8
+TVB功夫(普通话),http://iptv.tvfix.org/hls/tvbkf.m3u8
+TVBS亚洲台,http://iptv.tvfix.org/hls/tvbkf2.m3u8
+TVBS新闻台,http://iptv.tvfix.org/hls/tvbs.m3u8
+Hands Up Channel,http://iptv.tvfix.org/hls/tvbsnews.m3u8
+Hands Up Channel(第2声道),http://iptv.tvfix.org/hls/kid.m3u8
+Channel V,http://iptv.tvfix.org/hls/kid2.m3u8
+星空卫视,http://iptv.tvfix.org/hls/channelv.m3u8
