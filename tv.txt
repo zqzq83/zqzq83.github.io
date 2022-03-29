@@ -258,6 +258,10 @@ CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/index.m3u8
 CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233404/index.m3u8
 CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233350/index.m3u8
 浙江2,#genre#
+百视通4K[3840x2160][HEVC],http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/index.m3u8?fmt=ts2hls
+CCTV 4K[3840x2160][HEVC],http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/index.m3u8?fmt=ts2hls
+求索纪录4K[3840x2160][HEVC],http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/index.m3u8?fmt=ts2hls
+咪咕视频4K[3840x1920],http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230352/index.m3u8?fmt=ts2hls#http://183.249.160.53:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230352/index.m3u8?fmt=ts2hls
 黑龙江卫视[1920x1080],http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228302/42330389.smil/index.m3u8?fmt=ts2hls
 山东卫视[1920x1080],http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228308/42330389.smil/index.m3u8?fmt=ts2hls
 CCTV12[1920x1080],http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228312/42330389.smil/index.m3u8?fmt=ts2hls
