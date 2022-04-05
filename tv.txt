@@ -2619,7 +2619,7 @@ CCTV12,http://125.210.152.19:9090/live/hzgq-cctv12gq-h264.m3u8
 CCTV13,http://125.210.152.19:9090/live/hzgq-cctvnewsgq-h264.m3u8
 CCTV14,http://125.210.152.19:9090/live/hzgq-cctvsegq-h264.m3u8
 CCTV15,http://125.210.152.19:9090/live/hzgq-cctvmusicgq-h264.m3u8
-CCTV17,http://125.210.152.19:9090/live/hzgq-cctv16gq-h264.m3u8
+CCTV16,http://125.210.152.19:9090/live/hzgq-cctv16gq-h264.m3u8
 CCTV17,http://125.210.152.19:9090/live/hzgq-cctv17gq-h264.m3u8
 CGTN,http://125.210.152.19:9090/live/hszx-cctvgj-h264.m3u8
 安徽卫视,http://125.210.152.19:9090/live/hzgq-ahwsgq-h264.m3u8
