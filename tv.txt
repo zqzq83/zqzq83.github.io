@@ -2597,10 +2597,12 @@ CETV-4,http://112.25.47.24/gitv_live/G_CETV-4/G_CETV-4.m3u8
 浙江少儿,http://125.210.152.20:9090/live/hzgq-zjsegq-h264.m3u8
 浙江经视,http://125.210.152.19:9090/live/hzgq-zjjsgq-h264.m3u8
 浙江民生休闲,http://125.210.152.19:9090/live/hzgq-msxxgq-h264.m3u8
+浙江新闻,http://125.210.152.19:9090/live/hzgq-zjnewsgq-h264.m3u8
 浙江卫视,http://125.210.152.19:9090/live/hzgq-zjwsgq-h264.m3u8
 杭州1（综合),http://125.210.152.19:9090/live/hzgq-hzzhgq-h264.m3u8
 杭州2（明珠),http://125.210.152.19:9090/live/hzgq-xhmzgq-h264.m3u8
 杭州3（生活),http://125.210.152.19:9090/live/hzgq-hzshgq-h264.m3u8
+杭州5（少体),http://125.210.152.19:9090/live/hzgq-hzshgq-h264.m3u8
 杭州4（影视),http://125.210.152.19:9090/live/hzgq-hzysgq-h264.m3u8
 杭州导视,http://125.210.152.19:9090/live/hzgq-hzdsgq-h264.m3u8
 CCTV1,http://125.210.152.19:9090/live/hzgq-cctv1gq-h264.m3u8
