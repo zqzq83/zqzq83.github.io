@@ -2664,14 +2664,6 @@ CCTV-16 奥林匹克 高清,http://[2409:8c28:203:303::30]/live.rxip.sc96655.com
 CCTV-16 奥林匹克 4K超高清,http://[2409:8c28:203:303::30]/live.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8
 CCTV-17 农业农村 高清,http://[2409:8c28:203:303::30]/live.rxip.sc96655.com/live/CCTV-17_4000.m3u8
 CCTV-4K 超高清,http://[2409:8c28:203:303::30]/live.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
-CCTV世界地理[4M]FHD,http://[2409:8c28:203:303::30]/live.rxip.sc96655.com/live/sjdl_4000.m3u8
-CCTV兵器科技[4M]FHD,http://[2409:8c28:203:303::30]/live.rxip.sc96655.com/live/gfjs_4000.m3u8
-CCTV女性时尚[4M]FHD,http://[2409:8c28:203:303::30]/live.rxip.sc96655.com/live/nxss_4000.m3u8
-CCTV怀旧剧场[4M]FHD,http://[2409:8c28:203:303::30]/live.rxip.sc96655.com/live/hjjc_2000.m3u8
-CCTV第一剧场[4M]FHD,http://[2409:8c28:203:303::30]/live.rxip.sc96655.com/live/dyjc_2000.m3u8
-CCTV风云剧场[4M]FHD,http://[2409:8c28:203:303::30]/live.rxip.sc96655.com/live/fyjc_2000.m3u8
-CCTV风云足球[4M]FHD,http://[2409:8c28:203:303::30]/live.rxip.sc96655.com/live/fyzq_2000.m3u8
-CCTV风云音乐[4M]FHD,http://[2409:8c28:203:303::30]/live.rxip.sc96655.com/live/fyyy_4000.m3u8
 CCTV央视台球,http://[2409:8c28:203:303::30]/live.rxip.sc96655.com/live/ystq_4000.m3u8
 CETV-1 高清,http://[2409:8c28:203:303::30]/live.rxip.sc96655.com/live/CETV-1H264_4000.m3u8
 凤凰中文 高清,http://[2409:8c28:203:303::30]/live.rxip.sc96655.com/live/test1_4000.m3u8
