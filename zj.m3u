@@ -224,15 +224,21 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228372/42612910.smi
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱体育.png" group-title="其他",爱体育HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8
 #EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.112114.xyz/logo/求索动物.png" group-title="其他",求索动物 8M1080
-http://39.134.67.138/PLTV/88888888/224/3221225730/index.m3u8#http://39.134.67.200/PLTV/88888888/224/3221225730/index.m3u8
+http://39.134.67.138/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.112114.xyz/logo/求索动物.png" group-title="其他",求索动物 8M1080
+http://39.134.67.200/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1,tvg-id="浙江求索生活" tvg-name="浙江求索生活" tvg-logo="https://epg.112114.xyz/logo/浙江求索生活.png" group-title="其他",求索生活 8M1080
-http://39.134.67.138/PLTV/88888888/224/3221225715/index.m3u8#http://39.134.67.200/PLTV/88888888/224/3221225715/index.m3u8
+http://39.134.67.138/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1,tvg-id="浙江求索生活" tvg-name="浙江求索生活" tvg-logo="https://epg.112114.xyz/logo/浙江求索生活.png" group-title="其他",求索生活 8M1080
+http://39.134.67.200/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1,tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://epg.112114.xyz/logo/求索科学.png" group-title="其他",求索科学 8M1080
-http://39.134.67.138/PLTV/88888888/224/3221225728/index.m3u8#http://39.134.67.200/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1,tvg-id="4K综艺" tvg-name="4K综艺" tvg-logo="https://epg.112114.xyz/logo/4K综艺.png" group-title="其他",8M1080
-http://39.134.67.138/PLTV/88888888/224/3221225713/index.m3u8#http://39.134.67.200/PLTV/88888888/224/3221225713/index.m3u8#http://39.134.67.69/PLTV/88888888/224/3221225713
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo//INDEX3U8#HTTP://39..67.5/PLTV///28/INDEX3U8.png" group-title="其他",/index.m3u8#http://39.134.67.5/PLTV/88888888/224/3221225728/index.m3u8
-undefined
+http://39.134.67.138/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1,tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://epg.112114.xyz/logo/求索科学.png" group-title="其他",求索科学 8M1080
+http://39.134.67.200/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="其他",求索纪录 8M1080
+http://39.134.67.138/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="其他",求索纪录 8M1080
+http://39.134.67.200/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1,tvg-id="卫视中文台" tvg-name="卫视中文台" tvg-logo="https://epg.112114.xyz/logo/卫视中文台.png" group-title="香港",凤凰卫视中文台
 http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1,tvg-id="卫视中文台" tvg-name="卫视中文台" tvg-logo="https://epg.112114.xyz/logo/卫视中文台.png" group-title="香港",凤凰卫视中文台
