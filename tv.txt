@@ -118,6 +118,7 @@ CCTV3[859*480],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231528/inde
 CCTV4HD[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231726/index.m3u8
 CCTV4-欧洲HD[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231615/index.m3u8
 CCTV4-美洲HD[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231654/index.m3u8
+CCTV5,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233115/index.m3u8
 CCTV5+HD[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231459/index.m3u8
 CCTV5+HD[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231535/index.m3u8
 CCTV6HD[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231724/index.m3u8
@@ -246,18 +247,8 @@ MIGU古龙作品集[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/
 MIGU经典贺岁片[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231679/index.m3u8
 MIGU24小时体育[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231778/index.m3u8
 MIGU武侠剧场[1280*720],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231763/index.m3u8
-CCTV16,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233409/index.m3u8
-CCTV16,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233410/index.m3u8
-CCTV16,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233442/index.m3u8
 CCTV16,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233403/index.m3u8
-CCTV16,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233392/index.m3u8
-CCTV16,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233398/index.m3u8
-CCTV16,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233406/index.m3u8
-CCTV4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233454/index.m3u8
 CCTV4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8
-CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/index.m3u8
-CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233404/index.m3u8
-CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233350/index.m3u8
 浙江2,#genre#
 百视通4K[3840x2160][HEVC],http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/index.m3u8?fmt=ts2hls
 CCTV 4K[3840x2160][HEVC],http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/index.m3u8?fmt=ts2hls
@@ -1577,56 +1568,18 @@ SiTV欢笑剧场 4M720,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221
 聚鲨环球精选 576,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 聚鲨环球精选 576,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226697/index.m3u8
 地方,#genre#
-CCTV-1综合HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226834/48356507.smil
-CCTV-2财经HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226655/40417429.smil
-CCTV-4中文国际HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226633/40417241.smil 
-CCTV-7国防军事HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226645/40426612.smil
-CCTV-9纪录HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226637/40417257.smil
-CCTV-10科教HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226718/40417274.smil
-CCTV-11戏曲HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221225996/10000100000000060000000002296743_0.smil
-CCTV-12社会与法HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226659/40417266.smil
-CCTV-13新闻HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226104/10000100000000060000000002298296_0.smil
-CCTV-14少儿HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226641/40418077.smil
-CCTV-15音乐HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221225998/10000100000000060000000002296745_0.smil
-湖南卫视HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226082/10000100000000060000000002296924_0.smil
-北京卫视HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226092/10000100000000060000000002296930_0.smil
-东方卫视HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226041/10000100000000060000000002296882_0.smil
-浙江卫视HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226040/10000100000000060000000002296881_0.smil
-江苏卫视HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226038/10000100000000060000000002296879_0.smil
-山东卫视HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226090/10000100000000060000000002296928_0.smil
-广东卫视HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226089/10000100000000060000000002296927_0.smil
-湖北卫视HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226091/10000100000000060000000002296929_0.smil
-黑龙江卫视HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226087/10000100000000060000000002296926_0.smil
-四川卫视HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226806/45949301.smil
-重庆卫视HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226753/45949735.smil
-贵州卫视HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226126/10000100000000060000000002434541_0.smil
-江西卫视HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226687/42186801.smil
-东南卫视HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226121/10000100000000060000000002358085_0.smil
-河北卫视HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226111/10000100000000060000000002310153_0.smil
-云南卫视HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226108/10000100000000060000000002310150_0.smil
-河南卫视HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226076/10000100000000060000000002296917_0.smil
-吉林卫视HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226792/48616745.smil
-海峡卫视HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
-海南卫视HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226048/10000100000000060000000002296889_0.smil
-欢笑剧场HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226717/45278772.smil
-福建新闻HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226116/10000100000000060000000002358068_0.smil
-福建电视剧HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil
-福建综合HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226826/47882539.smil
-福建经济HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226117/10000100000000060000000002358072_0.smil
-福建乡村HD,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
-福建体育 8M1080,rtsp://183.252.166.199/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
-福建少儿 8M1080,rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
-福建新闻 8M1080,rtsp://183.252.166.199/PLTV/88888888/224/3221226116/10000100000000060000000002358068_0.smil
-北京冬奥纪实 Max6M1080,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
-北京卫视 Max6M1080,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
-北京影视 Max4M1080,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
-北京新闻 Max6M1080,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
-北京生活 Max4M1080,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
-北京财经 Max6M1080,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8
-北京青年 Max4M1080,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
-卡酷少儿 Max6M1080,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
-北京文艺 720,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
-北京科教 720,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
+金华公共频道,http://live.plus.jinhua.com.cn/jjsh/playlist.m3u8
+金华教育科技,http://live.plus.jinhua.com.cn/jykj/playlist.m3u8
+金华新闻综合,http://live.plus.jinhua.com.cn/xwzh/playlist.m3u8
+金华都市农村,http://live2.plus.jinhua.com.cn/dsnc/playlist.m3u8
+北京影视,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
+北京科教,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappkejiao.m3u8
+北京文艺,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
+北京新闻,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8
+北京生活,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
+北京财经,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
+北京青年,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappqingnian.m3u8
+卡酷少儿,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappkaku.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel14/1080p.m3u8
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
