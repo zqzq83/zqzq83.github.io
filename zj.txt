@@ -113,13 +113,13 @@ NNM游戏竞技 576,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/322122616
 上海纪实人文 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8
 北京冬奥纪实 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
 湖南金鹰纪实 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
-求索动物 8M1080,http://39.134.67.138/PLTV/88888888/224/3221225730/index.m3u8
+求索动物 8M1080,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=no
+求索纪录 8M1080,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
+求索科学 8M1080,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=no
+求索生活 8M1080,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=no
 求索动物 8M1080,http://39.134.67.200/PLTV/88888888/224/3221225730/index.m3u8
 求索生活 8M1080,http://39.134.67.138/PLTV/88888888/224/3221225715/index.m3u8
-求索生活 8M1080,http://39.134.67.200/PLTV/88888888/224/3221225715/index.m3u8
-求索科学 8M1080,http://39.134.67.138/PLTV/88888888/224/3221225728/index.m3u8
 求索科学 8M1080,http://39.134.67.200/PLTV/88888888/224/3221225728/index.m3u8
-求索纪录 8M1080,http://39.134.67.138/PLTV/88888888/224/3221225713/index.m3u8
 求索纪录 8M1080,http://39.134.67.200/PLTV/88888888/224/3221225713/index.m3u8
 江西陶瓷 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226247/index.m3u8?fmt=ts2hls
 
@@ -270,6 +270,36 @@ Y+频道HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1
 百视通轮播(演出) 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227049/index.m3u8?servicetype=1
 百视通轮播(动画) 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227053/index.m3u8?servicetype=1
 百视通轮播(电影) 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227032/index.m3u8?servicetype=1
+爱电竞HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=no
+爱谍战HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=no
+爱动漫HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=no
+爱都市HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=no
+爱怀旧HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=no
+爱极限HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=no
+爱家庭HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=no
+爱江湖HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=no
+爱解密HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=no
+爱经典HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=no
+爱科幻HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=no
+爱科学HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=no
+爱浪漫HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=no
+爱历史HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=no
+爱猎奇HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=no
+爱旅行HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=no
+爱美食HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=no
+爱奇谈HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=no
+爱青春HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=no
+爱赛车HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=no
+爱时尚HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=no
+爱世界HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=no
+爱探索HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=no
+爱体育HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=no
+爱玩具HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=no
+爱喜剧HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=no
+爱悬疑HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=no
+爱幼教HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=no
+爱娱乐HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=no
+爱院线HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=no
 
 
 其他省市,#genre#
@@ -285,6 +315,15 @@ SiTV游戏风云 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/2
 SiTV生活时尚 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227091/index.m3u8?servicetype=1
 SiTV都市剧场 8M1080,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227204/index.m3u8?servicetype=1
 SiTV金色学堂 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227208/index.m3u8?servicetype=1
+湖南经视高清,http://cache.ott.fifalive.itv.cmvideo.cn:80/7766420291569067385/index.m3u8?channel-id=hnbblive&Contentid=7766420291569067385&livemode=1&stbId=no
+湖南娱乐,http://cache.ott.fifalive.itv.cmvideo.cn:80/6427893650335440392/index.m3u8?channel-id=hnbblive&Contentid=6427893650335440392&livemode=1&stbId=no
+湖南都市,http://cache.ott.fifalive.itv.cmvideo.cn:80/4682579636905393407/index.m3u8?channel-id=hnbblive&Contentid=4682579636905393407&livemode=1&stbId=no
+湖南公共,http://cache.ott.fifalive.itv.cmvideo.cn:80/6307875884530512195/index.m3u8?channel-id=hnbblive&Contentid=6307875884530512195&livemode=1&stbId=no
+湖南电视剧,http://cache.ott.fifalive.itv.cmvideo.cn:80/8765482907954673867/index.m3u8?channel-id=hnbblive&Contentid=8765482907954673867&livemode=1&stbId=no
+潇湘电影,http://cache.ott.fifalive.itv.cmvideo.cn:80/7884242846753128038/index.m3u8?channel-id=hnbblive&Contentid=7884242846753128038&livemode=1&stbId=no
+金鹰卡通,http://cache.ott.fifalive.itv.cmvideo.cn:80/8919073838942247498/index.m3u8?channel-id=hnbblive&Contentid=8919073838942247498&livemode=1&stbId=no
+湖南国际,http://cache.ott.fifalive.itv.cmvideo.cn:80/5015828848322021526/index.m3u8?channel-id=hnbblive&Contentid=5015828848322021526&livemode=1&stbId=no
+金鹰纪实,http://cache.ott.fifalive.itv.cmvideo.cn:80/5745820929742960159/index.m3u8?channel-id=hnbblive&Contentid=5745820929742960159&livemode=1&stbId=no
 东方影视HD[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231639/index.m3u8
 上海都市HD[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231618/index.m3u8
 幸福彩HD[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231730/index.m3u8
@@ -405,3 +444,4 @@ CCTV16 25M2160,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/322122
 SiTV欢笑剧场 11M2160,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 纯享4K 20M2160,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 CCTV16 26M2160,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/index.m3u8?fmt=ts2hls
+4K电影 16M2160,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=no
