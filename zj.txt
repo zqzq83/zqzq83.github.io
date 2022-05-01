@@ -299,9 +299,12 @@ Y+频道HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1
 爱幼教HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=no
 爱娱乐HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=no
 爱院线HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=no
+海看剧场,http://39.136.48.19:8089/PLTV/88888888/224/3221226053/index.m3u8
+
 
 
 其他省市,#genre#
+山东齐鲁,http://39.136.48.2:8089/PLTV/88888888/224/3221226045/index.m3u8
 SiTV极速汽车,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227052/index.m3u8?servicetype=1
 SiTV七彩戏剧,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227212/index.m3u8?servicetype=1
 SiTV东方财经,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227087/index.m3u8?servicetype=1
