@@ -103,7 +103,10 @@ CCTV第一剧场,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
 环球奇观,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225681/1/index.m3u8?fmt=ts2hls
 NNM游戏竞技,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226162/1/index.m3u8?fmt=ts2hls
 
-新闻纪实,#genre#
+影视剧轮播,#genre#
+名侦探柯南,http://epg.112114.xyz/douyu/6484910
+蜡笔小新,http://epg.112114.xyz/huya/11352970
+少年包青天,http://epg.112114.xyz/huya/11342393
 凤凰卫视资讯台,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
 凤凰卫视中文台,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
 凤凰卫视中文台,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
