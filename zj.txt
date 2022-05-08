@@ -201,6 +201,7 @@ NNM游戏竞技,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226162/1/
 CHC动作电影 HD,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院 HD,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影 HD,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+影视剧场轮播,http://112.25.47.24/gitv_live/GITV-JS-1/GITV-JS-1.m3u8
 Y+频道HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/133380193.smil/index.m3u8?fmt=ts2hls
 爱院线HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/133451219.smil/index.m3u8?fmt=ts2hls
 爱喜剧HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/133451466.smil/index.m3u8?fmt=ts2hls
@@ -344,16 +345,14 @@ SiTV金色学堂,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221
 东方影视 HD[,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231639/index.m3u8
 上海都市 HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231618/index.m3u8
 幸福彩 HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231730/index.m3u8
-圆点生活 2M1080,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002285/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-北京影视,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
-北京科教,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappkejiao.m3u8
-北京文艺,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
-北京新闻,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8
-北京生活,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
-北京财经,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
-北京青年,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappqingnian.m3u8
-卡酷少儿,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappkaku.m3u8
-江苏卫视,https://litchiapp-hls.jstv.com/lizhiapp/jsws.m3u8
+北京影视,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
+北京新闻,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
+北京生活,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
+北京财经,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8
+北京青年,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
+卡酷少儿,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
+北京文艺,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
+北京科教,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
 江苏城市, https://litchiapp-hls.jstv.com/lizhiapp/jscs.m3u8
 江苏综艺,https://litchiapp-hls.jstv.com/lizhiapp/jszy.m3u8
 江苏影视,https://litchiapp-hls.jstv.com/lizhiapp/jsys.m3u8
@@ -412,6 +411,9 @@ SiTV金色学堂,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221
 黑龙江少儿 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226070/index.m3u8
 黑龙江影视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226061/index.m3u8
 黑龙江文体 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226044/index.m3u8
+哈尔滨影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8
+山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8
+福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 
 
 高清晰频道,#genre#
