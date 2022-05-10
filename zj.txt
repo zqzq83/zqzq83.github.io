@@ -21,7 +21,7 @@ CCTV5+HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228372/426
 CCTV4欧洲 HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/1/index.m3u8?fmt=ts2hls
 CCTV4美洲 HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226300/1/index.m3u8?fmt=ts2hls
 CCTV4K HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8
-CCTV4K 2016P,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
+CCTV4K HD,http://61.164.150.139/tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 CCTV世界地理,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
 CCTV兵器科技,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
 CCTV央视台球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
@@ -34,19 +34,19 @@ CCTV风云剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1
 CCTV风云足球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
 CCTV风云音乐,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
 CCTV高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
-CCTV怀旧剧场,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
-CCTV高尔夫网球,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
-CCTV世界地理,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
-CCTV兵器科技,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
-CCTV卫生健康,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
-CCTV风云剧场,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
-CCTV央视台球,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
-CCTV央视文化精品,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
-CCTV女性时尚,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
-CCTV电视指南,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
-CCTV风云音乐,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
-CCTV风云足球,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
-CCTV第一剧场,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
+CCTV怀旧剧场,http://61.164.150.139/tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+CCTV高尔夫网球,http://61.164.150.139/tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+CCTV世界地理,http://61.164.150.139/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+CCTV兵器科技,http://61.164.150.139/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+CCTV卫生健康,http://61.164.150.139/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
+CCTV风云剧场,http://61.164.150.139/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
+CCTV央视台球,http://61.164.150.139/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
+CCTV央视文化精品,http://61.164.150.139/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
+CCTV女性时尚,http://61.164.150.139/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
+CCTV电视指南,http://61.164.150.139/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
+CCTV风云音乐,http://61.164.150.139/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+CCTV风云足球,http://61.164.150.139/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+CCTV第一剧场,http://61.164.150.139/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
 中国教育-1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228285/42329224.smil/index.m3u8?fmt=ts2hls
 中国教育-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230334/index.m3u8
 
@@ -321,8 +321,8 @@ SiTV游戏风云 HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3
 SiTV生活时尚 HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227091/index.m3u8?servicetype=1
 SiTV都市剧场 HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227204/index.m3u8?servicetype=1
 SiTV金色学堂,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227208/index.m3u8?servicetype=1
-湖南经视高清,http://cache.ott.fifalive.itv.cmvideo.cn:80/7766420291569067385/index.m3u8?channel-id=hnbblive&Contentid=7766420291569067385&livemode=1&stbId=no
 湖南经视高清,http://[2409:8087:5011:1020::19]/180000001001/00000001000000000002000000027983/main.m3u8?IASHttpSessionId=OTT
+湖南经视高清,http://cache.ott.fifalive.itv.cmvideo.cn:80/7766420291569067385/index.m3u8?channel-id=hnbblive&Contentid=7766420291569067385&livemode=1&stbId=no
 湖南都市高清,http://[2409:8087:5011:1020::19]/180000001001/00000001000000001001000000000041/main.m3u8?IASHttpSessionId=OTT
 湖南电视剧高清,http://[2409:8087:5011:1020::19]/180000001001/00000001000000001001000000000037/main.m3u8?IASHttpSessionId=OTT
 湖南电影高清,http://[2409:8087:5011:1020::19]/180000001001/00000001000000001001000000000038/main.m3u8?IASHttpSessionId=OTT
@@ -342,7 +342,7 @@ SiTV金色学堂,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221
 金鹰卡通高清,http://cache.ott.fifalive.itv.cmvideo.cn:80/8919073838942247498/index.m3u8?channel-id=hnbblive&Contentid=8919073838942247498&livemode=1&stbId=no
 湖南国际高清,http://cache.ott.fifalive.itv.cmvideo.cn:80/5015828848322021526/index.m3u8?channel-id=hnbblive&Contentid=5015828848322021526&livemode=1&stbId=no
 金鹰纪实高清,http://cache.ott.fifalive.itv.cmvideo.cn:80/5745820929742960159/index.m3u8?channel-id=hnbblive&Contentid=5745820929742960159&livemode=1&stbId=no
-东方影视 HD[,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231639/index.m3u8
+东方影视 HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231639/index.m3u8
 上海都市 HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231618/index.m3u8
 幸福彩 HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231730/index.m3u8
 北京影视,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
