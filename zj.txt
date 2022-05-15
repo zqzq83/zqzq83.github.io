@@ -413,12 +413,12 @@ SiTV金色学堂,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221
 南昌都市 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226226/index.m3u8
 南昌资讯 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226228/index.m3u8
 南昌公共 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226231/index.m3u8
-河北卫视,http://live2.plus.hebtv.com/hbwsx/playlist.m3u8
-河北都市,http://live5.plus.hebtv.com/hbdsx/playlist.m3u8
-河北经济生活,http://live2.plus.hebtv.com/jjshx/playlist.m3u8
-河北影视剧,http://live6.plus.hebtv.com/hbysx/playlist.m3u8
-河北少儿科教,http://live6.plus.hebtv.com/sekjx/playlist.m3u8
-河北公共,http://live7.plus.hebtv.com/hbggx/playlist.m3u8
+河北农民,http://183.196.25.171:808/hls/22/index.m3u8
+河北都市,http://183.196.25.171:808/hls/18/index.m3u8
+河北经济生活,http://183.196.25.171:808/hls/17/index.m3u8
+河北影视剧,http://183.196.25.171:808/hls/19/index.m3u8
+河北少儿科教,http://183.196.25.171:808/hls/20/index.m3u8
+河北公共,http://183.196.25.171:808/hls/21/index.m3u8
 贵州2 HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225682/1/index.m3u8?fmt=ts2hls
 贵州3 HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225704/1/index.m3u8?fmt=ts2hls
 贵州4 HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225740/1/index.m3u8?fmt=ts2hls
