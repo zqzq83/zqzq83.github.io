@@ -1,4 +1,4 @@
-央视,#genre#,http://124.223.212.38:83/
+央视,#genre#,http://diyp.112114.xyz/
 CCTV1HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/42329859.smil/index.m3u8?fmt=ts2hls
 CCTV2HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/42329899.smil/index.m3u8?fmt=ts2hls
 CCTV3HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232596/341734363.smil/index.m3u8?fmt=ts2hls
