@@ -1,23 +1,23 @@
 央视,#genre#,http://diyp.112114.xyz/
-CCTV1HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/42329859.smil/index.m3u8?fmt=ts2hls
-CCTV2HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/42329899.smil/index.m3u8?fmt=ts2hls
-CCTV3HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232596/341734363.smil/index.m3u8?fmt=ts2hls
-CCTV4HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229749/114276458.smil/index.m3u8?fmt=ts2hls
-CCTV5HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232648/341733164.smil/index.m3u8?fmt=ts2hls
-CCTV6HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232599/341734307.smil/index.m3u8?fmt=ts2hls
-CCTV7HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228330/42329865.smil/index.m3u8?fmt=ts2hls
-CCTV8HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232645/341734473.smil/index.m3u8?fmt=ts2hls
-CCTV9HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228342/42329996.smil/index.m3u8?fmt=ts2hls
-CCTV10HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228327/42329895.smil/index.m3u8?fmt=ts2hls
-CCTV11HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232449/42329184.smil/index.m3u8?fmt=ts2hls
-CCTV12HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228312/42329831.smil/index.m3u8?fmt=ts2hls
-CCTV13HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231193/224624642.smil/index.m3u8?fmt=ts2hls
-CCTV14HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228335/42329999.smil/index.m3u8?fmt=ts2hls
-CCTV15HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232504/42329182.smil/index.m3u8?fmt=ts2hls
-CCTV16HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232651/index.m3u8
-CCTVNEWS,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228416/44198373.smil/index.m3u8?fmt=ts2hls
-CCTV17HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229762/117317448.smil/index.m3u8?fmt=ts2hls
-CCTV5+HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228372/42612910.smil/index.m3u8?fmt=ts2hls
+CCTV1HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228956/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230713/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228809/index.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232672/index.m3u8
+CCTV2HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230716/42330389.smil/index.m3u8?fmt=ts2hls
+CCTV3HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232596/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229878/index.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230740/index.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232660/index.m3u8
+CCTV4HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229749/42330389.smil/index.m3u8?fmt=ts2hls
+CCTV5HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228965/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229687/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232648/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228645/index.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232669/index.m3u8
+CCTV6HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232599/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229870/index.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230685/index.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232663/index.m3u8
+CCTV7HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228330/42330389.smil/index.m3u8?fmt=ts2hls
+CCTV8HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232645/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232635/index.m3u8
+CCTV9HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228342/42330389.smil/index.m3u8?fmt=ts2hls
+CCTV10HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228327/42330389.smil/index.m3u8?fmt=ts2hls
+CCTV11HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232449/42330389.smil/index.m3u8?fmt=ts2hls
+CCTV12HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228312/42330389.smil/index.m3u8?fmt=ts2hls
+CCTV13HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230877/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231193/42330389.smil/index.m3u8?fmt=ts2hls
+CCTV14HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228335/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230701/42330389.smil/index.m3u8?fmt=ts2hls
+CCTV15HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230658/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232504/42330389.smil/index.m3u8?fmt=ts2hls
+CCTV16HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232705/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232608/index.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232651/index.m3u8
+CCTV17HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229765/index.m3u8
+CCTV5+HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229684/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228822/index.m3u8
+CCTV高尔夫·网球HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/42330389.smil/index.m3u8?fmt=ts2hls
 CCTV4欧洲 HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/1/index.m3u8?fmt=ts2hls
 CCTV4美洲 HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226300/1/index.m3u8?fmt=ts2hls
 CCTV4K HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8
@@ -37,39 +37,42 @@ CCTV高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/322122611
 中国教育-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230334/index.m3u8
 
 卫视,#genre#
-湖南卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228336/42329937.smil/index.m3u8?fmt=ts2hls
-浙江卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228324/42330389.smil/index.m3u8?fmt=ts2hls
-东方卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228354/42329929.smil/index.m3u8?fmt=ts2hls
-江苏卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228351/42329921.smil/index.m3u8?fmt=ts2hls
-北京卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228321/42329925.smil/index.m3u8?fmt=ts2hls
-深圳卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228314/42329941.smil/index.m3u8?fmt=ts2hls
-广东卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228329/42329945.smil/index.m3u8?fmt=ts2hls
-天津卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228320/42329956.smil/index.m3u8?fmt=ts2hls
-山东卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228308/42329957.smil/index.m3u8?fmt=ts2hls
-湖北卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228357/42329887.smil/index.m3u8?fmt=ts2hls
-黑龙江卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228302/42329917.smil/index.m3u8?fmt=ts2hls
-重庆卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232642/341733166.smil/index.m3u8?fmt=ts2hls
-辽宁卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228317/42329987.smil/index.m3u8?fmt=ts2hls
-安徽卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228332/42329873.smil/index.m3u8?fmt=ts2hls
-江西卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228293/42329843.smil/index.m3u8?fmt=ts2hls
-四川卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231298/236035585.smil/index.m3u8?fmt=ts2hls
-东南卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231261/235855022.smil/index.m3u8?fmt=ts2hls
-广西卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231292/235855143.smil/index.m3u8?fmt=ts2hls
-河北卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231270/235855194.smil/index.m3u8?fmt=ts2hls
-吉林卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231289/235855024.smil/index.m3u8?fmt=ts2hls
-海南卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232687/42329198.smil/index.m3u8?fmt=ts2hls
-山西卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228291/42329192.smil/index.m3u8?fmt=ts2hls
-陕西卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228272/42329208.smil/index.m3u8?fmt=ts2hls
-兵团卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228419/44198443.smil/index.m3u8?fmt=ts2hls
-贵州卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231267/235855087.smil/index.m3u8?fmt=ts2hls
-青海卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228287/42329203.smil/index.m3u8?fmt=ts2hls
-河南卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231264/235855023.smil/index.m3u8?fmt=ts2hls
-宁夏卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228284/42329159.smil/index.m3u8?fmt=ts2hls
-甘肃卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228288/42329156.smil/index.m3u8?fmt=ts2hls
-内蒙古卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228339/42329883.smil/index.m3u8?fmt=ts2hls
-新疆卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228326/42329879.smil/index.m3u8?fmt=ts2hls
-西藏卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228345/42330007.smil/index.m3u8?fmt=ts2hls
-云南卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228303/42329168.smil/index.m3u8?fmt=ts2hls
+湖南卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228336/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230695/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232638/index.m3u8
+浙江卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228324/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228837/index.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230035/index.m3u8
+江苏卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228351/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230698/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228821/index.m3u8
+东方卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228354/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230689/42330389.smil/index.m3u8?fmt=ts2hls
+北京卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228321/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230704/42330389.smil/index.m3u8?fmt=ts2hls
+安徽卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228332/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230707/42330389.smil/index.m3u8?fmt=ts2hls
+山东卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228308/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230652/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228834/index.m3u8
+湖北卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228357/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230670/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228815/index.m3u8
+深圳卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228314/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230676/42330389.smil/index.m3u8?fmt=ts2hls
+广东卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228329/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230661/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228812/index.m3u8
+天津卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228320/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228818/index.m3u8
+黑龙江卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228302/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230710/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228827/index.m3u8
+重庆卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232642/42330389.smil/index.m3u8?fmt=ts2hls
+海南卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232687/42330389.smil/index.m3u8?fmt=ts2hls
+江西卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230667/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232641/index.m3u8
+辽宁卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230692/42330389.smil/index.m3u8?fmt=ts2hls
+东南卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231261/42330389.smil/index.m3u8?fmt=ts2hls
+河南卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231264/42330389.smil/index.m3u8?fmt=ts2hls
+贵州卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231267/42330389.smil/index.m3u8?fmt=ts2hls
+河北卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231270/42330389.smil/index.m3u8?fmt=ts2hls
+吉林卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231289/42330389.smil/index.m3u8?fmt=ts2hls
+广西卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231292/42330389.smil/index.m3u8?fmt=ts2hls
+四川卫视HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231298/42330389.smil/index.m3u8?fmt=ts2hls
+东南卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228269/42330389.smil/index.m3u8?fmt=ts2hls
+陕西卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228272/42330389.smil/index.m3u8?fmt=ts2hls
+宁夏卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228284/42330389.smil/index.m3u8?fmt=ts2hls
+青海卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228287/42330389.smil/index.m3u8?fmt=ts2hls
+甘肃卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228288/42330389.smil/index.m3u8?fmt=ts2hls
+山西卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228291/42330389.smil/index.m3u8?fmt=ts2hls
+贵州卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228300/42330389.smil/index.m3u8?fmt=ts2hls
+云南卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228303/42330389.smil/index.m3u8?fmt=ts2hls
+河南卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228309/42330389.smil/index.m3u8?fmt=ts2hls
+新疆卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228326/42330389.smil/index.m3u8?fmt=ts2hls
+兵团卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228419/42330389.smil/index.m3u8?fmt=ts2hls
+内蒙古卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228339/42330389.smil/index.m3u8?fmt=ts2hls
+西藏卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228345/42330389.smil/index.m3u8?fmt=ts2hls
 凤凰卫视资讯台,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
 凤凰卫视中文台,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
 凤凰卫视中文台,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -328,7 +331,8 @@ MIGU武侠剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231763/in
 海看剧场,http://39.136.48.19:8089/PLTV/88888888/224/3221226053/index.m3u8
 精彩综艺 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
 精彩电视剧 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-
+都市剧场HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/42330389.smil/index.m3u8?fmt=ts2hls
+游戏风云HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229320/42330389.smil/index.m3u8?fmt=ts2hls
 
 其他省市,#genre#
 山东齐鲁,http://39.136.48.2:8089/PLTV/88888888/224/3221226045/index.m3u8
@@ -504,7 +508,7 @@ SiTV欢笑剧场 11M2160,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009
 CCTV16 26M2160,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/index.m3u8?fmt=ts2hls
 4K电影 16M2160,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=no
 
-其他,#genre#
+备用,#genre#
 
 华数服务高清,http://125.210.152.19:9090/live/hzgq-hsfwgq-h264.m3u8
 求索记录,http://125.210.152.19:9090/live/hzgq-qsjlgq-h264.m3u8
