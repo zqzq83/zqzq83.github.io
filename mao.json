@@ -1,11 +1,21 @@
 {
 "sites": [
 {"key": "csp_77","name": "七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"kmys_spider","name":"酷猫(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"epang_spider","name":"阿房(SP)","type":3,"api":"csp_EPangApp","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"sd_spider","name":"闪电(SP)","type":3,"api":"csp_Sd","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"ikan_spider","name":"爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"mjxq_spider","name":"美剧星球(SP)","type":3,"api":"csp_MjxqApp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_lezhutv","name":"乐猪TV(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/lezhutv.json"},
 {"key":"csp_xpath_lib","name":"LIBVIO(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/lib.json"},
 {"key":"csp_xpath_ddg","name":"达达龟(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/dadagui.json"},
 {"key":"csp_xpath_jbb","name":"剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/jubaibai.json"},
 {"key":"csp_appysv2_迪迪","name":"迪迪(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/"},
+{"key":"csp_AppYsV2_超级剧场","name":"超级剧场〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ytys3456.com/mogai_api.php/v1.vod"},
+{"key":"csp_AppYsV2_超级电影","name":"超级电影〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://qqtvapp.com/xgapp.php/v1/"},
+{"key":"csp_appysv2_益达影院","name":"益达影院〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"http://luobu.yss6080.com/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_迪迪影视","name":"迪迪影视〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/"},
+{"key":"csp_appysv2_手指影视","name":"手指影视〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"https://szys5678.com/mogai_api.php/v1.vod"},
 {
       "key": "在线之家",
       "name": "在线之家",
@@ -36,16 +46,6 @@
       "filterable": 1,
       "ext": "https://tangsan99999.github.io/sub/xpath/Gimy.json"
  },
-{
-      "key": "乐猪TV",
-      "name": "乐猪TV",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://tangsan99999.github.io/sub/xpath/lezhutv.json"
-},
  {
       "key": "Age动漫",
       "name": "Age动漫",
