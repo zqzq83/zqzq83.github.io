@@ -120,11 +120,6 @@ NNM游戏竞技,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226162/1/
 浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 浙江经视,http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-杭州综合,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
-杭州西湖明珠,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
-杭州生活,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
-杭州影视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
-杭州少儿体育,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
 杭州综合,http://125.210.152.19:9090/live/hzgq-hzzhgq-h264.m3u8
 杭州西湖明珠,http://125.210.152.19:9090/live/hzgq-xhmzgq-h264.m3u8
 杭州生活,http://125.210.152.19:9090/live/hzgq-hzshgq-h264.m3u8
@@ -239,44 +234,6 @@ Y+频道HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1
 中国功夫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229663/index.m3u8
 潮妈辣婆,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229725/index.m3u8
 炫舞未来,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229669/index.m3u8
-MIGU喜剧联盟,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231621/index.m3u8
-MIGU古天乐影院,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231645/index.m3u8
-MIGU成龙作品集,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231687/index.m3u8
-MIGU郭富城影院,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231688/index.m3u8
-MIGU张国荣影院,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231790/index.m3u8
-MIGU高分影院,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231699/index.m3u8
-MIGU周润发影院,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231709/index.m3u8
-MIGU怀旧老片,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231513/index.m3u8
-MIGU周星驰影院,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231562/index.m3u8
-MIGU午夜失眠剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231516/index.m3u8
-MIGU吴京作品集,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231564/index.m3u8
-MIGU云上电影院,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231565/index.m3u8
-MIGU每日科幻电影,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231568/index.m3u8
-MIGU葛优作品集,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231754/index.m3u8
-MIGU刘德华影院,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231757/index.m3u8
-MIGU僵尸剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231742/index.m3u8
-MIGU刘亦菲影视展播,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231787/index.m3u8
-MIGUTVB剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231733/index.m3u8
-MIGU金庸频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231477/index.m3u8
-MIGU新片放映厅,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231640/index.m3u8
-MIGU盗墓方法论,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231652/index.m3u8
-MIGU试胆大会,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231672/index.m3u8
-MIGU高能烧脑时刻,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231504/index.m3u8
-MIGU杨幂作品集,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231556/index.m3u8
-MIGU综艺,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231624/index.m3u8
-MIGU爱情公寓,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231583/index.m3u8
-MIGU军旅剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231585/index.m3u8
-MIGU动画,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231622/index.m3u8
-MIGU红色谍战剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231627/index.m3u8
-MIGU少林剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231628/index.m3u8
-MIGU神探狄仁杰,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231634/index.m3u8
-MIGU黄金剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231637/index.m3u8
-MIGU追剧少女,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231643/index.m3u8
-MIGU古龙作品集,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231657/index.m3u8
-MIGU经典贺岁片,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231679/index.m3u8
-MIGU24小时体育,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231778/index.m3u8
-MIGU每日荐影,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231727/index.m3u8
-MIGU武侠剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231763/index.m3u8
 百视通轮播(谍战) HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227045/index.m3u8?servicetype=1
 百视通轮播(科幻) HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227037/index.m3u8?servicetype=1
 百视通轮播1 HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227134/index.m3u8?servicetype=1
@@ -502,7 +459,6 @@ CCTV4 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/inde
 深圳卫视 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 安徽卫视 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
 黑龙江卫视 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
-SiTV欢笑剧场 2160P,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230739/index.m3u8
 CCTV4K 16M2160,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
 CCTV16 25M2160,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
 纯享4K 20M2160,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
@@ -523,8 +479,8 @@ CCTV2,http://125.210.152.19:9090/live/hzgq-cctv2gq-h264.m3u8
 CCTV3,http://125.210.152.19:9090/live/hzgq-cctv3gq-h264.m3u8
 CCTV4,http://125.210.152.19:9090/live/hzgq-cctv4gq-h264.m3u8
 CCTV5,http://125.210.152.19:9090/live/hzgq-cctv5gq-h264.m3u8
+CCTV5+,http://125.210.152.19:9090/live/hzgq-cctvzhgq-h264.m3u8
 CCTV6,http://125.210.152.19:9090/live/hzgq-cctv6gq-h264.m3u8
-CCTV5,http://125.210.152.19:9090/live/hzgq-cctvzhgq-h264.m3u8
 CCTV7,http://125.210.152.19:9090/live/hzgq-cctv7gq-h264.m3u8
 CCTV8,http://125.210.152.19:9090/live/hzgq-cctv8gq-h264.m3u8
 CCTV9,http://125.210.152.19:9090/live/hzgq-cctvjlgq-h264.m3u8
