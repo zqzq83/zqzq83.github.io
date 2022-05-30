@@ -405,12 +405,6 @@ SiTV金色学堂,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221
 四川科教 高清,http://[2409:8c28:203:303::31]/live.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8
 四川乡村 高清,http://[2409:8c28:203:303::31]/live.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8
 四川峨嵋电影 高清,http://[2409:8c28:203:303::31]/live.rxip.sc96655.com/live/emdygqH265_4000.m3u8
-黑龙江公共农业 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226050/index.m3u8
-黑龙江新闻法治 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226093/index.m3u8
-黑龙江少儿 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226070/index.m3u8
-黑龙江影视 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226061/index.m3u8
-黑龙江文体 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226044/index.m3u8
-哈尔滨影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8
 陕西体育休闲,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西公共,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西影视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001730/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
