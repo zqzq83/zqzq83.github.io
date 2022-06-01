@@ -21,18 +21,20 @@ CCTV高尔夫·网球HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224
 CCTV4欧洲 HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/1/index.m3u8?fmt=ts2hls
 CCTV4美洲 HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226300/1/index.m3u8?fmt=ts2hls
 CCTV4K HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8
-CCTV世界地理,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
-CCTV兵器科技,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
-CCTV央视台球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
-CCTV女性时尚,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
-CCTV怀旧剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
-CCTV文化精品,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
-CCTV电视指南,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
-CCTV第一剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
-CCTV风云剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
-CCTV风云足球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
-CCTV风云音乐,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
-CCTV高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
+CCTV4K超高清,http://111.6.244.110/tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
+CCTV怀旧剧场,http://111.6.244.110/tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+CCTV高尔夫网球,http://111.6.244.110/tlivectfree-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+CCTV世界地理,http://111.6.244.110/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+CCTV兵器科技,http://111.6.244.110/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+CCTV卫生健康,http://111.6.244.110/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
+CCTV风云剧场,http://111.6.244.110/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
+CCTV央视台球,http://111.6.244.110/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
+CCTV央视文化精品,http://111.6.244.110/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
+CCTV女性时尚,http://111.6.244.110/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
+CCTV电视指南,http://111.6.244.110/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
+CCTV风云音乐,http://111.6.244.110/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+CCTV风云足球,http://111.6.244.110/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+CCTV第一剧场,http://111.6.244.110/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514402.m3u8
 中国教育-1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228285/42329224.smil/index.m3u8?fmt=ts2hls
 中国教育-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230334/index.m3u8
 
@@ -191,7 +193,6 @@ CBN-风尚生活 高清,http://[2409:8c28:203:303::31]/live.rxip.sc96655.com/liv
 求索生活 HD,http://39.134.67.138/PLTV/88888888/224/3221225715/index.m3u8
 求索科学 HD,http://39.134.67.200/PLTV/88888888/224/3221225728/index.m3u8
 求索纪录 HD,http://39.134.67.200/PLTV/88888888/224/3221225713/index.m3u8
-影视剧场轮播,http://112.25.47.24/gitv_live/GITV-JS-1/GITV-JS-1.m3u8
 Y+频道HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/133380193.smil/index.m3u8?fmt=ts2hls
 爱院线HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/133451219.smil/index.m3u8?fmt=ts2hls
 爱喜剧HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/133451466.smil/index.m3u8?fmt=ts2hls
