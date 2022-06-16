@@ -203,6 +203,8 @@ Y+频道HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1
 爱美食HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8
 爱旅行HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
 爱赛车HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
+国外电影,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233632/index.m3u8
+国外电视剧,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233646/index.m3u8
 少儿动漫HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/42613922.smil/index.m3u8?fmt=ts2hls
 欧美影院HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/42613784.smil/index.m3u8?fmt=ts2hls
 亚洲影院HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/42613673.smil/index.m3u8?fmt=ts2hls
