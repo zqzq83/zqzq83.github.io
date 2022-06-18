@@ -120,6 +120,11 @@ NNM游戏竞技,http://[2409:8087:6a01:1020::7]/cdnrrs.gz.chinamobile.com/PLTV/8
 浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 浙江经视,http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+杭州综合,http://112.17.40.247/PLTV/88888888/224/3221229307/index.m3u8
+杭州西湖明珠,http://112.17.40.247/PLTV/88888888/224/3221229310/index.m3u8
+杭州生活,http://112.17.40.247/PLTV/88888888/224/3221229313/index.m3u8
+杭州影视,http://112.17.40.247/PLTV/88888888/224/3221229377/index.m3u8
+杭州少儿体育,http://112.17.40.247/PLTV/88888888/224/3221229316/index.m3u8
 杭州综合,http://125.210.152.19:9090/live/hzgq-hzzhgq-h264.m3u8
 杭州西湖明珠,http://125.210.152.19:9090/live/hzgq-xhmzgq-h264.m3u8
 杭州生活,http://125.210.152.19:9090/live/hzgq-hzshgq-h264.m3u8
