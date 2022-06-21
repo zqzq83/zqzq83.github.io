@@ -95,7 +95,7 @@ CCTV央视台球HD,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLT
 
 重庆汽摩,http://[2409:8087:6a01:1020::7]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225736/1/index.m3u8?fmt=ts2hls
 江苏靓装,http://[2409:8087:6a01:1020::7]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225680/1/index.m3u8?fmt=ts2hls
-江苏财富天下,http://[2409:8087:6a01:1020::7c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226145/1/index.m3u8?fmt=ts2hls
+江苏财富天下,http://[2409:8087:6a01:1020::7]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226145/1/index.m3u8?fmt=ts2hls
 摄影频道,http://[2409:8087:6a01:1020::7]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225683/1/index.m3u8?fmt=ts2hls
 国学频道,http://[2409:8087:6a01:1020::7]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225692/1/index.m3u8?fmt=ts2hls
 天元围棋,http://[2409:8087:6a01:1020::7]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225714/1/index.m3u8?fmt=ts2hls
