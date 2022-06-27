@@ -240,11 +240,6 @@ Y+频道HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1
 中国功夫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229663/index.m3u8
 潮妈辣婆,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229725/index.m3u8
 炫舞未来,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229669/index.m3u8
-百视通轮播(谍战) HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227045/index.m3u8?servicetype=1
-百视通轮播(科幻) HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227037/index.m3u8?servicetype=1
-百视通轮播1 HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227134/index.m3u8?servicetype=1
-百视通轮播2 HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227036/index.m3u8?servicetype=1
-百视通轮播3 HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227130/index.m3u8?servicetype=1
 影视1 HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226741/index.m3u8?servicetype=1
 影视2 HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226736/index.m3u8?servicetype=1
 影视3 HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
@@ -254,13 +249,7 @@ Y+频道HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1
 影视7 HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226743/index.m3u8?servicetype=1
 影视8 HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
 影视9 HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225893/index.m3u8?servicetype=1
-百视通轮播(纪录) 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227048/index.m3u8?servicetype=1
-百视通轮播(港剧) 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226991/index.m3u8?servicetype=1
-百视通轮播(棋牌) 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227041/index.m3u8?servicetype=1
-百视通轮播(运动) 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227044/index.m3u8?servicetype=1
-百视通轮播(演出) 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227049/index.m3u8?servicetype=1
-百视通轮播(动画) 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227053/index.m3u8?servicetype=1
-百视通轮播(电影) 576,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227032/index.m3u8?servicetype=1
+精彩影视 HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=no
 爱电竞HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=no
 爱谍战HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=no
 爱动漫HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=no
@@ -301,6 +290,8 @@ IPTV古装剧场,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001
 IPTV家庭剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000011/main.m3u8?IASHttpSessionId=OTT
 IPTV经典剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000012/main.m3u8?IASHttpSessionId=OTT
 IPTV抗战剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000007/main.m3u8?IASHttpSessionId=OTT
+古装剧场 电信IPTV,http://61.130.72.18:8888/tsfile/live/1006_1.m3u8
+动作影院 电信IPTV,http://61.130.72.18:8888/tsfile/live/1005_1.m3u8
 
 其他省市,#genre#
 山东齐鲁,http://39.136.48.2:8089/PLTV/88888888/224/3221226045/index.m3u8
