@@ -309,8 +309,14 @@ IPTV古装剧场,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001
 IPTV家庭剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000011/main.m3u8?IASHttpSessionId=OTT
 IPTV经典剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000012/main.m3u8?IASHttpSessionId=OTT
 IPTV抗战剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000007/main.m3u8?IASHttpSessionId=OTT
+海豚影视高清,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMThtys/index.m3u8
+海豚健康高清,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMThtjk/index.m3u8
+海豚生活高清,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/pltv-htsh/.m3u8
+海豚少儿高清,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMThtse/index.m3u8
+睛彩安徽高清,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTjcah/index.m3u8
 古装剧场 电信IPTV,http://61.130.72.18:8888/tsfile/live/1006_1.m3u8
 动作影院 电信IPTV,http://61.130.72.18:8888/tsfile/live/1005_1.m3u8
+
 
 其他省市,#genre#
 山东齐鲁,http://39.136.48.2:8089/PLTV/88888888/224/3221226045/index.m3u8
@@ -425,6 +431,11 @@ SiTV金色学堂,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221
 陕西生活,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001729/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西西部电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西都市青春,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+黑龙江少儿,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
+黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+黑龙江都市,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225990/index.m3u
+黑龙江公共,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8
 福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 
