@@ -150,11 +150,11 @@ IPTV相声小品 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212263
 杭州影视,http://125.210.152.19:9090/live/hzgq-hzysgq-h264.m3u8
 杭州导视,http://125.210.152.19:9090/live/hzgq-hzdsgq-h264.m3u8
 衢州新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233755/index.m3u8?fmt=ts2hls
-衢州新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233743/index.m3u8?fmt=ts2hls
-衢州经济信息,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233751/index.m3u8?fmt=ts2hls
+衢州新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233743/index.m3u8
+衢州经济信息,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233751/index.m3u8
 衢州经济信息,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233760/index.m3u8?fmt=ts2hls
 衢州公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233752/index.m3u8?fmt=ts2hls
-衢州公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233748/index.m3u8?fmt=ts2hls
+衢州公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233748/index.m3u8
 开化新闻综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
 开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
