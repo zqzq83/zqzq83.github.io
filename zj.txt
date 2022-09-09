@@ -357,14 +357,7 @@ SiTV金色学堂,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221
 东方影视 HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231639/index.m3u8
 上海都市 HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231618/index.m3u8
 幸福彩 HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231730/index.m3u8
-北京影视,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
-北京新闻,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
-北京生活,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
-北京财经,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8
-北京青年,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
-卡酷少儿,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
-北京文艺,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
-北京科教,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
+
 江苏城市, https://litchiapp-hls.jstv.com/lizhiapp/jscs.m3u8
 江苏综艺,https://litchiapp-hls.jstv.com/lizhiapp/jszy.m3u8
 江苏影视,https://litchiapp-hls.jstv.com/lizhiapp/jsys.m3u8
@@ -376,11 +369,7 @@ SiTV金色学堂,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221
 好享购物,https://litchiapp-hls.jstv.com/lizhiapp/hxgw.m3u8
 江苏公共新闻,https://litchiapp-hls.jstv.com/lizhiapp/jsgg.m3u8
 江苏体育休闲,https://litchiapp-hls.jstv.com/lizhiapp/jsty.m3u8
-安徽经济高清,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTah_jjhd/1.m3u8
-安徽影视高清,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTah_yshd/1.m3u8
-安徽农科高清,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTah_kjhd/1.m3u8
-安徽综艺高清,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTah_zyhd/1.m3u8
-安徽公共高清,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTah_gghd/1.m3u8
+
 江西少儿 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls
 江西教育 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
 江西新闻 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls
