@@ -214,7 +214,12 @@ CBN-幸福剧场 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live
 CBN-每日影院 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live/mryy_4000.m3u8
 CBN-幸福娱乐 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live/xfyl_4000.m3u8
 CBN-风尚生活 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live/fssh_4000.m3u8
-
+北京IPTV4K超清,http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8
+北京IPTV淘BABY CQ,http://111.13.42.6/PLTV/88888888/224/3221226554/1.m3u8
+北京IPTV淘剧场 CQ,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
+北京IPTV淘娱乐 CQ,http://111.13.42.230/PLTV/88888888/224/3221226551/1.m3u8
+北京IPTV淘电影 CQ,http://111.13.42.234/PLTV/88888888/224/3221226552/1.m3u8
+北京IPTV萌宠TV CQ,http://111.13.42.235/PLTV/88888888/224/3221226555/1.m3u8
 求索动物 HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=no
 求索纪录 HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
 求索科学 HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=no
@@ -333,6 +338,13 @@ SiTV游戏风云 HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3
 SiTV生活时尚 HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227091/index.m3u8?servicetype=1
 SiTV都市剧场 HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227204/index.m3u8?servicetype=1
 SiTV金色学堂,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227208/index.m3u8?servicetype=1
+北京影视,http://111.13.42.234/PLTV/88888888/224/3221226486/1.m3u8
+北京科教,http://111.13.42.6/PLTV/88888888/224/3221226559/1.m3u8
+北京财经,http://111.13.42.6/PLTV/88888888/224/3221226560/1.m3u8
+北京生活,http://111.13.42.242/PLTV/88888888/224/3221226561/1.m3u8
+北京青年,http://111.13.42.242/PLTV/88888888/224/3221226562/1.m3u8
+北京新闻,http://111.13.42.235/PLTV/88888888/224/3221226437/1.m3u8
+北京文艺,http://111.13.42.238/PLTV/88888888/224/3221226440/1.m3u8
 湖南经视高清,http://[2409:8087:5011:1020::19]/180000001001/00000001000000000002000000027983/main.m3u8?IASHttpSessionId=OTT
 湖南经视高清,http://cache.ott.fifalive.itv.cmvideo.cn:80/7766420291569067385/index.m3u8?channel-id=hnbblive&Contentid=7766420291569067385&livemode=1&stbId=no
 湖南都市高清,http://[2409:8087:5011:1020::19]/180000001001/00000001000000001001000000000041/main.m3u8?IASHttpSessionId=OTT
