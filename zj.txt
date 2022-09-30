@@ -210,11 +210,10 @@ IPTV相声小品 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212263
 CHC动作电影 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CBN-幸福剧场 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live/xfjc_4000.m3u8
-CBN-每日影院 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live/mryy_4000.m3u8
-CBN-幸福娱乐 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live/xfyl_4000.m3u8
-CBN-风尚生活 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live/fssh_4000.m3u8
-北京IPTV4K超清,http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8
+CBN-幸福剧场 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live2/xfjc_4000.m3u8
+CBN-每日影院 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live2/mryy_4000.m3u8
+CBN-幸福娱乐 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live2/xfyl_4000.m3u8
+CBN-风尚生活 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live2/fssh_4000.m3u8
 北京IPTV淘BABY CQ,http://111.13.42.6/PLTV/88888888/224/3221226554/1.m3u8
 北京IPTV淘剧场 CQ,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
 北京IPTV淘娱乐 CQ,http://111.13.42.230/PLTV/88888888/224/3221226551/1.m3u8
@@ -417,14 +416,14 @@ SiTV金色学堂,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221
 南平2 HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226956/index.m3u8?servicetype=1
 宁德1 HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227196/index.m3u8?servicetype=1
 龙岩综合 HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227200/index.m3u8?servicetype=1
-四川文化旅游 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8
-四川经济 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8
-四川新闻 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8
-四川影视文艺 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live/SCTV-5-scysH265_4000.m3u8
-四川妇女儿童 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live/SCTV-7-_4000.m3u8
-四川科教 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8
-四川乡村 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8
-四川峨嵋电影 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live/emdygqH265_4000.m3u8
+四川文化旅游 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live2/SCTV-2-H265_4000.m3u8
+四川经济 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live2/SCTV-3-H265_4000.m3u8
+四川新闻 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live2/SCTV-4H265_4000.m3u8
+四川影视文艺 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live2/SCTV-5-scysH265_4000.m3u8
+四川妇女儿童 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live2/SCTV-7-_4000.m3u8
+四川科教 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live2/SCTV-ggSCTV-8_4000.m3u8
+四川乡村 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live2/SCTV-kjSCTV-9-_4000.m3u8
+四川峨嵋电影 高清,http://[2409:8c02:21c:60::2c]/live.rxip.sc96655.com/live2/emdygqH265_4000.m3u8
 陕西体育休闲,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西公共,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西影视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001730/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
