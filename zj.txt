@@ -15,8 +15,8 @@ CCTV13HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230877/423
 CCTV14HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228335/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230701/42330389.smil/index.m3u8?fmt=ts2hls
 CCTV15HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230658/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232504/42330389.smil/index.m3u8?fmt=ts2hls
 CCTV16HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232705/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232608/index.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232651/index.m3u8
-CCTV17HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229765/index.m3u8
-CCTV5+HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229684/42330389.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228822/index.m3u8
+CCTV17HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229762/117317448.smil/index.m3u8?fmt=ts2hls
+CCTV5+HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228372/42612910.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228822/index.m3u8
 CCTV4欧洲 HD,http://[2409:8087:6a01:1020::12]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/1/index.m3u8?fmt=ts2hls
 CCTV4美洲 HD,http://[2409:8087:6a01:1020::12]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226300/1/index.m3u8?fmt=ts2hls
 CCTV4K HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8
