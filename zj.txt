@@ -19,7 +19,7 @@ CCTV17HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229762/117
 CCTV5+HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228372/42612910.smil/index.m3u8?fmt=ts2hls#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228822/index.m3u8
 CCTV4欧洲 HD,http://[2409:8087:6a01:1020::12]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/1/index.m3u8?fmt=ts2hls
 CCTV4美洲 HD,http://[2409:8087:6a01:1020::12]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226300/1/index.m3u8?fmt=ts2hls
-CCTV4K HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8
+CCTV4K HD,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV兵器科技HD,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls#http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 CCTV第一剧场HD,http://[2409:8087:6a01:1020::3]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls#http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 CCTV电视指南HD,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls#http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
@@ -144,11 +144,7 @@ IPTV相声小品 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212263
 浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 浙江经视,http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-杭州综合,http://112.17.40.247/PLTV/88888888/224/3221229307/index.m3u8
-杭州西湖明珠,http://112.17.40.247/PLTV/88888888/224/3221229310/index.m3u8
-杭州生活,http://112.17.40.247/PLTV/88888888/224/3221229313/index.m3u8
-杭州影视,http://112.17.40.247/PLTV/88888888/224/3221229377/index.m3u8
-杭州少儿体育,http://112.17.40.247/PLTV/88888888/224/3221229316/index.m3u8
+
 杭州综合,http://125.210.152.20:9120/live/hzgq-hzzhgq-h264.m3u8
 杭州西湖明珠,http://125.210.152.20:9120/live/hzgq-xhmzgq-h264.m3u8
 杭州生活,http://125.210.152.20:9120/live/hzgq-hzshgq-h264.m3u8
@@ -319,6 +315,19 @@ IPTV经典剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001
 IPTV抗战剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000007/main.m3u8?IASHttpSessionId=OTT
 古装剧场 电信IPTV,http://61.130.72.18:8888/tsfile/live/1006_1.m3u8
 动作影院 电信IPTV,http://61.130.72.18:8888/tsfile/live/1005_1.m3u8
+每天影院高清,http://119.125.134.182:9901/tsfile/live/1046_1.m3u8
+幸福剧场高清,http://119.125.134.182:9901/tsfile/live/1047_1.m3u8
+CCTV-15高清,http://119.125.134.182:9901/tsfile/live/1033_1.m3u8
+
+TVB星河,http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8
+广东珠江高清,http://fyld.eatuo.com:9901/tsfile/live/1009_1.m3u8
+广东新闻,http://fyld.eatuo.com:9901/tsfile/live/1010_1.m3u8
+广东公共,http://fyld.eatuo.com:9901/tsfile/live/1011_1.m3u8
+广东体育高清,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
+广东经济科教高清,http://fyld.eatuo.com:9901/tsfile/live/1014_1.m3u8
+大湾区卫视,http://fyld.eatuo.com:9901/tsfile/live/1015_1.m3u8
+广东影视,http://fyld.eatuo.com:9901/tsfile/live/1016_1.m3u8
+广东少儿,http://fyld.eatuo.com:9901/tsfile/live/1017_1.m3u8
 
 
 其他省市,#genre#
@@ -483,6 +492,7 @@ CCTV16 26M2160,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/
 
 
 备用,#genre#
+求索记录,http://125.210.152.20:9120/live/hzgq-qsjlgq-h264.m3u8
 CCTV1,http://125.210.152.20:9120/live/hzgq-cctv1gq-h264.m3u8
 CCTV2,http://125.210.152.20:9120/live/hzgq-cctv2gq-h264.m3u8
 CCTV3,http://125.210.152.20:9120/live/hzgq-cctv3gq-h264.m3u8
@@ -522,7 +532,7 @@ CGTN,http://125.210.152.20:9120/live/hszx-cctvgj-h264.m3u8
 内蒙古卫视,http://125.210.152.20:9120/live/hszx-nmgtv-h264.m3u8
 宁夏卫视,http://125.210.152.20:9120/live/hszx-nxtv-h264.m3u8
 山东卫视,http://125.210.152.20:9120/live/hzgq-sdwsgq-h264.m3u8
-陕西卫视,http://125.210.152.20:9120/live/hszx-shanxitv-h264.m3u8
+山西卫视,http://125.210.152.20:9120/live/hszx-shanxitv-h264.m3u8
 陕西卫视,http://125.210.152.20:9120/live/hszx-sxtv-h264.m3u8
 深圳卫视,http://125.210.152.20:9120/live/hzgq-szwsgq-h264.m3u8
 天津卫视,http://125.210.152.20:9120/live/hzgq-tjwsgq-h264.m3u8
