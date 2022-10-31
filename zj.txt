@@ -312,12 +312,13 @@ IPTV古装剧场,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001
 IPTV家庭剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000011/main.m3u8?IASHttpSessionId=OTT
 IPTV经典剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000012/main.m3u8?IASHttpSessionId=OTT
 IPTV抗战剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000007/main.m3u8?IASHttpSessionId=OTT
+TVB星河国语,http://pull-l3-cny.douyincdn.com/live/8c860a24822ba54b412f649c6f30cb99.flv
 古装剧场 电信IPTV,http://61.130.72.18:8888/tsfile/live/1006_1.m3u8
 动作影院 电信IPTV,http://61.130.72.18:8888/tsfile/live/1005_1.m3u8
 每天影院高清,http://fyld.eatuo.com:9901/tsfile/live/1046_1.m3u8
 幸福剧场高清,http://fyld.eatuo.com:9901/tsfile/live/1047_1.m3u8
 CCTV-15高清,http://fyld.eatuo.com:9901/tsfile/live/1033_1.m3u8
-
+TVB新闻,http://9.zhxinda.xyz/newss.php?id=1
 TVB星河,http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8
 广东珠江高清,http://fyld.eatuo.com:9901/tsfile/live/1009_1.m3u8
 广东新闻,http://fyld.eatuo.com:9901/tsfile/live/1010_1.m3u8
