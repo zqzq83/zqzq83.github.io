@@ -211,6 +211,10 @@ CHC高清电影 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463
 北京IPTV淘娱乐 CQ,http://111.13.42.230/PLTV/88888888/224/3221226551/1.m3u8
 北京IPTV淘电影 CQ,http://111.13.42.234/PLTV/88888888/224/3221226552/1.m3u8
 北京IPTV萌宠TV CQ,http://111.13.42.235/PLTV/88888888/224/3221226555/1.m3u8
+求索动物 HD,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
+求索生活 HD,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
+求索科学 HD,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
+求索纪录 HD,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 求索动物 HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=no
 求索纪录 HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
 求索科学 HD,http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=no
@@ -375,13 +379,16 @@ SiTV金色学堂,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221
 湖南国际高清,http://cache.ott.fifalive.itv.cmvideo.cn:80/5015828848322021526/index.m3u8?channel-id=hnbblive&Contentid=5015828848322021526&livemode=1&stbId=no
 金鹰纪实高清,http://cache.ott.fifalive.itv.cmvideo.cn:80/5745820929742960159/index.m3u8?channel-id=hnbblive&Contentid=5745820929742960159&livemode=1&stbId=no
 
-
-江苏影视,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/4/224/3221227681/index.m3u8
-江苏综合,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/4/224/3221227792/index.m3u8
-苏州经济,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/4/224/3221227611/index.m3u8
-常州生活,http://[2409:8087:2001:20:2800:0:df6e:eb13]ott.mobaibox.com/PLTV/4/224/3221227902/index.m3u8
-苏州文娱,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/4/224/3221227739/index.m3u8
-苏州新闻,http://[2409:8087:2001:20:2800:0:df6e:eb0c]/ott.mobaibox.com/PLTV/4/224/3221227870/index.m3u8
+江苏城市,https://live-hls.jstv.com/livezhuzhan/jscs.m3u8?upt=9bc4860f2510710360
+江苏综艺,https://live-hls.jstv.com/livezhuzhan/jszy.m3u8?upt=c472cfa22510710360
+江苏影视,https://live-hls.jstv.com/livezhuzhan/jsys.m3u8?upt=2012408f2510710360
+江苏国际,https://live-hls.jstv.com/livezhuzhan/jsgj.m3u8?upt=624fbf672510710360
+江苏教育,https://live-hls.jstv.com/livezhuzhan/jsjy.m3u8?upt=cb7c273e2510710360
+江苏靓妆,https://live-hls.jstv.com/livezhuzhan/jslz.m3u8?upt=d9ac35c02510710360
+江苏学习,https://live-hls.jstv.com/livezhuzhan/xxpd.m3u8?upt=44cf1c9c2510710360
+优漫卡通,https://live-hls.jstv.com/livezhuzhan/ymkt.m3u8?upt=230be0e52510710360
+江苏新闻,https://live-hls.jstv.com/livezhuzhan/jsgg.m3u8?upt=4383b1d62510710360
+江苏体育,https://live-hls.jstv.com/livezhuzhan/jsty.m3u8?upt=7f5cca872510710360
 
 江西少儿 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls
 江西教育 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
@@ -389,6 +396,40 @@ SiTV金色学堂,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221
 江西经济生活 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls
 江西影视旅游,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
 江西都市,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls
+安徽经济,http://121.51.249.45/live4.ahtv.cn/jjsh1/hd/live.m3u8
+安徽影视,http://121.51.249.45/live4.ahtv.cn/yspd1/hd/live.m3u8
+安徽科教,http://121.51.249.45/live1.ahtv.cn/kjpd/hd/live.m3u8
+安徽公共,http://121.51.249.45/live1.ahtv.cn/ahgg/hd/live.m3u8
+安徽综艺,http://121.51.249.45/live4.ahtv.cn/zyty1/hd/live.m3u8
+安徽移动电视,http://121.51.249.45/live5.ahtv.cn/ydds1/hd/live.m3u8
+安徽国际,http://121.51.249.45/live5.ahtv.cn/ahgj1/hd/live.m3u8
+晴彩安徽,http://121.51.249.45/live5.ahtv.cn/jcah1/hd/live.m3u8
+
+河南公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226566/index.m3u8
+河南乡村,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226576/index.m3u8
+河南调解,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226581/index.m3u8
+河南国际,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226588/index.m3u8
+河南法治,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226724/index.m3u8
+河南都市,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226649/index.m3u8
+河南戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226628/index.m3u8
+河南移动,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226871/index.m3u8
+河南民生,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226685/index.m3u8
+河南棋牌汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226602/index.m3u8
+大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226665/index.m3u8
+梨园频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226438/index.m3u8
+文物宝库,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226638/index.m3u8
+功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
+睛彩中原,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226589/index.m3u8
+国学频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
+大象新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226677/index.m3u8
+大象新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226716/index.m3u8
+郑州1新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226618/index.m3u8
+郑州2商都,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226650/index.m3u8
+郑州3文体旅游,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226627/index.m3u8
+郑州4影视戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226645/index.m3u8
+郑州5妇女儿童,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226686/index.m3u8
+郑州6都市生活,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
+
 河北农民,https://event.pull.hebtv.com/jishi/nongminpindao.m3u8
 河北都市,https://event.pull.hebtv.com/jishi/jingjishenghuo.m3u8
 河北经济生活,https://event.pull.hebtv.com/jishi/jingjishenghuo.m3u8
@@ -419,6 +460,13 @@ SiTV金色学堂,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221
 宁德1 HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227196/index.m3u8?servicetype=1
 龙岩综合 HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227200/index.m3u8?servicetype=1
 
+四川经济,http://scgctvshow.sctv.com/hdlive/sctv28f9fb5888dedbe0c6a1b/1.m3u8
+四川文化,http://scgctvshow.sctv.com/hdlive/sctv38f9fb5888dedbe0c6a1b/1.m3u8
+四川新闻,http://scgctvshow.sctv.com/hdlive/sctv48f9fb5888dedbe0c6a1b/1.m3u8
+四川影视文艺,http://scgctvshow.sctv.com/hdlive/sctv58f9fb5888dedbe0c6a1b/1.m3u8
+四川妇女儿童,http://scgctvshow.sctv.com/hdlive/sctv78f9fb5888dedbe0c6a1b/1.m3u8
+四川乡村,http://scgctvshow.sctv.com/hdlive/sctv98f9fb5888dedbe0c6a1b/1.m3u8
+
 山东文旅,https://livealone302.iqilu.com/iqilu/yspd5555.m3u8
 山东齐鲁,https://livealone302.iqilu.com/iqilu/qlpd5555.m3u8
 山东少儿,https://livealone302.iqilu.com/iqilu/sepd5555.m3u8
@@ -436,7 +484,11 @@ SiTV金色学堂,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 黑龙江都市,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225990/index.m3u8
 黑龙江公共,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
+山西社会,http://liveflash.sxrtv.com/live/sxedu.m3u8
+山西经济,http://liveflash.sxrtv.com/live/sxfinance.m3u8
+山西公共,http://liveflash.sxrtv.com/live/sxpublic.m3u8
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8
+山西黄河,http://liveflash.sxrtv.com/live/huanghe.m3u8
 福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 
 
