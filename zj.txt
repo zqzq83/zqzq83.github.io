@@ -346,13 +346,13 @@ SiTV都市剧场 HD,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3
 SiTV金色学堂,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227208/index.m3u8?servicetype=1
 上海东方影视,http://cache.ott.fifalive.itv.cmvideo.cn:80/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=no
 上海都市,http://cache.ott.fifalive.itv.cmvideo.cn:80/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=no
-北京影视,http://111.13.42.234/PLTV/88888888/224/3221226486/1.m3u8
-北京科教,http://111.13.42.6/PLTV/88888888/224/3221226559/1.m3u8
-北京财经,http://111.13.42.6/PLTV/88888888/224/3221226560/1.m3u8
-北京生活,http://111.13.42.242/PLTV/88888888/224/3221226561/1.m3u8
-北京青年,http://111.13.42.242/PLTV/88888888/224/3221226562/1.m3u8
-北京新闻,http://111.13.42.235/PLTV/88888888/224/3221226437/1.m3u8
-北京文艺,http://111.13.42.238/PLTV/88888888/224/3221226440/1.m3u8
+北京体育,http://yfsl.vsd.gehua.net.cn/live/BTVjishiHD_6000.m3u8
+北京财经,http://live.cooltv.top/tv/btime.php?id=btvcj
+北京青年,http://live.cooltv.top/tv/btime.php?id=btvqn
+北京生活,http://live.cooltv.top/tv/btime.php?id=btvsh
+北京文艺,http://live.cooltv.top/tv/btime.php?id=btvwy
+北京新闻,http://live.cooltv.top/tv/btime.php?id=btvxw
+北京影视,http://live.cooltv.top/tv/btime.php?id=btvys
 湖南经视高清,http://[2409:8087:5011:1020::19]/180000001001/00000001000000000002000000027983/main.m3u8?IASHttpSessionId=OTT
 湖南经视高清,http://cache.ott.fifalive.itv.cmvideo.cn:80/7766420291569067385/index.m3u8?channel-id=hnbblive&Contentid=7766420291569067385&livemode=1&stbId=no
 湖南都市高清,http://[2409:8087:5011:1020::19]/180000001001/00000001000000001001000000000041/main.m3u8?IASHttpSessionId=OTT
@@ -485,7 +485,7 @@ SiTV金色学堂,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221
 山西公共,http://liveflash.sxrtv.com/live/sxpublic.m3u8
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8
 山西黄河,http://liveflash.sxrtv.com/live/huanghe.m3u8
-福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+
 
 
 
