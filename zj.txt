@@ -557,7 +557,7 @@ CCTV16 26M2160,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/
 CCTV1,http://125.210.152.20:9120/live/hzgq-cctv1gq-h264.m3u8
 CCTV2,http://125.210.152.20:9120/live/hzgq-cctv2gq-h264.m3u8
 CCTV3,http://125.210.152.20:9120/live/hzgq-cctv3gq-h264.m3u8
-CCTV4,http://125.210.152.20:9120/live/hzgq-cctv4gq-h264.m3u8
+CCTV4,http://125.210.152.19:9120/live/hzgq-cctv4gq-h264.m3u8
 CCTV5,http://125.210.152.20:9120/live/hzgq-cctv5gq-h264.m3u8
 CCTV6,http://125.210.152.20:9120/live/hzgq-cctv6gq-h264.m3u8
 CCTV5,http://125.210.152.20:9120/live/hzgq-cctvzhgq-h264.m3u8
@@ -567,9 +567,9 @@ CCTV9,http://125.210.152.20:9120/live/hzgq-cctvjlgq-h264.m3u8
 CCTV10,http://125.210.152.20:9120/live/hzgq-cctv10gq-h264.m3u8
 CCTV11,http://125.210.152.20:9120/live/hzgq-cctv11gq-h264.m3u8
 CCTV12,http://125.210.152.20:9120/live/hzgq-cctv12gq-h264.m3u8
-CCTV13,http://125.210.152.20:9120/live/hzgq-cctvnewsgq-h264.m3u8
+CCTV13,http://125.210.152.19:9120/live/hzgq-cctvnewsgq-h264.m3u8
 CCTV14,http://125.210.152.20:9120/live/hzgq-cctvsegq-h264.m3u8
-CCTV15,http://125.210.152.20:9120/live/hzgq-cctvmusicgq-h264.m3u8
+CCTV15,http://125.210.152.19:9120/live/hzgq-cctvmusicgq-h264.m3u8
 CCTV16,http://125.210.152.20:9120/live/hzgq-cctv16gq-h264.m3u8
 CCTV17,http://125.210.152.20:9120/live/hzgq-cctv17gq-h264.m3u8
 CGTN,http://125.210.152.20:9120/live/hszx-cctvgj-h264.m3u8
