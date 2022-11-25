@@ -35,34 +35,34 @@ CCTV16HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232651/ind
 CCTV17HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229762/index.m3u8?fmt=ts2hls
 CCTV5+HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228372/index.m3u8?fmt=ts2hls
 CCTV5+HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228822/index.m3u8
-CCTV4欧洲 HD,http://[2409:8087:6a01:1020::12]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/1/index.m3u8?fmt=ts2hls
-CCTV4美洲 HD,http://[2409:8087:6a01:1020::12]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226300/1/index.m3u8?fmt=ts2hls
-CCTV4K HD,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CCTV兵器科技HD,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
-CCTV兵器科技HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-CCTV第一剧场HD,http://[2409:8087:6a01:1020::3]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
-CCTV第一剧场HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-CCTV电视指南HD,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
-CCTV电视指南HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-CCTV风云剧场HD,http://[2409:8087:6a01:1020::3]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
-CCTV风云剧场HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-CCTV风云音乐HD,http://[2409:8087:6a01:1020::8]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
-CCTV风云音乐HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-CCTV风云足球HD,http://[2409:8087:6a01:1020::3]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
-CCTV风云足球HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-CCTV高尔夫网球HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/index.m3u8?fmt=ts2hls
-CCTV高尔夫网球HD,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?
-CCTV高尔夫网球HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-CCTV怀旧剧场HD,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
-CCTV怀旧剧场HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-CCTV女性时尚HD,http://[2409:8087:6a01:1020::3]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
-CCTV女性时尚HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-CCTV世界地理HD,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
-CCTV世界地理HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
-CCTV文化精品HD,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
-CCTV文化精品HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-CCTV央视台球HD,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
-CCTV央视台球HD,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+CCTV4欧洲,http://[2409:8087:6a01:1020::12]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/1/index.m3u8?fmt=ts2hls
+CCTV4美洲,http://[2409:8087:6a01:1020::12]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226300/1/index.m3u8?fmt=ts2hls
+CCTV 4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV兵器科技,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
+CCTV兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+CCTV第一剧场,http://[2409:8087:6a01:1020::3]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
+CCTV第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+CCTV电视指南,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
+CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+CCTV风云剧场,http://[2409:8087:6a01:1020::3]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
+CCTV风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+CCTV风云音乐,http://[2409:8087:6a01:1020::8]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
+CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+CCTV风云足球,http://[2409:8087:6a01:1020::3]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
+CCTV风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+CCTV高尔夫网球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/index.m3u8?fmt=ts2hls
+CCTV高尔夫网球,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?
+CCTV高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+CCTV怀旧剧场,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
+CCTV怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+CCTV女性时尚,http://[2409:8087:6a01:1020::3]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
+CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+CCTV世界地理,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
+CCTV世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+CCTV文化精品,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
+CCTV文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+CCTV央视台球,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
+CCTV央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 中国教育-1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228285/index.m3u8?fmt=ts2hls
 中国教育-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230334/index.m3u8
 中国教育-2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
@@ -178,23 +178,7 @@ IPTV相声小品 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212263
 浙江少儿,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/index.m3u8?fmt=ts2hls
 浙江经视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233008/index.m3u8?fmt=ts2hls
 浙江民生休闲,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232996/index.m3u8?fmt=ts2hls
-浙江新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233049/index.m3u8?fmt=ts2hls
-
-浙江教科影视,http://125.210.152.20:9120/live/hzgq-zjjygq-h264.m3u8
-浙江钱江频道,http://125.210.152.20:9120/live/hzgq-qjpdgq-h264.m3u8
-浙江少儿,http://125.210.152.20:9120/live/hzgq-zjsegq-h264.m3u8
-浙江经视,http://125.210.152.20:9120/live/hzgq-zjjsgq-h264.m3u8
-浙江民生休闲,http://125.210.152.20:9120/live/hzgq-msxxgq-h264.m3u8
-浙江新闻,http://125.210.152.20:9120/live/hzgq-zjnewsgq-h264.m3u8
-浙江卫视,http://125.210.152.20:9120/live/hzgq-zjwsgq-h264.m3u8
-浙江英语新闻,http://hw-m-l.cztv.com/channels/lantian/channel14/1080p.m3u8
-浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
-浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
-浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-浙江经视,http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+浙江新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/index.m3u8?fmt=ts2hls
 
 杭州综合,http://125.210.152.19:9120/live/hzgq-hzzhgq-h264.m3u8
 杭州西湖明珠,http://125.210.152.19:9120/live/hzgq-xhmzgq-h264.m3u8
@@ -202,12 +186,12 @@ IPTV相声小品 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212263
 杭州少儿体育,http://125.210.19.20:9120/live/hzgq-hzsegq-h264.m3u8
 杭州影视,http://125.210.152.19:9120/live/hzgq-hzysgq-h264.m3u8
 杭州导视,http://125.210.152.19:9120/live/hzgq-hzdsgq-h264.m3u8
-衢州新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233755/index.m3u8?fmt=ts2hls
-衢州新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233743/index.m3u8
-衢州经济信息,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233751/index.m3u8
-衢州经济信息,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233760/index.m3u8?fmt=ts2hls
 衢州公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233752/index.m3u8?fmt=ts2hls
-衢州公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233748/index.m3u8
+衢州综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233755/index.m3u8?fmt=ts2hls
+衢州经济,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233760/index.m3u8?fmt=ts2hls
+湖州公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233785/index.m3u8?fmt=ts2hls
+湖州综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233787/index.m3u8?fmt=ts2hls
+湖州文化,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233790/index.m3u8?fmt=ts2hls
 开化新闻综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
 开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
@@ -628,6 +612,11 @@ CCTV16 26M,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/inde
 
 
 备用,#genre#
+浙江教育科技,http://125.210.152.19:9120/live/hzgq-zjjygq-h264.m3u8
+浙江钱江频道,http://125.210.152.19:9120/live/hzgq-qjpdgq-h264.m3u8
+浙江少儿,http://125.210.152.19:9120/live/hzgq-zjsegq-h264.m3u8
+浙江经视,http://125.210.152.19:9120/live/hzgq-zjjsgq-h264.m3u8
+浙江民生休闲,http://125.210.152.19:9120/live/hzgq-msxxgq-h264.m3u8
 华数服务高清,http://125.210.152.19:9120/live/hzgq-hsfwgq-h264.m3u8
 求索记录,http://125.210.152.19:9120/live/hzgq-qsjlgq-h264.m3u8
 CCTV1,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
