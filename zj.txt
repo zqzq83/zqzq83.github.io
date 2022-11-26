@@ -614,13 +614,12 @@ SiTV金色学堂,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/322
 咪咕视频32,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230367/index.m3u8
 咪咕视频33,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230368/index.m3u8
 咪咕视频34,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230370/index.m3u8
-咪咕视频45,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230371/index.m3u8
-咪咕视频35,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230373/index.m3u8
+咪咕视频35,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230371/index.m3u8
 咪咕视频36,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230374/index.m3u8
 咪咕视频37,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230376/index.m3u8
 咪咕视频38,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230377/index.m3u8
-咪咕视频39,http:///hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230379/index.m3u8
-咪咕视频40,http:///hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230380/index.m3u8
+咪咕视频39,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230379/index.m3u8
+咪咕视频40,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230380/index.m3u8
 咪咕视频41,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232765/index.m3u8
 咪咕视频42,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232768/index.m3u8
 咪咕视频43,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232773/index.m3u8
@@ -628,7 +627,7 @@ SiTV金色学堂,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/322
 咪咕体育5,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234114/index.m3u8
 咪咕体育6,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234117/index.m3u8
 咪咕体育8,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234129/index.m3u8?fmt=ts2hls
-
+咪咕视频4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230373/index.m3u8
 影视剧,#genre#
 刘德华电影,http://epg.112114.xyz/huya/11342424
 成龙电影,http://epg.112114.xyz/huya/11342386
