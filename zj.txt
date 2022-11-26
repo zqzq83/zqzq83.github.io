@@ -314,7 +314,8 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 少儿动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/index.m3u8?fmt=ts2hls
 欧美影院,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/index.m3u8?fmt=ts2hls
 亚洲影院,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/index.m3u8?fmt=ts2hls
-探索纪实,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231385/ndex.m3u8?fmt=ts2hls
+探索纪实,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231385/index.m3u8?fmt=ts2hls
+探索纪实,http://39.134.180.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231385/ndex.m3u8?fmt=ts2hls
 精品剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231330/index.m3u8?fmt=ts2hls
 漫游世界,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/index.m3u8?fmt=ts2hls
 高清娱乐,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/index.m3u8?fmt=ts2hls
