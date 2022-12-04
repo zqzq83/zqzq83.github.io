@@ -49,7 +49,7 @@ CCTV7,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233920/index.
 CCTV8,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233932/index.m3u8
 CCTV8,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233935/index.m3u8
 CCTV9,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233913/index.m3u8
-
+CCTV13,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230877/index.m3u8?fmt=ts2hls
 CCTV4欧洲,http://[2409:8087:6a01:1020::12]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/1/index.m3u8?fmt=ts2hls
 CCTV4美洲,http://[2409:8087:6a01:1020::12]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226300/1/index.m3u8?fmt=ts2hls
 CCTV兵器科技,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
@@ -79,6 +79,7 @@ CCTV央视台球,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/
 CCTV央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 中国教育-1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228285/index.m3u8?fmt=ts2hls
 中国教育-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230334/index.m3u8
+中国教育-2,http://39.134.180.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233746/index.m3u8?fmt=ts2hls
 中国教育-2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 中国教育-3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CGTN记录,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233880/index.m3u8
@@ -209,7 +210,7 @@ IPTV相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/i
 
 浙江地方,#genre#
 浙江教科影视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233002/index.m3u8?fmt=ts2hls
-浙江钱江频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233040/index.m3u8?fmt=ts2hls
+浙江钱江频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/index.m3u8?fmt=ts2hls
 浙江少儿,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/index.m3u8?fmt=ts2hls
 浙江经视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233008/index.m3u8?fmt=ts2hls
 浙江民生休闲,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232996/index.m3u8?fmt=ts2hls
