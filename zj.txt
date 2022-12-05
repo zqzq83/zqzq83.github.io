@@ -430,6 +430,7 @@ SiTV金色学堂,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/322
 乐游,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226335/index.m3u8
 上海东方影视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=no&userToken=&usergroup=
 上海都市,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=no&userToken=&usergroup=
+上海五星体育,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=no&userToken=&usergroup=
 北京体育,http://yfsl.vsd.gehua.net.cn/live/BTVjishi_6000.m3u8
 北京财经,http://live.cooltv.top/tv/btime.php?id=btvcj
 北京青年,http://live.cooltv.top/tv/btime.php?id=btvqn
@@ -450,14 +451,7 @@ SiTV金色学堂,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/322
 湖南教育,http://[2409:8087:5011:1020::19]/180000001001/00000001000000001016000000368716/main.m3u8?IASHttpSessionId=OTT
 长沙影视,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001001000000000030/main.m3u8?IASHttpSessionId=OTT
 芒果互娱,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001025000000196970/main.m3u8?IASHttpSessionId=OTT
-湖南娱乐,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=hnbblive&Contentid=6427893650335440392&livemode=1&stbId=no&userToken=&usergroup=
-湖南都市,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=hnbblive&Contentid=4682579636905393407&livemode=1&stbId=no&userToken=&usergroup=
-湖南公共,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=hnbblive&Contentid=6307875884530512195&livemode=1&stbId=no&userToken=&usergroup=
-湖南电视剧,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=hnbblive&Contentid=8765482907954673867&livemode=1&stbId=no&userToken=&usergroup=
-湖南电影,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=hnbblive&Contentid=7884242846753128038&livemode=1&stbId=no&userToken=&usergroup=
-金鹰卡通,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=hnbblive&Contentid=8919073838942247498&livemode=1&stbId=no&userToken=&usergroup=
-湖南国际,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=hnbblive&Contentid=5015828848322021526&livemode=1&stbId=no&userToken=&usergroup=
-金鹰纪实,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=hnbblive&Contentid=5745820929742960159&livemode=1&stbId=no&userToken=&usergroup=
+
 
 
 江苏城市,https://live-hls.jstv.com/livezhuzhan/jscs.m3u8?upt=9bc4860f2510710360
@@ -477,14 +471,32 @@ SiTV金色学堂,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/322
 江西经济生活,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls
 江西影视旅游,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
 江西都市,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls
-安徽经济,http://121.51.249.45/live4.ahtv.cn/jjsh1//live.m3u8
-安徽影视,http://121.51.249.45/live4.ahtv.cn/yspd1//live.m3u8
-安徽科教,http://121.51.249.45/live1.ahtv.cn/kjpd//live.m3u8
-安徽公共,http://121.51.249.45/live1.ahtv.cn/ahgg//live.m3u8
-安徽综艺,http://121.51.249.45/live4.ahtv.cn/zyty1//live.m3u8
-安徽移动电视,http://121.51.249.45/live5.ahtv.cn/ydds1//live.m3u8
-安徽国际,http://121.51.249.45/live5.ahtv.cn/ahgj1//live.m3u8
-晴彩安徽,http://121.51.249.45/live5.ahtv.cn/jcah1//live.m3u8
+
+安徽影视,http://v2.91kds.cn/b9/ahtv1.m3u8?id=ahys&auth=rinimabi
+安徽经济,http://v2.91kds.cn/b9/ahtv1.m3u8?id=ahjj&auth=rinimabi
+安徽综艺,http://v2.91kds.cn/b9/ahtv1.m3u8?id=ahzy&auth=rinimabi
+安徽科教,http://v2.91kds.cn/b9/ahtv1.m3u8?id=ahkj&auth=rinimabi
+安徽公共,http://v2.91kds.cn/b9/ahtv1.m3u8?id=ahgg&auth=rinimabi
+安徽国际,http://v2.91kds.cn/b9/ahtv1.m3u8?id=ahgj&auth=rinimabi
+晴彩安徽,http://v2.91kds.cn/b9/ahtv1.m3u8?id=ahjc&auth=rinimabi
+
+广东经济,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs1&auth=rinimabi
+大湾区卫视,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs2&auth=rinimabi
+广东综艺,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs3&auth=rinimabi
+广东影视,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs4&auth=rinimabi
+广东少儿,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs5&auth=rinimabi
+广东移动,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdyd&auth=rinimabi
+广东体育,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdty&auth=rinimabi
+广东国际,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdgj&auth=rinimabi
+
+广东珠江,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdzj&auth=rinimabi
+广东新闻,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdxw&auth=rinimabi
+广东公共,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdgg&auth=rinimabi
+嘉佳卡通,http://v2.91kds.cn/b9/itouchtv.m3u8?id=gdjjkt&auth=rinimab
+广州综合,http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzzh&auth=rinimabi
+广州新闻,http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzxw&auth=rinimabi
+广州影视,http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzys&auth=rinimabi
+广州法治,http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzjj&auth=rinimabi
 
 河南公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226566/index.m3u8
 河南乡村,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226/index.m3u8
@@ -556,6 +568,7 @@ SiTV金色学堂,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/322
 山东农科,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdnk&auth=rinimabi
 山东文旅,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdys&auth=rinimabi
 山东少儿,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdse&auth=rinimabi
+
 
 陕西体育休闲,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西公共,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
