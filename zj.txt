@@ -552,12 +552,19 @@ SiTV金色学堂,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/322
 宁德1,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221227196/index.m3u8?servicetype=1
 龙岩综合,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221227200/index.m3u8?servicetype=1
 
-四川经济,http://scgctvshow.sctv.com/live/sctv28f9fb5888dedbe0c6a1b/1.m3u8
-四川文化,http://scgctvshow.sctv.com/live/sctv38f9fb5888dedbe0c6a1b/1.m3u8
-四川新闻,http://scgctvshow.sctv.com/live/sctv48f9fb5888dedbe0c6a1b/1.m3u8
-四川影视文艺,http://scgctvshow.sctv.com/live/sctv58f9fb5888dedbe0c6a1b/1.m3u8
-四川妇女儿童,http://scgctvshow.sctv.com/live/sctv78f9fb5888dedbe0c6a1b/1.m3u8
-四川乡村,http://scgctvshow.sctv.com/live/sctv98f9fb5888dedbe0c6a1b/1.m3u8
+四川经济,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv2&auth=rinimabi
+四川文化,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv3&auth=rinimabi
+四川新闻,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv4&auth=rinimabi
+四川影视,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv5&auth=rinimabi
+四川购物,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv6&auth=rinimabi
+四川妇女,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv7&auth=rinimabi
+四川乡村,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv9&auth=rinimabi
+成都1,http://stream.guihet.com/t/cdtv.php?id=1
+成都2,http://stream.guihet.com/t/cdtv.php?id=2
+成都3,http://stream.guihet.com/t/cdtv.php?id=3
+成都5,http://stream.guihet.com/t/cdtv.php?id=5
+成都6,http://stream.guihet.com/t/cdtv.php?id=6
+
 
 山东齐鲁,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdql&auth=rinimabi
 山东体育,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdty&auth=rinimabi
@@ -588,11 +595,11 @@ SiTV金色学堂,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/322
 山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8
 山西黄河,http://liveflash.sxrtv.com/live/huanghe.m3u8
 
-云南公共,https://hwapi.yunshicloud.com/62hdvf/227q43.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN 
-云南都市,https://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN 
-云南娱乐,https://hwapi.yunshicloud.com/62hdvf/iq8639.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN 
-云南影视,https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN  
-云南少儿,https://hwapi.yunshicloud.com/62hdvf/9ojsty.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN 
+云南公共,http://hwapi.yunshicloud.com/62hdvf/227q43.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN 
+云南都市,http://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN 
+云南娱乐,http://hwapi.yunshicloud.com/62hdvf/iq8639.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN 
+云南影视,http://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN  
+云南少儿,http://hwapi.yunshicloud.com/62hdvf/9ojsty.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN 
 
 海南公共,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
 海南经济,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000011/index.m3u8?IAS
