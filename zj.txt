@@ -589,11 +589,11 @@ SiTV金色学堂,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/322
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 黑龙江都市,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225990/index.m3u8
 黑龙江公共,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
-山西社会,http://liveflash.sxrtv.com/live/sxedu.m3u8
-山西经济,http://liveflash.sxrtv.com/live/sxfinance.m3u8
-山西公共,http://liveflash.sxrtv.com/live/sxpublic.m3u8
-山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8
-山西黄河,http://liveflash.sxrtv.com/live/huanghe.m3u8
+山西经济,http://live.cooltv.top/tv/cutv.php?id=sxjj
+山西影视,http://live.cooltv.top/tv/cutv.php?id=sxys
+山西法治,http://live.cooltv.top/tv/cutv.php?id=sxkj
+山西生活,http://live.cooltv.top/tv/cutv.php?id=sxgg
+山西黄河,http://live.cooltv.top/tv/cutv.php?id=sxhh
 
 云南公共,http://hwapi.yunshicloud.com/62hdvf/227q43.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN 
 云南都市,http://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN 
