@@ -681,6 +681,7 @@ SiTV金色学堂,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/322
 经典电视剧,http://epg.112114.xyz/douyu/7314294
 神医喜来乐,http://epg.112114.xyz/huya/11601978
 医馆笑传,http://epg.112114.xyz/huya/11352891
+蜡笔小新,https://cn-zjjh-ct-04-14.bilivideo.com/live-bvc/992644/live_415611_4082642_1500.m3u8
 蜡笔小新,http://zzy789.xyz/bili.php?id=10375360
 
 民兵葛二蛋,http://epg.112114.xyz/huya/11602072
