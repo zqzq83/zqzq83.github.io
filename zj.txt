@@ -312,11 +312,11 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 
-CBN-幸福剧场,http://159.75.85.63:5681/sxg.php?id=xfjc_4000
-CBN-每日影院,http://159.75.85.63:5681/sxg.php?id=mryy_4000
-CBN-幸福娱乐,http://159.75.85.63:5681/sxg.php?id=xfyl_4000
-CBN-风尚生活,http://159.75.85.63:5681/sxg.php?id=fssh_4000
-四川峨嵋电影,http://159.75.85.63:5681/sxg.php?id=emdygqH265_4000
+CBN-幸福剧场,https://01.zqzq83.repl.co/sxg.php?id=xfjc_4000
+CBN-每日影院,https://01.zqzq83.repl.co/sxg.php?id=mryy_4000
+CBN-幸福娱乐,https://01.zqzq83.repl.co/sxg.php?id=xfyl_4000
+CBN-风尚生活,https://01.zqzq83.repl.co/sxg.php?id=fssh_4000
+四川峨嵋电影,https://01.zqzq83.repl.co/sxg.php?id=emdygqH265_4000
 
 求索动物,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 求索生活,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
@@ -453,7 +453,7 @@ SiTV游戏风云,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/322
 SiTV生活时尚,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221227091/index.m3u8?servicetype=1
 SiTV都市剧场,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221227204/index.m3u8?servicetype=1
 SiTV金色学堂,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221227208/index.m3u8?servicetype=1
-七彩戏剧,http://[2409:8c20:9c71:120::34]/liveplay-kk.rtxapp.com/live/program/live/qcxj/1300000/mnf.m3u8
+七彩戏剧,http://[2409:8c20:9c71:120::34]/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
 新视觉,http://[2409:8c20:9c71:120::34]/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
 乐游,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226335/index.m3u8
 上海东方影视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=no&userToken=&usergroup=
