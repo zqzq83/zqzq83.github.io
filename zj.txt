@@ -238,6 +238,11 @@ IPTV相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/i
 衢州综合,http://39.134.180.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233805/index.m3u8?fmt=ts2hls
 衢州公共,http://39.134.180.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233808/index.m3u8?fmt=ts2hls
 衢州经济,http://39.134.180.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233811/index.m3u8?fmt=ts2hls
+宁波新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234397/index.m3u8?fmt=ts2hls
+宁波社会生活,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234456/index.m3u8?fmt=ts2hls
+宁波文化娱乐,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234453/index.m3u8?fmt=ts2hls
+宁波影视频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234394/index.m3u8?fmt=ts2hls
+宁波少儿频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234459/index.m3u8?fmt=ts2hls
 湖州公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233785/index.m3u8?fmt=ts2hls
 湖州综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233787/index.m3u8?fmt=ts2hls
 湖州文化,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233790/index.m3u8?fmt=ts2hls
@@ -453,8 +458,8 @@ SiTV游戏风云,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/322
 SiTV生活时尚,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221227091/index.m3u8?servicetype=1
 SiTV都市剧场,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221227204/index.m3u8?servicetype=1
 SiTV金色学堂,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221227208/index.m3u8?servicetype=1
-七彩戏剧,http://[2409:8c20:9c71:120::34]/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
-新视觉,http://[2409:8c20:9c71:120::34]/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+七彩戏剧,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=no&userToken=&usergroup=
+魅力足球,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=no&userToken=&usergroup=
 乐游,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226335/index.m3u8
 上海东方影视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=no&userToken=&usergroup=
 上海都市,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=no&userToken=&usergroup=
