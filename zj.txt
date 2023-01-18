@@ -487,6 +487,13 @@ SiTV金色学堂,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/322
 长沙影视,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001001000000000030/main.m3u8?IASHttpSessionId=OTT
 芒果互娱,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001025000000196970/main.m3u8?IASHttpSessionId=OTT
 
+湖北综合,http://lu1.cc/itv/hubtv/cjyhb.php?id=hbzh
+湖北经视,http://lu1.cc/itv/hubtv/cjyhb.php?id=hbjs
+湖北新闻,http://lu1.cc/itv/hubtv/cjyhb.php?id=hbgg
+湖北影视,http://lu1.cc/itv/hubtv/cjyhb.php?id=hbys
+湖北教育,http://lu1.cc/itv/hubtv/cjyhb.php?id=hbjy
+湖北生活,http://lu1.cc/itv/hubtv/cjyhb.php?id=hbsh
+湖北垄上,http://lu1.cc/itv/hubtv/cjyhb.php?id=hbls
 
 
 江苏城市,http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/4/224/3221225929/index.m3u8
