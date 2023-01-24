@@ -216,6 +216,12 @@ IPTV相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/i
 浙江民生休闲,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232996/index.m3u8?fmt=ts2hls
 浙江新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/index.m3u8?fmt=ts2hls
 
+杭州综合,http://125.210.152.19:9120/live/hzgq-hzzhgq-h264.m3u8
+杭州西湖明珠,http://125.210.152.19:9120/live/hzgq-xhmzgq-h264.m3u8
+杭州生活,http://125.210.152.19:9120/live/hzgq-hzshgq-h264.m3u8
+杭州少儿体育,http://125.210.152.19:9120/live/hzgq-hzsegq-h264.m3u8
+杭州影视,http://125.210.152.19:9120/live/hzgq-hzysgq-h264.m3u8
+杭州导视,http://125.210.152.19:9120/live/hzgq-hzdsgq-h264.m3u8
 杭州综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228393/index.m3u8?fmt=ts2hls
 杭州综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/index.m3u8
 杭州影视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230500/index.m3u8
@@ -225,12 +231,7 @@ IPTV相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/i
 杭州少儿体育,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/index.m3u8
 杭州房产,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230494/index.m3u8
 
-杭州综合,http://125.210.152.19:9120/live/hzgq-hzzhgq-h264.m3u8
-杭州西湖明珠,http://125.210.152.19:9120/live/hzgq-xhmzgq-h264.m3u8
-杭州生活,http://125.210.152.19:9120/live/hzgq-hzshgq-h264.m3u8
-杭州少儿体育,http://125.210.152.19:9120/live/hzgq-hzsegq-h264.m3u8
-杭州影视,http://125.210.152.19:9120/live/hzgq-hzysgq-h264.m3u8
-杭州导视,http://125.210.152.19:9120/live/hzgq-hzdsgq-h264.m3u8
+
 
 衢州公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233752/index.m3u8?fmt=ts2hls
 衢州综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233755/index.m3u8?fmt=ts2hls
@@ -254,7 +255,7 @@ IPTV相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/i
 金华公共频道,http://live.plus.jinhua.com.cn/jjsh/playlist.m3u8
 金华教育科技,http://live.plus.jinhua.com.cn/jykj/playlist.m3u8
 金华新闻综合,http://live.plus.jinhua.com.cn/xwzh/playlist.m3u8
-金华都市农村,http://live2.plus.jinhua.com.cn/dsnc/playlist.m3u8
+
 
 义乌新闻综合,http://live.cooltv.top/tv/ady.php?id=ywxwzh
 临安综合,http://live.cooltv.top/tv/ady.php?id=lazh
@@ -449,7 +450,7 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 动作影院电信IPTV,http://61.130.72.18:8888/tsfile/live/1005_1.m3u8
 无线新闻台,http://iptv.cooltv.top/tv/tvb.php?id=0
 无线财经资讯台,http://iptv.cooltv.top/tv/tvb.php?id=2
-有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
+
 
 
 其他省市,#genre#
