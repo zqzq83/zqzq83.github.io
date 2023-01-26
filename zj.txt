@@ -178,7 +178,7 @@ CGNT,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228545/index.m
 凤凰卫视中文台,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
 凤凰卫视中文台,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰卫视资讯台,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-江西陶瓷,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226247/index.m3u8?fmt=ts2hls
+
 上海纪实人文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8
 北京冬奥纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
 湖南金鹰纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
@@ -236,9 +236,9 @@ IPTV相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/i
 衢州公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233752/index.m3u8?fmt=ts2hls
 衢州综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233755/index.m3u8?fmt=ts2hls
 衢州经济,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233760/index.m3u8?fmt=ts2hls
-衢州综合,http://39.134.180.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233805/index.m3u8?fmt=ts2hls
-衢州公共,http://39.134.180.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233808/index.m3u8?fmt=ts2hls
-衢州经济,http://39.134.180.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233811/index.m3u8?fmt=ts2hls
+衢州综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233805/index.m3u8?fmt=ts2hls
+衢州公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233808/index.m3u8?fmt=ts2hls
+衢州经济,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233811/index.m3u8?fmt=ts2hls
 宁波新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234397/index.m3u8?fmt=ts2hls
 宁波社会生活,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234456/index.m3u8?fmt=ts2hls
 宁波文化娱乐,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234453/index.m3u8?fmt=ts2hls
@@ -446,10 +446,9 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 芒果TV独播,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
 芒果欧美电影,http://[2409:8087:3428:20:500::100a]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
 芒果综艺,http://[2409:8087:3428:20:500::100b]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
-古装剧场电信IPTV,http://61.130.72.18:8888/tsfile/live/1006_1.m3u8
-动作影院电信IPTV,http://61.130.72.18:8888/tsfile/live/1005_1.m3u8
-无线新闻台,http://iptv.cooltv.top/tv/tvb.php?id=0
-无线财经资讯台,http://iptv.cooltv.top/tv/tvb.php?id=2
+
+
+
 
 
 
