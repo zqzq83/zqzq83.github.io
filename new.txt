@@ -1,0 +1,32 @@
+解析IP: 2409:8087:280d:1020:100::29
+IP所在地: 未知
+总时间: 0.133924s
+下载速度: 0.029396MB/s
+DNS: 0.029624s
+建立连接: 0.090780s
+下载用时: 0.003374s
+首包: 0.130550s
+状态码: 200
+头信息: HTTP/1.1 302 Moved Temporarily
+Server: CMHI LTC
+Date: Wed, 01 Feb 2023 14:05:45 GMT
+Content-Length: 0
+Connection: close
+Location: http://[2409:8087:2800:0020:0000::20]:80/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/index.m3u8?fmt=ts2hls
+
+HTTP/1.1 302 Moved Temporarily
+Location: http://[2409:8087:280d:1020:100::29]:80/wh7f454c46tw4126589705_-550596832/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1675260415&from=32&ocs=2_2409:8087:280d:1020:100::31_80&hms_devid=1519&online=1675260415&vqe=3
+Content-Length: 0
+Connection:close
+
+HTTP/1.1 200 OK
+Date: Wed, 01 Feb 2023 14:06:55 GMT
+Last-Modified: Wed, 01 Feb 2023 14:06:55 GMT
+Server: HMS Download Service
+Accept-Ranges: bytes
+Content-Length: 104
+Content-Range: bytes 0-103/104
+Content-Type: application/vnd.apple.mpegurl
+Connection: close
+
+
