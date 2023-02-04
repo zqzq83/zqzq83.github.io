@@ -23,8 +23,8 @@ CCTV11,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232449/index
 CCTV11,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233944/index.m3u8
 CCTV12,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228312/index.m3u8?fmt=ts2hls
 CCTV12,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233872/index.m3u8
-CCTV13,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230877/index.m3u8?fmt=ts2hls
 CCTV13,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231193/index.m3u8?fmt=ts2hls
+CCTV13,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230877/index.m3u8?fmt=ts2hls
 CCTV13,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233881/index.m3u8
 CCTV14,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228335/index.m3u8?fmt=ts2hls
 CCTV14,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230701/index.m3u8?fmt=ts2hls
