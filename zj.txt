@@ -259,7 +259,7 @@ IPTV相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/i
 金华新闻综合,http://live.plus.jinhua.com.cn/xwzh/playlist.m3u8
 
 
-义乌新闻综合,http://live.cooltv.top/tv/ady.php?id=ywxwzh
+
 临安综合,http://live.cooltv.top/tv/ady.php?id=lazh
 富阳新闻综合,http://live.cooltv.top/tv/ady.php?id=fyzh
 临平新闻,http://live.cooltv.top/tv/ady.php?id=lpxw
@@ -328,11 +328,11 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 北京IPTV淘剧场,http://beifeng.site:4000/udp/239.3.1.95:8001
 北京IPTV淘Baby,http://beifeng.site:4000/udp/239.3.1.238:8001
 北京IPTV淘电影,http://beifeng.site:4000/udp/239.3.1.250:8001
-华语影院,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
-热门剧场,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
-戏曲精选,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/xqjx8m/8000000/mnf.m3u8
+华语影院,http://117.184.239.46/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
+热门剧场,http://117.184.239.46/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
+戏曲精选,http://117.184.239.46/liveplay-kk.rtxapp.com/live/program/live/xqjx8m/8000000/mnf.m3u8
 四川峨嵋电影,https://01.zqzq83.repl.co/sxg.php?id=emdygqH265_4000
-谍战剧场,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/mnf.m3u8
+谍战剧场,http://117.184.239.46/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/mnf.m3u8
 求索动物,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 求索生活,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 求索科学,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
@@ -432,7 +432,7 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 爱娱乐,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=no&userToken=&usergroup=
 爱院线,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=no&userToken=&usergroup=
 精彩综艺4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
-精彩电视剧4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+
 都市剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/index.m3u8?fmt=ts2hls
 游戏风云,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229320/index.m3u8?fmt=ts2hls
 IPTV高清院线,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000009/main.m3u8?IASHttpSessionId=OTT
@@ -635,6 +635,12 @@ SiTV金色学堂,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/322
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 黑龙江都市,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225990/index.m3u8
 黑龙江公共,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
+辽宁北方,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226755/index.m3u8
+辽宁都市,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226760/index.m3u8
+辽宁公共,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226766/index.m3u8
+辽宁体育,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226764/index.m3u8
+辽宁移动,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226982/index.m3u8
+辽宁影视剧,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226738/index.m3u8
 山西经济,http://live.cooltv.top/tv/cutv.php?id=sxjj
 山西影视,http://live.cooltv.top/tv/cutv.php?id=sxys
 山西法治,http://live.cooltv.top/tv/cutv.php?id=sxkj
@@ -646,6 +652,15 @@ SiTV金色学堂,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/322
 云南娱乐,http://hwapi.yunshicloud.com/62hdvf/iq8639.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN 
 云南影视,http://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN  
 云南少儿,http://hwapi.yunshicloud.com/62hdvf/9ojsty.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN 
+
+广西综艺,http://116.9.204.242:9901/tsfile/live/0125_1.m3u8
+广西影视,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8
+广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8
+广西都市,http://116.9.204.242:9901/tsfile/live/1002_1.m3u8
+南宁新闻,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+南宁公共,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+南宁都市,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+南宁影视,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 
 海南公共,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
 海南经济,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000011/index.m3u8?IAS
