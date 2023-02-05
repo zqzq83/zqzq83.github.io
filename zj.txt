@@ -513,9 +513,9 @@ SiTV金色学堂,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/322
 江西影视旅游,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
 江西都市,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls
 
-安徽影视,http://stream.ahwanyun.cn/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-安徽经济,http://stream.ahwanyun.cn/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
-安徽经济,http://stream.ahwanyun.cn/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
+安徽影视,http://stream.ahwanyun.cn/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
+安徽经济,http://stream.ahwanyun.cn/live/eac499adad7b49ff9cfa79ba84693959.flv
+安徽综艺,http://stream.ahwanyun.cn/live/c41f112b83f644ddb082669501c8ecd3.flv
 安徽科教,http://121.51.249.45/live1.ahtv.cn/kjpd/hd/live.m3u8
 安徽公共,http://121.51.249.45/live1.ahtv.cn/ahgg/hd/live.m3u8
 安徽国际,http://121.51.249.45/live5.ahtv.cn/ahgj1/hd/live.m3u8
