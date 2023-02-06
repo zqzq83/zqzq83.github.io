@@ -323,6 +323,13 @@ IPTV相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/i
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CBN风尚生活,https://v.zq0.top/api/xg.php?id=fssh_4000
+CBN每日影院,https://v.zq0.top/api/xg.php?id=mryy_4000
+CBN幸福剧场,https://v.zq0.top/api/xg.php?id=xfjc_4000
+CBN幸福娱乐,https://v.zq0.top/api/xg.php?id=xfyl_4000
+川广融媒,https://v.zq0.top/api/xg.php?id=cgrh_2000
+川网导视,https://v.zq0.top/api/xg.php?id=cwdsHDH264_4000
+精品导视,https://v.zq0.top/api/xg.php?id=jpdsH265_4000
 
 华语影院,http://117.184.239.46/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
 热门剧场,http://117.184.239.46/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
