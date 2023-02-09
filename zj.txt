@@ -704,11 +704,10 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 山西生活,http://live.cooltv.top/tv/cutv.php?id=sxgg
 山西黄河,http://live.cooltv.top/tv/cutv.php?id=sxhh
 
-云南公共,http://hwapi.yunshicloud.com/62hdvf/227q43.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN 
-云南都市,http://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN 
-云南娱乐,http://hwapi.yunshicloud.com/62hdvf/iq8639.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN 
-云南影视,http://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN  
-云南少儿,http://hwapi.yunshicloud.com/62hdvf/9ojsty.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN 
+云南公共,http://tvlive.ynradio.com/live/yunnangonggong/chunks.m3u8
+云南都市,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
+云南娱乐,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
+云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
 
 广西综艺,http://116.9.204.242:9901/tsfile/live/0125_1.m3u8
 广西影视,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8
