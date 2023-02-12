@@ -742,18 +742,14 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 咪咕体育8,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234129/index.m3u8?fmt=ts2hls
 咪咕视频4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230373/index.m3u8
 影视剧,#genre#
-刘德华电影,http://epg.112114.xyz/huya/11342424
 成龙电影,http://epg.112114.xyz/huya/11342386
 周星驰电影,http://epg.112114.xyz/huya/11342412
-林正英电影,http://epg.112114.xyz/huya/11342421
 李连杰电影,http://epg.112114.xyz/huya/11342390
 周润发电影,http://epg.112114.xyz/huya/11342387
-沈腾电影,http://epg.112114.xyz/huya/11601968
 经典电视剧,http://epg.112114.xyz/douyu/7314294
 神医喜来乐,http://epg.112114.xyz/huya/11601978
 医馆笑传,http://epg.112114.xyz/huya/11352891
 蜡笔小新,https://cn-zjjh-ct-04-14.bilivideo.com/live-bvc/992644/live_415611_4082642_1500.m3u8
-蜡笔小新,http://zzy789.xyz/bili.php?id=10375360
 
 民兵葛二蛋,http://epg.112114.xyz/huya/11602072
 纪晓岚,http://epg.112114.xyz/huya/11342396
