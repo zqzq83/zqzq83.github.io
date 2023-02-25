@@ -878,46 +878,33 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 凤凰卫视中文台,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
 
 
-中天综合,http://23.237.10.66:16372
-台視,http://23.237.10.66:16344
-台視,http://23.237.10.66:16334
 TVB新闻,https://v1.zq0.top/tvb.php?id=0
 TVB财经,https://v1.zq0.top/tvb.php?id=2
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8 
 翡翠台,http://2022.stream-link.org/playlist/tvb_jade
 华丽台,http://2022.stream-link.org/playlist/astro_jade
-明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
-明珠台,http://107.167.12.58:36733
 八度空间,http://2022.stream-link.org/playlist/8tv
 台视,http://2023.stream-link.org/playlist/ttv
 台视,http://2023.stream-link.org/playlist/ttv
 华视,http://2023.stream-link.org/playlist/cts_zy
 华视,http://2023.stream-link.org/playlist/cts_zy
 中视新闻,http://2023.stream-link.org/playlist/ctv_news
-中视新闻,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=6
-中视新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=8
 台视新闻,http://2023.stream-link.org/playlist/ttv_news
 民视新闻,http://2023.stream-link.org/playlist/ftv_news
 民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 华视新闻,http://2023.stream-link.org/playlist/cts_news
-华视新闻,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=4
 中天新闻,http://2023.stream-link.org/playlist/cti_news
 寰宇國際新聞,http://2023.stream-link.org/playlist/global_news.flv
 寰宇新闻台,http://2023.stream-link.org/playlist/global_tw
-寰宇新闻台,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=5
 TVBS HD,http://2023.stream-link.org/playlist/tvbs
 TVBS HD,http://2023.stream-link.org/playlist/tvbs
 TVBS新闻,http://2023.stream-link.org/playlist/tvbs_news
-TVBS新闻,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=2
 三立LIVE,http://2023.stream-link.org/playlist/set_news.flv
 三立LIVE+,http://2023.stream-link.org/playlist/set_news+.flv
 三立財經,http://2023.stream-link.org/playlist/set_inews.flv
 东森LIVE,http://2023.stream-link.org/playlist/ebc_news
-东森LIVE,http://jiandjh.51vip.biz:9000/jmsytb.m3u8?c=1
-东森LIVE,http://158.101.151.82:9000/jmsytb.m3u8?c=2
 东森LIVE,http://2023.stream-link.org/playlist/ebc_news
 東森財經,http://2023.stream-link.org/playlist/ebc_finance
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
@@ -966,13 +953,7 @@ Trace sport,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m
 Trace urban,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 Mezzo,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
 智林体育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
-翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
-J2台,https://cdn.hklive.tv/xxxx/82/index.m3u8
 J2台,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
-无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
-明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
-无线财经,https://cdn.hklive.tv/xxxx/85/index.m3u8
-RTHKTV31,https://cdn.hklive.tv/xxxx/32/index.m3u8
 RTHKTV32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 特高清4K,#genre#
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/3/224/3221227725/index.m3u8
