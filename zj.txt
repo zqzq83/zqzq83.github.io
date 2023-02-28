@@ -512,9 +512,9 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 安徽影视,http://stream.ahwanyun.cn/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
 安徽经济,http://stream.ahwanyun.cn/live/eac499adad7b49ff9cfa79ba84693959.flv
 安徽综艺,http://stream.ahwanyun.cn/live/c41f112b83f644ddb082669501c8ecd3.flv
-安徽科教,http://121.51.249.45/live1.ahtv.cn/kjpd/hd/live.m3u8
-安徽公共,http://121.51.249.45/live1.ahtv.cn/ahgg/hd/live.m3u8
-安徽国际,http://121.51.249.45/live5.ahtv.cn/ahgj1/hd/live.m3u8
+安徽科教,http://121.51.249.73/live1.ahtv.cn/kjpd/hd/live.m3u8
+安徽公共,http://121.51.249.73/live1.ahtv.cn/ahgg/hd/live.m3u8
+安徽国际,http://121.51.249.73/live5.ahtv.cn/ahgj1/hd/live.m3u8
 
 广东经济,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs1&auth=rinimabi
 大湾区卫视,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs2&auth=rinimabi
