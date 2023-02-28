@@ -881,6 +881,19 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 
 TVB新闻,https://v1.zq0.top/tvb.php?id=0
 TVB财经,https://v1.zq0.top/tvb.php?id=2
+无线新闻台,http://59.149.114.27:9981/stream/channelid/441235415?profile=matroska
+无线财经资讯台,http://59.149.114.27:9981/stream/channelid/795359597?profile=matroska
+翡翠台,http://59.149.114.27:9981/stream/channelid/1255701536?profile=matroska
+J2,http://59.149.114.27:9981/stream/channelid/353264762?profile=matroska
+明珠台,http://59.149.114.27:9981/stream/channelid/331671822?profile=matroska
+VIU TV,http://59.149.114.27:9981/stream/channelid/1452492542?profile=matroska
+VIU 6,http://59.149.114.27:9981/stream/channelid/264320601?profile=matroska
+港台电视31,http://59.149.114.27:9981/stream/channelid/2055279955?profile=matroska
+港台电视32,http://59.149.114.27:9981/stream/channelid/483770779?profile=matroska
+港台电视33,http://59.149.114.27:9981/stream/channelid/905614867?profile=matroska
+港台电视34,http://59.149.114.27:9981/stream/channelid/1638410504?profile=matroska
+香港开电视,http://59.149.114.27:9981/stream/channelid/1446871186?profile=matroska
+
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
