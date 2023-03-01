@@ -1,4 +1,4 @@
-央视,#genre#,http://diyp.112114.xyz/
+﻿央视,#genre#,http://diyp.112114.xyz/
 CCTV1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/index.m3u8?fmt=ts2hls
 CCTV1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230713/index.m3u8?fmt=ts2hls
 CCTV1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232672/index.m3u8
@@ -927,8 +927,8 @@ TVBS新闻,http://2023.stream-link.org/playlist/tvbs_news
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻台,http://107.151.203.111:2209/135/hk.php?id=cable37h
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
-有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+
+
 有線財經資訊台,http://2022.stream-link.org/playlist/cable_finance
 無綫新聞台,http://2022.stream-link.org/playlist/tvb_news
 無綫財經·體育·資訊台,http://2022.stream-link.org/playlist/tvb_finance
