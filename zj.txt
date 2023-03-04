@@ -676,11 +676,11 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
 
 
-广西影视,https://hlscdn.liangtv.cn/live/a84182dabc5147afbd3d90ddbb5a9404/d097f6c24c53463e897de496b32c7d2b.m3u8
-广西新闻,https://hlscdn.liangtv.cn/live/a48635e37ac84afa82c0d0edc4bfabf9/dbc9a18971294257bad7c75b7f3f0c20.m3u8
-广西综艺旅游,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-广西都市,https://hlscdn.liangtv.cn/live/b8f4e500a4024fd2bf189b46f490359f/b04d249044fb4d0887b88aa9c2cc8f6c.m3u8
-广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
+广西影视,http://111.59.63.32:9901/tsfile/live/1006_1.m3u8
+广西新闻,http://111.59.63.32:9901/tsfile/live/1007_1.m3u8
+广西综艺旅游,http://111.59.63.32:9901/tsfile/live/1004_1.m3u8
+广西都市,http://111.59.63.32:9901/tsfile/live/1005_1.m3u8
+
 南宁新闻,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 南宁公共,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
 南宁都市,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
