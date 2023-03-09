@@ -1,4 +1,4 @@
-﻿央视,#genre#,http://diyp.112114.xyz/
+央视,#genre#,http://diyp.112114.xyz/
 CCTV1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/index.m3u8?fmt=ts2hls
 CCTV1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230713/index.m3u8?fmt=ts2hls
 CCTV1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232672/index.m3u8
@@ -515,6 +515,14 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 安徽科教,http://121.51.249.73/live1.ahtv.cn/kjpd/hd/live.m3u8
 安徽公共,http://121.51.249.73/live1.ahtv.cn/ahgg/hd/live.m3u8
 安徽国际,http://121.51.249.73/live5.ahtv.cn/ahgj1/hd/live.m3u8
+
+天津新闻,http://live-bd.wisetv.com.cn/TJIPTV/TJXW.m3u8?secret=&timestamp=
+天津文艺,http://live-bd.wisetv.com.cn/TJIPTV/TJWY.m3u8?secret=&timestamp=
+天津影视,http://live-bd.wisetv.com.cn/TJIPTV/TJYSHD.m3u8?secret=&timestamp=
+天津都市,http://live-bd.wisetv.com.cn/TJIPTV/TJDS.m3u8?secret=&timestamp=
+天津体育,http://live-bd.wisetv.com.cn/TJIPTV/TJTYHD.m3u8?secret=&timestamp=
+天津教育,http://live-bd.wisetv.com.cn/TJIPTV/TJKJ.m3u8?secret=&timestamp=
+
 
 广东经济,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs1&auth=rinimabi
 大湾区卫视,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs2&auth=rinimabi
