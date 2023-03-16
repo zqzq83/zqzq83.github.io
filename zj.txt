@@ -466,7 +466,6 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 
 
 
-北京体育,https://v1.zq0.top/gh.php?id=BTVjishiHD_6000
 北京财经,http://live.cooltv.top/tv/btime.php?id=btvcj
 
 北京生活,http://live.cooltv.top/tv/btime.php?id=btvsh
@@ -633,13 +632,7 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 成都都市生活,https://v.zq0.top/api/xg.php?id=CDTV-3_4000
 成都影视文艺,https://v.zq0.top/api/xg.php?id=CDTV-4_4000
 成都公共频道,https://v.zq0.top/api/xg.php?id=CDTV-5_4000
-重庆新闻高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f//index.m3u8
-重庆科教高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f//index.m3u8
-重庆影视高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqyingshiHD/__op/default/__f//index.m3u8
-重庆文体娱乐高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqwtylHD/__op/default/__f//index.m3u8
-重庆少儿高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqseHD/__op/default/__f//index.m3u8
-重庆时尚生活高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqssgwHD/__op/default/__f//index.m3u8
-重庆新农村高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cqggncHD/__op/default/__f//index.m3u8
+
 
 西藏影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
 
