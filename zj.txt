@@ -321,9 +321,9 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 
-川广融媒,https://v.zq0.top/api/xg.php?id=cgrh_2000
-精品导视,https://v.zq0.top/api/xg.php?id=jpdsH265_4000
-超高清电影,https://v.zq0.top/api/xg.php?id=emdy4k_8000
+川广融媒,https://v.zq0.top/api/x.php?id=cgrh_2000
+精品导视,https://v.zq0.top/api/x.php?id=jpdsH265_4000
+超高清电影,https://v.zq0.top/api/x.php?id=emdy4k_8000
 
 求索动物,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 求索生活,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
@@ -626,12 +626,12 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 四川购物,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv6&auth=rinimabi
 四川妇女,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv7&auth=rinimabi
 四川乡村,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv9&auth=rinimabi
-四川峨嵋电影,https://v.zq0.top/api/xg.php?id=emdygqH265_4000
-成都新闻综合,https://v.zq0.top/api/xg.php?id=CDTV-1_4000
-成都经济资讯,https://v.zq0.top/api/xg.php?id=CDTV-2_4000
-成都都市生活,https://v.zq0.top/api/xg.php?id=CDTV-3_4000
-成都影视文艺,https://v.zq0.top/api/xg.php?id=CDTV-4_4000
-成都公共频道,https://v.zq0.top/api/xg.php?id=CDTV-5_4000
+四川峨嵋电影,https://v.zq0.top/api/x.php?id=emdygqH265_4000
+成都新闻综合,https://v.zq0.top/api/x.php?id=CDTV-1_4000
+成都经济资讯,https://v.zq0.top/api/x.php?id=CDTV-2_4000
+成都都市生活,https://v.zq0.top/api/x.php?id=CDTV-3_4000
+成都影视文艺,https://v.zq0.top/api/x.php?id=CDTV-4_4000
+成都公共频道,https://v.zq0.top/api/x.php?id=CDTV-5_4000
 
 
 西藏影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
