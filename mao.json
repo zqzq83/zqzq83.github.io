@@ -5,7 +5,7 @@
     "name": "live",
     "type": 0,
     "url": "https://ghproxy.com/raw.githubusercontent.com/zqzq83/zqzq83.github.io/main/zj.txt",
-    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
     "logo": "https://epg.112114.xyz/logo/{name}.png"
   }],
   "sites":[
