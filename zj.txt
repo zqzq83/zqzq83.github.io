@@ -321,9 +321,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 
-川广融媒,https://v.zq0.top/api/x.php?id=cgrh_2000
-精品导视,https://v.zq0.top/api/x.php?id=jpdsH265_4000
-超高清电影,https://v.zq0.top/api/x.php?id=emdy4k_8000
+
 
 求索动物,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 求索生活,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
@@ -541,28 +539,21 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 广州影视,http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzys&auth=rinimabi
 广州法治,http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzjj&auth=rinimabi
 
-深圳娱乐,http://lu1.cc/itv/php/tide.php?id=szyl
+深圳娱乐,http://live.cooltv.top/tv/tide.php?id=szyl
+深圳公共,http://live.cooltv.top/tv/tide.php?id=szgg
+深圳财经生活,http://live.cooltv.top/tv/tide.php?id=szcjsh
+深圳电视剧,http://live.cooltv.top/tv/tide.php?id=szdsj
+深圳都市,http://live.cooltv.top/tv/tide.php?id=szds
+深圳国际,http://live.cooltv.top/tv/tide.php?id=szgj
+深圳移动,http://live.cooltv.top/tv/tide.php?id=szyd
+深圳体育健康,http://live.cooltv.top/tv/tide.php?id=sztyjk
 
-深圳公共,http://lu1.cc/itv/php/tide.php?id=szgg
-深圳财经生活,http://lu1.cc/itv/php/tide.php?id=szcjsh
-深圳电视剧,http://lu1.cc/itv/php/tide.php?id=szdsj
-深圳都市,http://lu1.cc/itv/php/tide.php?id=szds
-深圳国际,http://lu1.cc/itv/php/tide.php?id=szgj
-深圳移动,http://lu1.cc/itv/php/tide.php?id=szyd
-深圳体育健康,http://lu1.cc/itv/php/tide.php?id=sztyjk
+合肥新闻,http://live.cooltv.top/tv/tide.php?id=hfxw
+合肥财经,http://live.cooltv.top/tv/tide.php?id=hfcj
+合肥公共,http://live.cooltv.top/tv/tide.php?id=hfgg
+合肥故事休闲,http://live.cooltv.top/tv/tide.php?id=hfxx
+合肥教育法治,http://live.cooltv.top/tv/tide.php?id=hfjy
 
-合肥新闻,http://lu1.cc/itv/php/tide.php?id=hfxw
-合肥财经,http://lu1.cc/itv/php/tide.php?id=hfcj
-合肥公共,http://lu1.cc/itv/php/tide.php?id=hfgg
-合肥故事休闲,http://lu1.cc/itv/php/tide.php?id=hfxx
-合肥教育法治,http://lu1.cc/itv/php/tide.php?id=hfjy
-
-太原新闻综合,http://lu1.cc/itv/php/tide.php?id=tyxwzh
-太原经济生活,http://lu1.cc/itv/php/tide.php?id=tyjjsh
-太原社教法制,http://lu1.cc/itv/php/tide.php?id=tysjfz
-太原影视,http://lu1.cc/itv/php/tide.php?id=tyys
-太原文体,http://lu1.cc/itv/php/tide.php?id=tywt
-大连综合影视,http://lu1.cc/itv/php/tide.php?id=dlzhys
 
 河南公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226566/index.m3u8
 河南乡村,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226/index.m3u8
@@ -626,12 +617,12 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 四川购物,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv6&auth=rinimabi
 四川妇女,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv7&auth=rinimabi
 四川乡村,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv9&auth=rinimabi
-四川峨嵋电影,https://v.zq0.top/api/x.php?id=emdygqH265_4000
-成都新闻综合,https://v.zq0.top/api/x.php?id=CDTV-1_4000
-成都经济资讯,https://v.zq0.top/api/x.php?id=CDTV-2_4000
-成都都市生活,https://v.zq0.top/api/x.php?id=CDTV-3_4000
-成都影视文艺,https://v.zq0.top/api/x.php?id=CDTV-4_4000
-成都公共频道,https://v.zq0.top/api/x.php?id=CDTV-5_4000
+四川电影,http://r.jdshipin.com/XIjta
+成都新闻综合,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv1&fmt=flv
+成都经济资讯,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv2&fmt=flv
+成都都市生活,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv3&fmt=flv
+成都影视文艺,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv4&fmt=flv
+成都公共频道,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv5&fmt=flv
 
 
 西藏影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
