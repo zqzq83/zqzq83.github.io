@@ -1052,6 +1052,8 @@ CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/22
 浙江民生休闲,http://125.210.152.19:9120/live/hzgq-msxxgq-h264.m3u8
 华数服务高清,http://125.210.152.19:9120/live/hzgq-hsfwgq-h264.m3u8
 求索记录,http://125.210.152.19:9120/live/hzgq-qsjlgq-h264.m3u8
+cs1,https://v.zq008.eu.org/api/x.php
+cs2,https://v.tv.cn.eu.org/api/x.php
 CCTV1,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
 CCTV2,http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8
 CCTV3,http://125.210.152.19:9120/live/hzgq-cctv3gq-h264.m3u8
