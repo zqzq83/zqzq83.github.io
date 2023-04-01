@@ -320,8 +320,8 @@ IPTV相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/i
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-超高清电影,https://v.tv.cn.eu.org/api/x.phpid=emdy4k_8000
-精品导视,https://v.tv.cn.eu.org//api/x.php?id=jpdsH265_4000
+超高清电影,https://v.tv.cn.eu.org/api/x.php?id=emdy4k_8000
+精品导视,https://v.tv.cn.eu.org/api/x.php?id=jpdsH265_4000
 求索动物,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 求索生活,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 求索科学,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
@@ -962,6 +962,7 @@ CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/22
 求索记录,http://125.210.152.19:9120/live/hzgq-qsjlgq-h264.m3u8
 cs1,https://v.zq008.eu.org/api/x.php
 cs2,https://v.tv.cn.eu.org/api/x.php
+4,https://v.tv.cn.eu.org/api/x.php?id=CCTV9H265_4000
 CCTV1,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
 CCTV2,http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8
 CCTV3,http://125.210.152.19:9120/live/hzgq-cctv3gq-h264.m3u8
