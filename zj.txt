@@ -320,8 +320,8 @@ IPTV相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/i
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-超高清电影,https://v.tv.cn.eu.org/api/x.php?id=emdy4k_8000
-精品导视,https://v.tv.cn.eu.org/api/x.php?id=jpdsH265_4000
+超高清电影,https://live.v1.mk/api/sxg.php?id=emdy4k_8000
+精品导视,https://live.v1.mk/api/sxg.php?id=jpdsH265_4000
 求索动物,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 求索生活,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 求索科学,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
@@ -602,7 +602,7 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 四川购物,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv6&auth=rinimabi
 四川妇女,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv7&auth=rinimabi
 四川乡村,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv9&auth=rinimabi
-四川电影,https://v.tv.cn.eu.org/api/x.php?id=emdygqH265_4000
+四川电影,https://live.v1.mk/api/sxg.php?id=emdygqH265_4000
 成都新闻综合,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv1&fmt=flv
 成都经济资讯,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv2&fmt=flv
 成都都市生活,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv3&fmt=flv
@@ -925,9 +925,6 @@ CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/22
 浙江民生休闲,http://125.210.152.19:9120/live/hzgq-msxxgq-h264.m3u8
 华数服务高清,http://125.210.152.19:9120/live/hzgq-hsfwgq-h264.m3u8
 求索记录,http://125.210.152.19:9120/live/hzgq-qsjlgq-h264.m3u8
-cs1,https://v.zq008.eu.org/api/x.php
-cs2,https://v.tv.cn.eu.org/api/x.php
-4,https://v.tv.cn.eu.org/api/x.php?id=CCTV9H265_4000
 CCTV1,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
 CCTV2,http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8
 CCTV3,http://125.210.152.19:9120/live/hzgq-cctv3gq-h264.m3u8
