@@ -162,7 +162,7 @@ CGNT,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228545/index.m
 海南卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232767/index.m3u8?fmt=ts2hls$HD
 广西卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232770/index.m3u8?fmt=ts2hls$HD
 东方卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231175/index.m3u8?fmt=ts2hls
-
+三沙卫视,http//hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235392/671452326.smil/index.m3u8?fmt=ts2hls
 宁夏卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228284/index.m3u8?fmt=ts2hls
 青海卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228287/index.m3u8?fmt=ts2hls
 甘肃卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228288/index.m3u8?fmt=ts2hls
