@@ -162,7 +162,7 @@ CGNT,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228545/index.m
 海南卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232767/index.m3u8?fmt=ts2hls$HD
 广西卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232770/index.m3u8?fmt=ts2hls$HD
 东方卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231175/index.m3u8?fmt=ts2hls
-三沙卫视,http//hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235392/671452326.smil/index.m3u8?fmt=ts2hls
+三沙卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235392/671452326.smil/index.m3u8?fmt=ts2hls
 宁夏卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228284/index.m3u8?fmt=ts2hls
 青海卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228287/index.m3u8?fmt=ts2hls
 甘肃卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228288/index.m3u8?fmt=ts2hls
@@ -254,9 +254,9 @@ IPTV相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/i
 金华公共频道,http://live.plus.jinhua.com.cn/jjsh/playlist.m3u8
 金华教育科技,http://live.plus.jinhua.com.cn/jykj/playlist.m3u8
 金华新闻综合,http://live.plus.jinhua.com.cn/xwzh/playlist.m3u8
-
-
-
+义乌新闻综合,http://lu1.cc/itv/php/gdy1.php?id=ywxwzh
+义乌商贸,http://lu1.cc/itv/php/gdy1.php?id=ywsm
+义乌公共,http://lu1.cc/itv/php/gdy1.php?id=ywggwy
 临安综合,http://live.cooltv.top/tv/ady.php?id=lazh
 富阳新闻综合,http://live.cooltv.top/tv/ady.php?id=fyzh
 临平新闻,http://live.cooltv.top/tv/ady.php?id=lpxw
