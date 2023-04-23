@@ -648,12 +648,16 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 南宁公共,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
 南宁都市,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
 南宁影视,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
-
 海南公共,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
 海南经济,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000011/index.m3u8?IAS
 海南少儿,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
 海南文旅,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS
 海南新闻,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000015/index.m3u8?IAS
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+t1,http://pull-l3-cny.douyincdn.com/live/jixian888221358558854444741889.m3u8
+t2,http://pull-l3-cny.douyincdn.com/live/stream-19882782022122523487.m3u
+新闻1,http://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212213.m3u8
+新闻2,http://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 
 
 
@@ -768,8 +772,6 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 港台测试,#genre#
 凤凰卫视资讯台,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
 凤凰卫视中文台,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
-TVB新闻,https://v1.zq0.top/tvb.php?id=0
-TVB财经,https://v1.zq0.top/tvb.php?id=2
 靖天卡通,http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
 靖洋戲劇,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
 采昌影劇,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
@@ -811,28 +813,7 @@ Style,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
 中天美食旅遊,http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
 CNN,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
 MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
-TaiwanPlus,https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
-ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
-ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-華視新聞資訊,http://stream.dsichannel.com/hls/cts-news.m3u8
-鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-衛視合家歡,http://123.51.230.108:18504/.m3u8
-好消息,http://123.51.230.108:18507/.m3u8
-緯來體育,http://123.51.230.108:18509/.m3u8
-NHK,http://123.51.230.108:18525/.m3u8
-東森戲劇,http://123.51.230.108:18538/.m3u8
-八大第一,http://123.51.230.108:18539/.m3u8
-民視新聞,http://123.51.230.108:18663/.m3u8
-東森財經,http://123.51.230.108:18515/.m3u8
-龍華日韓,http://123.51.230.108:18551/.m3u8
-人間衛視,http://123.51.230.108:18561/.m3u8
-東風37,http://123.51.230.108:18560/.m3u8
-大愛,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8#https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-大愛海外,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+
 
 特高清4K,#genre#
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/3/224/3221227725/index.m3u8
