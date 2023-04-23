@@ -254,9 +254,9 @@ IPTV相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/i
 金华公共频道,http://live.plus.jinhua.com.cn/jjsh/playlist.m3u8
 金华教育科技,http://live.plus.jinhua.com.cn/jykj/playlist.m3u8
 金华新闻综合,http://live.plus.jinhua.com.cn/xwzh/playlist.m3u8
-义乌新闻综合,http://lu1.cc/itv/php/gdy1.php?id=ywxwzh
-义乌商贸,http://lu1.cc/itv/php/gdy1.php?id=ywsm
-义乌公共,http://lu1.cc/itv/php/gdy1.php?id=ywggwy
+义乌新闻综合,http://ainm.cc/itv/php/gdy1.php?id=ywxwzh
+义乌商贸,http://ainm.cc/itv/php/gdy1.php?id=ywsm
+义乌公共,http://ainm.cc/itv/php/gdy1.php?id=ywggwy
 临安综合,http://live.cooltv.top/tv/ady.php?id=lazh
 富阳新闻综合,http://live.cooltv.top/tv/ady.php?id=fyzh
 临平新闻,http://live.cooltv.top/tv/ady.php?id=lpxw
@@ -424,18 +424,6 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 
 都市剧场,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/index.m3u8?fmt=ts2hls
 游戏风云,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229320/index.m3u8?fmt=ts2hls
-IPTV高清院线,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000009/main.m3u8?IASHttpSessionId=OTT
-IPTV古装剧场,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000010/main.m3u8?IASHttpSessionId=OTT
-IPTV家庭剧场,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001002000000000011/main.m3u8?IASHttpSessionId=OTT
-IPTV经典剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000012/main.m3u8?IASHttpSessionId=OTT
-IPTV抗战剧场,http://[2409:8087:5011:1020::2b]/180000001001/00000001000000001002000000000007/main.m3u8?IASHttpSessionId=OTT
-IPTV芒果互娱,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001025000000196970/main.m3u8?IASHttpSessionId=OTT
-IPTV芒果热剧,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001026000000099232/main.m3u8?IASHttpSessionId=OTT
-IPTV芒果好看,http://[2409:8087:5011:1020::1e]/180000001001/00000001000000001026000000099174/main.m3u8?IASHttpSessionId=OTT
-IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001008000000292438/main.m3u8?IASHttpSessionId=OTT
-芒果华语电影,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
-芒果TV独播,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
-芒果欧美电影,http://[2409:8087:3428:20:500::100a]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
 
 
 
@@ -470,18 +458,16 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 北京文艺,http://live.cooltv.top/tv/btime.php?id=btvwy
 北京新闻,http://live.cooltv.top/tv/btime.php?id=btvxw
 北京影视,http://live.cooltv.top/tv/btime.php?id=btvys
-湖南经视,http://[2409:8087:5011:1020::19]/180000001001/00000001000000000002000000027983/main.m3u8?IASHttpSessionId=OTT
-湖南都市,http://[2409:8087:5011:1020::19]/180000001001/00000001000000001001000000000041/main.m3u8?IASHttpSessionId=OTT
-湖南电视剧,http://[2409:8087:5011:1020::19]/180000001001/00000001000000001001000000000037/main.m3u8?IASHttpSessionId=OTT
-湖南电影,http://[2409:8087:5011:1020::19]/180000001001/00000001000000001001000000000038/main.m3u8?IASHttpSessionId=OTT
-湖南娱乐,http://[2409:8087:5011:1020::19]/180000001001/00000001000000001001000000000040/main.m3u8?IASHttpSessionId=OTT
-金鹰纪实,http://[2409:8087:5011:1020::19]/180000001001/00000001000000001007000000063477/main.m3u8?IASHttpSessionId=OTT
-湖南公共,http://[2409:8087:5011:1020::19]/180000001001/00000001000000001001000000000044/main.m3u8?IASHttpSessionId=OTT
-湖南国际,http://[2409:8087:5011:1020::19]/180000001001/00000001000000001001000000000045/main.m3u8?IASHttpSessionId=OTT
-金鹰卡通,http://[2409:8087:5011:1020::19]/180000001001/00000001000000001001000000000039/main.m3u8?IASHttpSessionId=OTT
-湖南教育,http://[2409:8087:5011:1020::19]/180000001001/00000001000000001016000000368716/main.m3u8?IASHttpSessionId=OTT
-长沙影视,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001001000000000030/main.m3u8?IASHttpSessionId=OTT
-芒果互娱,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001025000000196970/main.m3u8?IASHttpSessionId=OTT
+湖南经视,http://fm-live-rtmp.fm-tv-live.mangguonews.com/fm-tv-live/hnjs.m3u8
+湖南都市,http://fm-live-rtmp.fm-tv-live.mangguonews.com/fm-tv-live/hngg.m3u8
+湖南电视剧,http://ainm.cc/itv/huntv/hnxl.php?id=hndsj
+湖南电影,http://ainm.cc/itv/huntv/hnxl.php?id=hndy
+湖南娱乐,http://ainm.cc/itv/huntv/hnxl.php?id=hnyl
+湖南爱晚,http://fm-live-rtmp.fm-tv-live.mangguonews.com/fm-tv-live/hngg.m3u8
+湖南国际,http://ainm.cc/itv/huntv/hnxl.php?id=hngj
+湖南教育,http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43021/index.m3u8
+长沙影视,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.flv?auth_key=1936694127-0-0-f081dadf4de8780d84d51755eb65e516
+
 
 湖北综合,http://live.cooltv.top/tv/cjy.php?id=hbzh
 湖北经视,http://live.cooltv.top/tv/cjy.php?id=hbjs
@@ -603,11 +589,11 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 四川妇女,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv7&auth=rinimabi
 四川乡村,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv9&auth=rinimabi
 四川电影,https://live.v1.mk/api/sxg.php?id=emdygqH265_4000
-成都新闻综合,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv1&fmt=flv
-成都经济资讯,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv2&fmt=flv
-成都都市生活,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv3&fmt=flv
-成都影视文艺,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv4&fmt=flv
-成都公共频道,http://lu1.cc/itv/sctv/cdxl.php?id=cdtv5&fmt=flv
+成都新闻综合,http://ainm.cc/itv/sctv/cdxl.php?id=cdtv1&fmt=flv
+成都经济资讯,http://ainm.cc/itv/sctv/cdxl.php?id=cdtv2&fmt=flv
+成都都市生活,http://ainm.cc/itv/sctv/cdxl.php?id=cdtv3&fmt=flv
+成都影视文艺,http://ainm.cc/itv/sctv/cdxl.php?id=cdtv4&fmt=flv
+成都公共频道,http://ainm.cc/itv/sctv/cdxl.php?id=cdtv5&fmt=flv
 
 
 西藏影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
