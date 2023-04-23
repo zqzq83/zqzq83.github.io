@@ -257,23 +257,23 @@ IPTV相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/i
 义乌新闻综合,http://ainm.cc/itv/php/gdy1.php?id=ywxwzh
 义乌商贸,http://ainm.cc/itv/php/gdy1.php?id=ywsm
 义乌公共,http://ainm.cc/itv/php/gdy1.php?id=ywggwy
-临安综合,http://live.cooltv.top/tv/ady.php?id=lazh
-富阳新闻综合,http://live.cooltv.top/tv/ady.php?id=fyzh
-临平新闻,http://live.cooltv.top/tv/ady.php?id=lpxw
-乐清综合,http://live.cooltv.top/tv/ady.php?id=yqzh
-乐清新闻,http://live.cooltv.top/tv/ady.php?id=yqxw
-永嘉新闻综合,http://live.cooltv.top/tv/ady.php?id=yjxwzh
-温岭新闻综合,http://live.cooltv.top/tv/ady.php?id=wlxwzh
-温岭民生休闲,http://live.cooltv.top/tv/ady.php?id=wlmsxx 
-新昌新闻,http://live.cooltv.top/tv/ady.php?id=xcxw
-新昌生活,http://live.cooltv.top/tv/ady.php?id=xcsh
-宁海新闻综合,http://live.cooltv.top/tv/ady.php?id=nhxwzh
-安吉新闻综合,http://live.cooltv.top/tv/ady.php?id=ajxw
-安吉生活,http://live.cooltv.top/tv/ady.php?id=ajsh
-安吉影视,http://live.cooltv.top/tv/ady.php?id=ajys
-慈溪新闻综合,http://live.cooltv.top/tv/ady.php?id=cxxwzh
-慈溪民生休闲,http://live.cooltv.top/tv/ady.php?id=cxmsxx
-慈溪影视图文,http://live.cooltv.top/tv/ady.php?id=cxystw
+临安综合,http://ainm.cc/itv/php/gdy1.php?id=lazh
+富阳新闻综合,http://ainm.cc/itv/php/gdy1.php?id=fyzh
+临平新闻,http://ainm.cc/itv/php/gdy1.php?id=lpxw
+乐清综合,http://ainm.cc/itv/php/gdy1.php?id=yqzh
+乐清新闻,http://ainm.cc/itv/php/gdy1.php?id=yqxw
+永嘉新闻综合,http://ainm.cc/itv/php/gdy1.php?id=yjxwzh
+温岭新闻综合,http://ainm.cc/itv/php/gdy1.php?id=wlxwzh
+温岭民生休闲,http://ainm.cc/itv/php/gdy1.php?id=wlmsxx 
+新昌新闻,http://ainm.cc/itv/php/gdy1.php?id=xcxw
+新昌生活,http://ainm.cc/itv/php/gdy1.php?id=xcsh
+宁海新闻综合,http://ainm.cc/itv/php/gdy1.php?id=nhxwzh
+安吉新闻综合,http://ainm.cc/itv/php/gdy1.php?id=ajxw
+安吉生活,http://ainm.cc/itv/php/gdy1.php?id=ajsh
+安吉影视,http://ainm.cc/itv/php/gdy1.php?id=ajys
+慈溪新闻综合,http://ainm.cc/itv/php/gdy1.php?id=cxxwzh
+慈溪民生休闲,http://ainm.cc/itv/php/gdy1.php?id=cxmsxx
+慈溪影视图文,http://ainm.cc/itv/php/gdy1.php?id=cxystw
 
 舟山新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230335/index.m3u8
 舟山公共生活,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230338/index.m3u8
@@ -469,13 +469,13 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 长沙影视,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.flv?auth_key=1936694127-0-0-f081dadf4de8780d84d51755eb65e516
 
 
-湖北综合,http://live.cooltv.top/tv/cjy.php?id=hbzh
-湖北经视,http://live.cooltv.top/tv/cjy.php?id=hbjs
-湖北新闻,http://live.cooltv.top/tv/cjy.php?id=hbgg
-湖北影视,http://live.cooltv.top/tv/cjy.php?id=hbys
-湖北教育,http://live.cooltv.top/tv/cjy.php?id=hbjy
-湖北生活,http://live.cooltv.top/tv/cjy.php?id=hbsh
-湖北垄上,http://live.cooltv.top/tv/cjy.php?id=hbls
+湖北综合,http://ainm.cc/itv/php/cjy.php?id=hbzh
+湖北经视,http://ainm.cc/itv/php/cjy.php?id=hbjs
+湖北新闻,http://ainm.cc/itv/php/cjy.php?id=hbgg
+湖北影视,http://ainm.cc/itv/php/cjy.php?id=hbys
+湖北教育,http://ainm.cc/itv/php/cjy.php?id=hbjy
+湖北生活,http://ainm.cc/itv/php/cjy.php?id=hbsh
+湖北垄上,http://ainm.cc/itv/php/cjy.php?id=hbls
 
 
 江苏城市,http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/4/224/3221225929/index.m3u8
