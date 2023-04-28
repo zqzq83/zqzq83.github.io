@@ -317,6 +317,7 @@ IPTV相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/i
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 
 轮播,#genre#
+超高清电影,https://1.11.121112.xyz/api/x.php?id=emdy4k_8000
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
@@ -495,9 +496,12 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 安徽影视,http://stream.ahwanyun.cn/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
 安徽经济,http://stream.ahwanyun.cn/live/eac499adad7b49ff9cfa79ba84693959.flv
 安徽综艺,http://stream.ahwanyun.cn/live/c41f112b83f644ddb082669501c8ecd3.flv
-安徽科教,http://121.51.249.73/live1.ahtv.cn/kjpd/hd/live.m3u8
-安徽公共,http://121.51.249.73/live1.ahtv.cn/ahgg/hd/live.m3u8
-安徽国际,http://121.51.249.73/live5.ahtv.cn/ahgj1/hd/live.m3u8
+安徽公共,http://ainm.cc/itv/ahtv/ahtv1.php?id=ahgg
+安徽农业科教,http://ainm.cc/itv/ahtv/ahtv1.php?id=ahnykj
+安徽综艺,http://ainm.cc/itv/ahtv/ahtv1.php?id=ahzyty
+安徽国际,http://ainm.cc/itv/ahtv/ahtv1.php?id=ahgj
+安徽影视,http://ainm.cc/itv/ahtv/ahtv1.php?id=ahys
+安徽经济,http://ainm.cc/itv/ahtv/ahtv1.php?id=ahjjsh
 
 天津新闻,http://live-bd.wisetv.com.cn/TJIPTV/TJXW.m3u8?secret=&timestamp=
 天津文艺,http://live-bd.wisetv.com.cn/TJIPTV/TJWY.m3u8?secret=&timestamp=
@@ -588,15 +592,12 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 四川购物,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv6&auth=rinimabi
 四川妇女,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv7&auth=rinimabi
 四川乡村,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv9&auth=rinimabi
-四川电影,https://live.v1.mk/api/sxg.php?id=emdygqH265_4000
-成都新闻综合,http://ainm.cc/itv/sctv/cdxl.php?id=cdtv1&fmt=flv
-成都经济资讯,http://ainm.cc/itv/sctv/cdxl.php?id=cdtv2&fmt=flv
-成都都市生活,http://ainm.cc/itv/sctv/cdxl.php?id=cdtv3&fmt=flv
-成都影视文艺,http://ainm.cc/itv/sctv/cdxl.php?id=cdtv4&fmt=flv
-成都公共频道,http://ainm.cc/itv/sctv/cdxl.php?id=cdtv5&fmt=flv
-
-
-西藏影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
+四川电影,https://1.11.121112.xyz/api/x.php?id=emdygqH265_4000
+成都新闻综合,https://1.11.121112.xyz/api/x.php?id=CDTV-1_4000
+成都经济资讯,https://1.11.121112.xyz/api/x.php?id=CDTV-2_4000
+成都都市生活,https://1.11.121112.xyz/api/x.php?id=CDTV-3_4000
+成都影视文艺,https://1.11.121112.xyz/api/x.php?id=CDTV-4_4000
+成都公共频道,https://1.11.121112.xyz/api/x.php?id=CDTV-5_4000
 
 山东齐鲁,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdql&auth=rinimabi
 山东体育,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdty&auth=rinimabi
@@ -655,8 +656,6 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 海南新闻,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000015/index.m3u8?IAS
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 t1,http://pull-l3-cny.douyincdn.com/live/jixian888221358558854444741889.m3u8
-t2,http://pull-l3-cny.douyincdn.com/live/stream-19882782022122523487.m3u
-新闻1,http://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212213.m3u8
 新闻2,http://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 
 
@@ -678,16 +677,9 @@ t2,http://pull-l3-cny.douyincdn.com/live/stream-19882782022122523487.m3u
 咪咕视频4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230373/index.m3u8
 影视剧,#genre#
 
-成龙电影,http://epg.112114.xyz/huya/11342386
-周星驰电影,http://epg.112114.xyz/huya/11342412
-李连杰电影,http://epg.112114.xyz/huya/11342390
-周润发电影,http://epg.112114.xyz/huya/11342387
-经典电视剧,http://epg.112114.xyz/douyu/7314294
-神医喜来乐,http://epg.112114.xyz/huya/11601978
-医馆笑传,http://epg.112114.xyz/huya/11352891
+
 蜡笔小新,https://cn-zjjh-ct-04-14.bilivideo.com/live-bvc/992644/live_415611_4082642_1500.m3u8
-民兵葛二蛋,http://epg.112114.xyz/huya/11602072
-纪晓岚,http://epg.112114.xyz/huya/11342396
+
 历年贺岁大片,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 金庸武侠系列,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
 吴孟达,http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
@@ -943,5 +935,4 @@ CGTN,http://125.210.152.19:9120/live/hszx-cctvgj-h264.m3u8
 新疆卫视,http://125.210.152.19:9120/live/hszx-xjtv-h264.m3u8
 云南卫视,http://125.210.152.19:9120/live/hzgq-ynwsgq-h264.m3u8
 重庆卫视,http://125.210.152.19:9120/live/hzgq-cqwsgq-h264.m3u8
-
 
