@@ -321,8 +321,8 @@ IPTV相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/i
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-超高清电影,https://live.v1.mk/api/sxg.php?id=emdy4k_8000
-精品导视,https://live.v1.mk/api/sxg.php?id=jpdsH265_4000
+
+精品导视,https://1.11.121112.xyz/api/x.php?id=jpdsH265_4000
 求索动物,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 求索生活,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 求索科学,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
@@ -470,13 +470,13 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 长沙影视,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.flv?auth_key=1936694127-0-0-f081dadf4de8780d84d51755eb65e516
 
 
-湖北综合,http://ainm.cc/itv/php/cjy.php?id=hbzh
-湖北经视,http://ainm.cc/itv/php/cjy.php?id=hbjs
-湖北新闻,http://ainm.cc/itv/php/cjy.php?id=hbgg
-湖北影视,http://ainm.cc/itv/php/cjy.php?id=hbys
-湖北教育,http://ainm.cc/itv/php/cjy.php?id=hbjy
-湖北生活,http://ainm.cc/itv/php/cjy.php?id=hbsh
-湖北垄上,http://ainm.cc/itv/php/cjy.php?id=hbls
+湖北综合,http://live.cooltv.top/tv/cjy.php?id=hbzh
+湖北经视,http://live.cooltv.top/tv/cjy.php?id=hbjs
+湖北新闻,http://live.cooltv.top/tv/cjy.php?id=hbgg
+湖北影视,http://live.cooltv.top/tv/cjy.php?id=hbys
+湖北教育,http://live.cooltv.top/tv/cjy.php?id=hbjy
+湖北生活,http://live.cooltv.top/tv/cjy.php?id=hbsh
+湖北垄上,http://live.cooltv.top/tv/cjy.php?id=hbls
 
 
 江苏城市,http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/4/224/3221225929/index.m3u8
