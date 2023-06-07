@@ -323,10 +323,7 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 
 精品导视,https://1.11.121112.xyz/api/x.php?id=jpdsH265_4000
-求索动物,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
-求索生活,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
-求索科学,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
-求索纪录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
+
 求索动物,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=no&userToken=&usergroup=
 求索纪录,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no&userToken=&usergroup=
 求索科学,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=no&userToken=&usergroup=
@@ -536,30 +533,11 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 合肥教育法治,http://live.cooltv.top/tv/tide.php?id=hfjy
 
 
-河南公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226566/index.m3u8
-河南乡村,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226/index.m3u8
-河南调解,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226581/index.m3u8
-河南国际,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226588/index.m3u8
-河南法治,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226724/index.m3u8
-河南都市,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226649/index.m3u8
-河南戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226628/index.m3u8
-河南移动,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226871/index.m3u8
-河南民生,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226685/index.m3u8
-河南棋牌汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226602/index.m3u8
-大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226665/index.m3u8
-梨园频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226438/index.m3u8
-文物宝库,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226638/index.m3u8
-功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
-睛彩中原,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226589/index.m3u8
-国学频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
-大象新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226677/index.m3u8
-大象新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226716/index.m3u8
-郑州新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226618/index.m3u8
-郑州商都,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226650/index.m3u8
-郑州文体旅游,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226627/index.m3u8
-郑州影视戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226645/index.m3u8
-郑州妇女儿童,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226686/index.m3u8
-郑州都市生活,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
+河南公共,http://lu1.cc/itv/hntv/hntv.php?id=hngg
+河南乡村,http://lu1.cc/itv/hntv/hntv.php?id=hnxc
+河南电视剧,http://lu1.cc/itv/hntv/hntv.php?id=hndsj
+河南国际,http://lu1.cc/itv/hntv/hntv.php?id=hngj
+河南都市,http://lu1.cc/itv/hntv/hntv.php?id=hnds
 
 河北农民,https://event.pull.hebtv.com/jishi/nongminpindao.m3u8
 河北都市,https://event.pull.hebtv.com/jishi/jingjishenghuo.m3u8
@@ -682,23 +660,7 @@ t1,http://pull-l3-cny.douyincdn.com/live/jixian888221358558854444741889.m3u8
 影视剧,#genre#
 
 
-蜡笔小新,https://cn-zjjh-ct-04-14.bilivideo.com/live-bvc/992644/live_415611_4082642_1500.m3u8
 
-历年贺岁大片,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
-金庸武侠系列,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
-吴孟达,http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
-林正英,http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
-沈腾,http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
-甄子丹,http://txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs
-李连杰,http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
-刘德华,http://txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs
-黄渤,http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
-咏春,http://txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
-黑帮,http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
-赛车,http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
-警匪,http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
-玄幻,http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
-王晶,http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
 华语经典,http://epg.112114.xyz/douyu/434971
 吃米滴虫,http://epg.112114.xyz/douyu/315457
 神乐影片1,http://epg.112114.xyz/douyu/122402
@@ -826,13 +788,10 @@ CCTV4 12M,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3
 CCTV4K 16M,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
 CCTV16 25M,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
 纯享4K 20M,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
-芒果综艺,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
-芒果综艺,http://[2409:8087:3428:20:500::100b]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
-河南卫视6M 4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+
 爱上4K 32M,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 SiTV欢笑剧场 11M,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-纯享4K 20M,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+
 4K电影 16M,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=no&userToken=&usergroup=
 
 
