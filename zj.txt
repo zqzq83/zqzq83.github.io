@@ -231,9 +231,9 @@ IPTV相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/i
 
 
 
-衢州公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233752/index.m3u8?fmt=ts2hls
-衢州综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233755/index.m3u8?fmt=ts2hls
-衢州经济,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233760/index.m3u8?fmt=ts2hls
+
+
+
 衢州综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233805/index.m3u8?fmt=ts2hls
 衢州公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233808/index.m3u8?fmt=ts2hls
 衢州经济,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233811/index.m3u8?fmt=ts2hls
