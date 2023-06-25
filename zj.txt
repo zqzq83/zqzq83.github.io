@@ -378,15 +378,7 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 中国功夫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229663/index.m3u8
 潮妈辣婆,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229725/index.m3u8
 炫舞未来,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229669/index.m3u8
-影视1,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221226741/index.m3u8?servicetype=1
-影视2,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221226736/index.m3u8?servicetype=1
-影视3,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
-影视4,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221226754/index.m3u8?servicetype=1
-影视5,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221226732/index.m3u8?servicetype=1
-影视6,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
-影视7,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221226743/index.m3u8?servicetype=1
-影视8,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
-影视9,http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221225893/index.m3u8?servicetype=1
+
 精彩影视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=no&userToken=&usergroup=
 爱电竞,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=no&userToken=&usergroup=
 爱谍战,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=no&userToken=&usergroup=
@@ -499,23 +491,7 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 
 
 
-广东经济,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs1&auth=rinimabi
-大湾区卫视,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs2&auth=rinimabi
-广东综艺,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs3&auth=rinimabi
-广东影视,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs4&auth=rinimabi
-广东少儿,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs5&auth=rinimabi
-广东移动,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdyd&auth=rinimabi
-广东体育,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdty&auth=rinimabi
-广东国际,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdgj&auth=rinimabi
 
-广东珠江,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdzj&auth=rinimabi
-广东新闻,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdxw&auth=rinimabi
-广东公共,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdgg&auth=rinimabi
-嘉佳卡通,http://v2.91kds.cn/b9/itouchtv.m3u8?id=gdjjkt&auth=rinimab
-广州综合,http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzzh&auth=rinimabi
-广州新闻,http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzxw&auth=rinimabi
-广州影视,http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzys&auth=rinimabi
-广州法治,http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzjj&auth=rinimabi
 
 深圳娱乐,http://live.cooltv.top/tv/tide.php?id=szyl
 深圳公共,http://live.cooltv.top/tv/tide.php?id=szgg
@@ -554,13 +530,13 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 贵阳1,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225743/1/index.m3u8?fmt=ts2hls
 
 
-四川经济,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv2&auth=rinimabi
-四川文化,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv3&auth=rinimabi
-四川新闻,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv4&auth=rinimabi
-四川影视,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv5&auth=rinimabi
-四川购物,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv6&auth=rinimabi
-四川妇女,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv7&auth=rinimabi
-四川乡村,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv9&auth=rinimabi
+四川文化旅游,https://1.11.121112.xyz/api/x.php?id=SCTV-2-H265_4000
+四川经济,https://1.11.121112.xyz/api/x.php?id=SCTV-3-H265_4000
+四川新闻,https://1.11.121112.xyz/api/x.php?id=SCTV-4H265_4000
+四川影视文艺,https://1.11.121112.xyz/api/x.php?id=SCTV-5-scysH265_4000
+四川妇女儿童,https://1.11.121112.xyz/api/x.php?id=SCTV-7-_4000
+四川科教,https://1.11.121112.xyz/api/x.php?id=SCTV-ggSCTV-8_4000
+四川乡村,https://1.11.121112.xyz/api/x.php?id=SCTV-kjSCTV-9-_4000
 四川电影,https://1.11.121112.xyz/api/x.php?id=emdygqH265_4000
 成都新闻综合,https://1.11.121112.xyz/api/x.php?id=CDTV-1_4000
 成都经济资讯,https://1.11.121112.xyz/api/x.php?id=CDTV-2_4000
@@ -580,14 +556,7 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 重庆汽摩高清,https://1.11.121112.xyz/api/cq.php?id=cqcarSD
 重庆移动高清,https://1.11.121112.xyz/api/cq.php?id=mryyHD
 重广融媒,http://1.11.121112.xyz/cq.php?id=cqrongmei
-山东齐鲁,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdql&auth=rinimabi
-山东体育,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdty&auth=rinimabi
-山东生活,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdsh&auth=rinimabi
-山东综艺,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdzy&auth=rinimabi
-山东新闻,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdgg&auth=rinimabi
-山东农科,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdnk&auth=rinimabi
-山东文旅,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdys&auth=rinimabi
-山东少儿,http://v2.91kds.cn/b9/sdtv.m3u8?id=sdse&auth=rinimabi
+
 
 
 陕西体育休闲,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
