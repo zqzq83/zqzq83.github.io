@@ -254,26 +254,26 @@ IPTV相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/i
 金华公共频道,http://live.plus.jinhua.com.cn/jjsh/playlist.m3u8
 金华教育科技,http://live.plus.jinhua.com.cn/jykj/playlist.m3u8
 金华新闻综合,http://live.plus.jinhua.com.cn/xwzh/playlist.m3u8
-义乌新闻综合,http://ainm.cc/itv/php/gdy1.php?id=ywxwzh
-义乌商贸,http://ainm.cc/itv/php/gdy1.php?id=ywsm
-义乌公共,http://ainm.cc/itv/php/gdy1.php?id=ywggwy
-临安综合,http://ainm.cc/itv/php/gdy1.php?id=lazh
-富阳新闻综合,http://ainm.cc/itv/php/gdy1.php?id=fyzh
-临平新闻,http://ainm.cc/itv/php/gdy1.php?id=lpxw
-乐清综合,http://ainm.cc/itv/php/gdy1.php?id=yqzh
-乐清新闻,http://ainm.cc/itv/php/gdy1.php?id=yqxw
-永嘉新闻综合,http://ainm.cc/itv/php/gdy1.php?id=yjxwzh
-温岭新闻综合,http://ainm.cc/itv/php/gdy1.php?id=wlxwzh
-温岭民生休闲,http://ainm.cc/itv/php/gdy1.php?id=wlmsxx 
-新昌新闻,http://ainm.cc/itv/php/gdy1.php?id=xcxw
-新昌生活,http://ainm.cc/itv/php/gdy1.php?id=xcsh
-宁海新闻综合,http://ainm.cc/itv/php/gdy1.php?id=nhxwzh
-安吉新闻综合,http://ainm.cc/itv/php/gdy1.php?id=ajxw
-安吉生活,http://ainm.cc/itv/php/gdy1.php?id=ajsh
-安吉影视,http://ainm.cc/itv/php/gdy1.php?id=ajys
-慈溪新闻综合,http://ainm.cc/itv/php/gdy1.php?id=cxxwzh
-慈溪民生休闲,http://ainm.cc/itv/php/gdy1.php?id=cxmsxx
-慈溪影视图文,http://ainm.cc/itv/php/gdy1.php?id=cxystw
+义乌新闻综合,http://lu1.cc/itv/php/gdy1.php?id=ywxwzh
+义乌商贸,http://lu1.cc/itv/php/gdy1.php?id=ywsm
+义乌公共,http://lu1.cc/itv/php/gdy1.php?id=ywggwy
+临安综合,http://lu1.cc/itv/php/gdy1.php?id=lazh
+富阳新闻综合,http://lu1.cc/itv/php/gdy1.php?id=fyzh
+临平新闻,http://lu1.cc/itv/php/gdy1.php?id=lpxw
+乐清综合,http://lu1.cc/itv/php/gdy1.php?id=yqzh
+乐清新闻,http://lu1.cc/itv/php/gdy1.php?id=yqxw
+永嘉新闻综合,http://lu1.cc/itv/php/gdy1.php?id=yjxwzh
+温岭新闻综合,http://lu1.cc/itv/php/gdy1.php?id=wlxwzh
+温岭民生休闲,http://lu1.cc/itv/php/gdy1.php?id=wlmsxx 
+新昌新闻,http://lu1.cc/itv/php/gdy1.php?id=xcxw
+新昌生活,http://lu1.cc/itv/php/gdy1.php?id=xcsh
+宁海新闻综合,http://lu1.cc/itv/php/gdy1.php?id=nhxwzh
+安吉新闻综合,http://lu1.cc/itv/php/gdy1.php?id=ajxw
+安吉生活,http://lu1.cc/itv/php/gdy1.php?id=ajsh
+安吉影视,http://lu1.cc/itv/php/gdy1.php?id=ajys
+慈溪新闻综合,http://lu1.ccitv/php/gdy1.php?id=cxxwzh
+慈溪民生休闲,http://lu1.cc/itv/php/gdy1.php?id=cxmsxx
+慈溪影视图文,http://lu1.cc/itv/php/gdy1.php?id=cxystw
 
 舟山新闻综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230335/index.m3u8
 舟山公共生活,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230338/index.m3u8
@@ -481,12 +481,12 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 江西都市,http://lu1.cc/itv/jxtv/jsp.php?id=jxds
 
 
-安徽公共,http://ainm.cc/itv/ahtv/ahtv1.php?id=ahgg
-安徽农业科教,http://ainm.cc/itv/ahtv/ahtv1.php?id=ahnykj
-安徽综艺,http://ainm.cc/itv/ahtv/ahtv1.php?id=ahzyty
-安徽国际,http://ainm.cc/itv/ahtv/ahtv1.php?id=ahgj
-安徽影视,http://ainm.cc/itv/ahtv/ahtv1.php?id=ahys
-安徽经济,http://ainm.cc/itv/ahtv/ahtv1.php?id=ahjjsh
+安徽公共,http://lu1.cc/itv/ahtv/ahtv1.php?id=ahgg
+安徽农业科教,http://lu1.cc/itv/ahtv/ahtv1.php?id=ahnykj
+安徽综艺,http://lu1.cc/itv/ahtv/ahtv1.php?id=ahzyty
+安徽国际,http://lu1.cc/itv/ahtv/ahtv1.php?id=ahgj
+安徽影视,http://lu1.cc/itv/ahtv/ahtv1.php?id=ahys
+安徽经济,http://lu1.cc/itv/ahtv/ahtv1.php?id=ahjjsh
 
 
 
@@ -604,9 +604,7 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 海南少儿,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
 海南文旅,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS
 海南新闻,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000015/index.m3u8?IAS
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-t1,http://pull-l3-cny.douyincdn.com/live/jixian888221358558854444741889.m3u8
-新闻2,http://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+
 凤凰卫视资讯台,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
 凤凰卫视中文台,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
 
