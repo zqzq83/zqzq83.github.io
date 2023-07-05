@@ -622,9 +622,10 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 
 
 咪咕体育,#genre#
-咪咕视频10,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229434/index.m3u8?fmt=ts2hls
-咪咕视频11,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232629/index.m3u8?fmt=ts2hls
-咪咕视频12,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232657/index.m3u8?fmt=ts2hls
+咪咕综合体育,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232629/357220554.smil/index.m3u8?fmt=ts2hls
+咪咕精彩足球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232657/357219566.smil/index.m3u8?fmt=ts2hls
+移动电视导视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229434/index.m3u8?fmt=ts2hls
+
 
 咪咕视频41,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232765/index.m3u8
 咪咕视频42,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232768/index.m3u8
