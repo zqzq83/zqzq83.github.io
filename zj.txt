@@ -454,7 +454,7 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 
 
 
-北京财经,http://lu1.cc/itv/bjtv/btime1.php?id=bjcj
+北京财经,http://lu1.cc/c/tv/bjtv/btime1.php?id=bjcj
 
 北京生活,http://lu1.cc/itv/bjtv/btime1.php?id=bjsh
 北京文艺,http://lu1.cc/itv/bjtv/btime1.php?id=bjwy
