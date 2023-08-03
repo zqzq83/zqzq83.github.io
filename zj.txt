@@ -1,7 +1,6 @@
 央视,#genre#,http://diyp.112114.xyz/
 CCTV1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/index.m3u8?fmt=ts2hls
 CCTV1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230713/index.m3u8?fmt=ts2hls
-CCTV1,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232672/index.m3u8
 CCTV2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/index.m3u8?fmt=ts2hls
 CCTV2,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230716/index.m3u8?fmt=ts2hls
 CCTV3,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232596/index.m3u8?fmt=ts2hls
