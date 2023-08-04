@@ -492,6 +492,7 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 江西都市,http://lu1.cc/c/tv/jxtv/jsp.php?id=jxds
 
 
+
 安徽公共,http://lu1.cc/c/tv/ahtv/ahtv1.php?id=ahgg
 安徽农业科教,http://lu1.cc/c/tv/ahtv/ahtv1.php?id=ahnykj
 安徽综艺,http://lu1.cc/c/tv/ahtv/ahtv1.php?id=ahzyty
@@ -500,18 +501,18 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 安徽经济,http://lu1.cc/c/tv/ahtv/ahtv1.php?id=ahjjsh
 
 
+广东珠江,http://lu1.cc/c/tv/php/gudou.php?id=gdzj
+广东影视,http://lu1.cc/c/tv/php/gudou.php?id=gdys
 
 
-
-
-深圳娱乐,http://live.cooltv.top/tv/tide.php?id=szyl
-深圳公共,http://live.cooltv.top/tv/tide.php?id=szgg
-深圳财经生活,http://live.cooltv.top/tv/tide.php?id=szcjsh
-深圳电视剧,http://live.cooltv.top/tv/tide.php?id=szdsj
-深圳都市,http://live.cooltv.top/tv/tide.php?id=szds
-深圳国际,http://live.cooltv.top/tv/tide.php?id=szgj
-深圳移动,http://live.cooltv.top/tv/tide.php?id=szyd
-深圳体育健康,http://live.cooltv.top/tv/tide.php?id=sztyjk
+深圳娱乐,http://lu1.cc/c/tv/gdtv/sztv.php?id=szyl
+深圳公共,http://lu1.cc/c/tv/gdtv/sztv.php?id=szgg
+深圳财经生活,http://lu1.cc/c/tv/gdtv/sztv.php?id=szcjsh
+深圳电视剧,http://lu1.cc/c/tv/gdtv/sztv.php?id=szdsj
+深圳都市,http://lu1.cc/c/tv/gdtv/sztv.php?id=szds
+深圳国际,http://lu1.cc/c/tv/gdtv/sztv.php?id=szgj
+深圳移动,http://lu1.cc/c/tv/gdtv/sztv.php?id=szyd
+深圳体育健康,http://lu1.cc/c/tv/gdtv/sztv.php?id=sztyjk
 
 合肥新闻,http://live.cooltv.top/tv/tide.php?id=hfxw
 合肥财经,http://live.cooltv.top/tv/tide.php?id=hfcj
@@ -583,12 +584,9 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 黑龙江都市,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225990/index.m3u8
 黑龙江公共,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
-辽宁北方,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226755/index.m3u8
-辽宁都市,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226760/index.m3u8
-辽宁公共,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226766/index.m3u8
-辽宁体育,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226764/index.m3u8
-辽宁移动,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226982/index.m3u8
-辽宁影视剧,http://[2409:8087:1414:22::112d]/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226738/index.m3u8
+
+辽宁影视剧,http://lu1.cc/c/tv/php/bfgd.php?id=lnysj
+
 山西经济,http://live.cooltv.top/tv/cutv.php?id=sxjj
 山西影视,http://live.cooltv.top/tv/cutv.php?id=sxys
 山西法治,http://live.cooltv.top/tv/cutv.php?id=sxkj
