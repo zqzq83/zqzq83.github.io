@@ -609,8 +609,8 @@ Y+频道,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 海南文旅,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS
 海南新闻,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000015/index.m3u8?IAS
 
-凤凰卫视资讯台,http://39.136.34.4/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
-凤凰卫视中文台,http://39.136.34.4/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
+凤凰卫视资讯台,http://39.136.4.34/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
+凤凰卫视中文台,http://39.136.4.34/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
 
 
 咪咕体育,#genre#
