@@ -1,0 +1,1681 @@
+# CFNext 订阅
+test-url: 'http://www.gstatic.com/generate_204'
+proxies:
+  - name: 优选IP-01
+    type: vless
+    server: 172.64.229.65
+    port: 443
+    uuid: daf7e419-1c33-429e-9825-ff39de6b0830
+    network: ws
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    alpn: [http/1.1]
+    servername: as1111.br.abrdns.com
+    client-fingerprint: chrome
+    ech-opts:
+      enable: true
+      query-server-name: cloudflare-ech.com
+    ws-opts:
+      path: "/sswwd?ed=2048"
+      headers:
+        Host: as1111.br.abrdns.com
+  - name: 优选IP-01.T
+    type: trojan
+    server: 172.64.229.63
+    port: 443
+    password: daf7e419-1c33-429e-9825-ff39de6b0830
+    network: ws
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    alpn: [http/1.1]
+    servername: as1111.br.abrdns.com
+    sni: as1111.br.abrdns.com
+    client-fingerprint: chrome
+    ech-opts:
+      enable: true
+      query-server-name: cloudflare-ech.com
+    ws-opts:
+      path: "/sswwd?ed=2048"
+      headers:
+        Host: as1111.br.abrdns.com
+  - name: 优选IP-02
+    type: vless
+    server: 172.64.229.6
+    port: 443
+    uuid: daf7e419-1c33-429e-9825-ff39de6b0830
+    network: ws
+    udp: true
+    tls: true
+    skip-cert-verify: true
+    alpn: [http/1.1]
+    servername: as1111.br.abrdns.com
+    client-fingerprint: chrome
+    ech-opts:
+      enable: true
+      query-server-name: cloudflare-ech.com
+    ws-opts:
+      path: "/sswwd?ed=2048"
+      headers:
+        Host: as1111.br.abrdns.com
+  - name: 家宽JP
+    type: openvpn
+    server: 221.71.170.232
+    port: 1379
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: &hwca |
+      -----BEGIN CERTIFICATE-----
+      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
+      -----END CERTIFICATE-----
+    cert: &hwcert |
+      -----BEGIN CERTIFICATE-----
+      MIICxjCCAa4CAQAwDQYJKoZIhvcNAQEFBQAwKTEaMBgGA1UEAxMRVlBOR2F0ZUNs
+      aWVudENlcnQxCzAJBgNVBAYTAkpQMB4XDTEzMDIxMTAzNDk0OVoXDTM3MDExOTAz
+      MTQwN1owKTEaMBgGA1UEAxMRVlBOR2F0ZUNsaWVudENlcnQxCzAJBgNVBAYTAkpQ
+      MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5h2lgQQYUjwoKYJbzVZA
+      5VcIGd5otPc/qZRMt0KItCFA0s9RwReNVa9fDRFLRBhcITOlv3FBcW3E8h1Us7RD
+      4W8GmJe8zapJnLsD39OSMRCzZJnczW4OCH1PZRZWKqDtjlNca9AF8a65jTmlDxCQ
+      CjntLIWk5OLLVkFt9/tScc1GDtci55ofhaNAYMPiH7V8+1g66pGHXAoWK6AQVH67
+      XCKJnGB5nlQ+HsMYPV/O49Ld91ZN/2tHkcaLLyNtywxVPRSsRh480jju0fcCsv6h
+      p/0yXnTB//mWutBGpdUlIbwiITbAmrsbYnjigRvnPqX1RNJUbi9Fp6C2c/HIFJGD
+      ywIDAQABMA0GCSqGSIb3DQEBBQUAA4IBAQChO5hgcw/4oWfoEFLu9kBa1B//kxH8
+      hQkChVNn8BRC7Y0URQitPl3DKEed9URBDdg2KOAz77bb6ENPiliD+a38UJHIRMqe
+      UBHhllOHIzvDhHFbaovALBQceeBzdkQxsKQESKmQmR832950UCovoyRB61UyAV7h
+      +mZhYPGRKXKSJI6s0Egg/Cri+Cwk4bjJfrb5hVse11yh4D9MHhwSfCOH+0z4hPUT
+      Fku7dGavURO5SVxMn/sL6En5D+oSeXkadHpDs+Airym2YHh15h0+jPSOoR6yiVp/
+      6zZeZkrN43kuS73KpKDFjfFPh8t4r1gOIjttkNcQqBccusnplQ7HJpsk
+      -----END CERTIFICATE-----
+    key: &hwkey |
+      -----BEGIN RSA PRIVATE KEY-----
+      MIIEpAIBAAKCAQEA5h2lgQQYUjwoKYJbzVZA5VcIGd5otPc/qZRMt0KItCFA0s9R
+      wReNVa9fDRFLRBhcITOlv3FBcW3E8h1Us7RD4W8GmJe8zapJnLsD39OSMRCzZJnc
+      zW4OCH1PZRZWKqDtjlNca9AF8a65jTmlDxCQCjntLIWk5OLLVkFt9/tScc1GDtci
+      55ofhaNAYMPiH7V8+1g66pGHXAoWK6AQVH67XCKJnGB5nlQ+HsMYPV/O49Ld91ZN
+      /2tHkcaLLyNtywxVPRSsRh480jju0fcCsv6hp/0yXnTB//mWutBGpdUlIbwiITbA
+      mrsbYnjigRvnPqX1RNJUbi9Fp6C2c/HIFJGDywIDAQABAoIBAERV7X5AvxA8uRiK
+      k8SIpsD0dX1pJOMIwakUVyvc4EfN0DhKRNb4rYoSiEGTLyzLpyBc/A28Dlkm5eOY
+      fjzXfYkGtYi/Ftxkg3O9vcrMQ4+6i+uGHaIL2rL+s4MrfO8v1xv6+Wky33EEGCou
+      QiwVGRFQXnRoQ62NBCFbUNLhmXwdj1akZzLU4p5R4zA3QhdxwEIatVLt0+7owLQ3
+      lP8sfXhppPOXjTqMD4QkYwzPAa8/zF7acn4kryrUP7Q6PAfd0zEVqNy9ZCZ9ffho
+      zXedFj486IFoc5gnTp2N6jsnVj4LCGIhlVHlYGozKKFqJcQVGsHCqq1oz2zjW6LS
+      oRYIHgECgYEA8zZrkCwNYSXJuODJ3m/hOLVxcxgJuwXoiErWd0E42vPanjjVMhnt
+      KY5l8qGMJ6FhK9LYx2qCrf/E0XtUAZ2wVq3ORTyGnsMWre9tLYs55X+ZN10Tc75z
+      4hacbU0hqKN1HiDmsMRY3/2NaZHoy7MKnwJJBaG48l9CCTlVwMHocIECgYEA8jby
+      dGjxTH+6XHWNizb5SRbZxAnyEeJeRwTMh0gGzwGPpH/sZYGzyu0SySXWCnZh3Rgq
+      5uLlNxtrXrljZlyi2nQdQgsq2YrWUs0+zgU+22uQsZpSAftmhVrtvet6MjVjbByY
+      DADciEVUdJYIXk+qnFUJyeroLIkTj7WYKZ6RjksCgYBoCFIwRDeg42oK89RFmnOr
+      LymNAq4+2oMhsWlVb4ejWIWeAk9nc+GXUfrXszRhS01mUnU5r5ygUvRcarV/T3U7
+      TnMZ+I7Y4DgWRIDd51znhxIBtYV5j/C/t85HjqOkH+8b6RTkbchaX3mau7fpUfds
+      Fq0nhIq42fhEO8srfYYwgQKBgQCyhi1N/8taRwpk+3/IDEzQwjbfdzUkWWSDk9Xs
+      H/pkuRHWfTMP3flWqEYgW/LW40peW2HDq5imdV8+AgZxe/XMbaji9Lgwf1RY005n
+      KxaZQz7yqHupWlLGF68DPHxkZVVSagDnV/sztWX6SFsCqFVnxIXifXGC4cW5Nm9g
+      va8q4QKBgQCEhLVeUfdwKvkZ94g/GFz731Z2hrdVhgMZaU/u6t0V95+YezPNCQZB
+      wmE9Mmlbq1emDeROivjCfoGhR3kZXW1pTKlLh6ZMUQUOpptdXva8XxfoqQwa3enA
+      M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
+      -----END RSA PRIVATE KEY-----
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-2
+    type: openvpn
+    server: 223.133.135.144
+    port: 1378
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-3
+    type: openvpn
+    server: 90.149.85.59
+    port: 1360
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-4
+    type: openvpn
+    server: 219.28.138.78
+    port: 1462
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-5
+    type: openvpn
+    server: 106.174.122.123
+    port: 1426
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-6
+    type: openvpn
+    server: 180.198.151.58
+    port: 1617
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-7
+    type: openvpn
+    server: 27.84.184.174
+    port: 1292
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR
+    type: openvpn
+    server: 203.239.250.108
+    port: 1548
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽TH
+    type: openvpn
+    server: 58.136.226.124
+    port: 1257
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-2
+    type: openvpn
+    server: 14.35.31.239
+    port: 995
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-8
+    type: openvpn
+    server: 118.237.36.183
+    port: 1372
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-9
+    type: openvpn
+    server: 106.160.51.90
+    port: 1468
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-10
+    type: openvpn
+    server: 36.8.6.31
+    port: 1237
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽RU
+    type: openvpn
+    server: 95.70.13.52
+    port: 1644
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-11
+    type: openvpn
+    server: 118.8.82.197
+    port: 1357
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-12
+    type: openvpn
+    server: 124.213.66.51
+    port: 1346
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-3
+    type: openvpn
+    server: 61.254.51.18
+    port: 995
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-13
+    type: openvpn
+    server: 126.117.200.13
+    port: 1409
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-4
+    type: openvpn
+    server: 39.118.138.90
+    port: 1879
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-5
+    type: openvpn
+    server: 222.108.84.123
+    port: 1474
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-6
+    type: openvpn
+    server: 211.108.226.54
+    port: 995
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-7
+    type: openvpn
+    server: 1.232.152.53
+    port: 1897
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-14
+    type: openvpn
+    server: 221.71.179.28
+    port: 1856
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-15
+    type: openvpn
+    server: 133.114.90.172
+    port: 1632
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-16
+    type: openvpn
+    server: 180.17.221.8
+    port: 1858
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-8
+    type: openvpn
+    server: 118.58.58.238
+    port: 1851
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-17
+    type: openvpn
+    server: 124.32.30.64
+    port: 1603
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-9
+    type: openvpn
+    server: 222.113.23.161
+    port: 1232
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-10
+    type: openvpn
+    server: 121.141.66.201
+    port: 995
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-18
+    type: openvpn
+    server: 110.163.135.59
+    port: 1194
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-11
+    type: openvpn
+    server: 49.175.89.36
+    port: 1580
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-19
+    type: openvpn
+    server: 126.37.15.22
+    port: 1245
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-12
+    type: openvpn
+    server: 115.91.247.102
+    port: 1332
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-20
+    type: openvpn
+    server: 60.153.147.72
+    port: 1677
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-21
+    type: openvpn
+    server: 14.3.16.29
+    port: 995
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-22
+    type: openvpn
+    server: 126.93.184.247
+    port: 1316
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-23
+    type: openvpn
+    server: 126.145.125.132
+    port: 1901
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-24
+    type: openvpn
+    server: 147.192.159.237
+    port: 1496
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-25
+    type: openvpn
+    server: 126.216.249.148
+    port: 1627
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽US
+    type: openvpn
+    server: 16.56.137.203
+    port: 995
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-13
+    type: openvpn
+    server: 218.150.110.94
+    port: 1764
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽RO
+    type: openvpn
+    server: 217.138.212.62
+    port: 443
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽CA
+    type: openvpn
+    server: 70.79.233.9
+    port: 995
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-14
+    type: openvpn
+    server: 220.123.64.231
+    port: 995
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽AE
+    type: openvpn
+    server: 2.50.195.177
+    port: 1271
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-15
+    type: openvpn
+    server: 210.100.131.144
+    port: 1272
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-16
+    type: openvpn
+    server: 211.105.59.154
+    port: 1245
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-26
+    type: openvpn
+    server: 36.13.199.72
+    port: 1498
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-17
+    type: openvpn
+    server: 61.76.193.240
+    port: 995
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-18
+    type: openvpn
+    server: 59.15.131.92
+    port: 995
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-19
+    type: openvpn
+    server: 1.245.64.52
+    port: 1381
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-20
+    type: openvpn
+    server: 58.150.189.252
+    port: 1717
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-27
+    type: openvpn
+    server: 126.108.108.183
+    port: 1890
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽RU-2
+    type: openvpn
+    server: 95.191.21.152
+    port: 1806
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-21
+    type: openvpn
+    server: 61.77.164.200
+    port: 995
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-28
+    type: openvpn
+    server: 180.198.106.167
+    port: 1514
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-29
+    type: openvpn
+    server: 59.85.94.101
+    port: 1720
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-30
+    type: openvpn
+    server: 113.154.3.100
+    port: 1754
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-31
+    type: openvpn
+    server: 210.147.152.187
+    port: 1993
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-22
+    type: openvpn
+    server: 61.253.166.119
+    port: 1463
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-23
+    type: openvpn
+    server: 14.48.90.3
+    port: 995
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-24
+    type: openvpn
+    server: 39.118.41.64
+    port: 1628
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽JP-32
+    type: openvpn
+    server: 61.25.149.161
+    port: 1549
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-25
+    type: openvpn
+    server: 119.198.236.42
+    port: 995
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽GD
+    type: openvpn
+    server: 74.122.88.200
+    port: 443
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-26
+    type: openvpn
+    server: 121.162.213.139
+    port: 1589
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽VN
+    type: openvpn
+    server: 1.53.11.250
+    port: 1720
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-27
+    type: openvpn
+    server: 210.123.30.88
+    port: 1395
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-28
+    type: openvpn
+    server: 211.34.73.80
+    port: 1795
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-29
+    type: openvpn
+    server: 211.229.23.26
+    port: 995
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-30
+    type: openvpn
+    server: 220.78.203.168
+    port: 995
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-31
+    type: openvpn
+    server: 121.134.136.164
+    port: 1573
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-32
+    type: openvpn
+    server: 121.164.146.116
+    port: 995
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-33
+    type: openvpn
+    server: 112.172.121.216
+    port: 995
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽KR-34
+    type: openvpn
+    server: 121.181.97.45
+    port: 995
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+  - name: 家宽US-2
+    type: openvpn
+    server: 173.224.197.173
+    port: 1283
+    proto: tcp
+    udp: false
+    username: vpn
+    password: vpn
+    ca: *hwca
+    cert: *hwcert
+    key: *hwkey
+    dev: tun
+    cipher: AES-128-CBC
+    auth: SHA1
+    handshake-timeout: 30
+    dialer-proxy: 隧道前置
+
+# ==================== 锚点配置 ====================
+# 代理提供者模板 - 订阅源基础配置
+
+# 节点筛选正则表达式 - 仅保留常用地区
+FilterHK: &FilterHK '^(?=.*(?i)(港|🇭🇰|HK|Hong|HKG))(?!.*5x).*$'
+FilterSG: &FilterSG '^(?=.*(?i)(坡|🇸🇬|SG|Sing|SIN|XSP))(?!.*5x).*$'
+FilterJP: &FilterJP '^(?=.*(?i)(日|🇯🇵|JP|Japan|NRT|HND|KIX|CTS|FUK))(?!.*(尼日利亚|5x)).*$'
+FilterUS: &FilterUS '^(?=.*(?i)(美|🇺🇸|US|USA|JFK|SJC|LAX|ORD|ATL|DFW|SFO|MIA|SEA|IAD))(?!.*(Plus|Australia|5x)).*$'
+# 注意：🇼🇸 是萨摩亚旗帜，不是台湾，已移除，避免误匹配
+FilterTW: &FilterTW '^(?=.*(?i)(台|🇹🇼|TW|tai|TPE|TSA|KHH))(?!.*5x).*$'
+
+# ==================== 监听器 ====================
+listeners:
+  # Shadowsocks监听器 - 远程连接家庭网络，端口和密码使用时请修改（默认密码请勿用于公网）
+  - {name: SS-IN,  type: shadowsocks, listen: '::', port: 10000, udp: true, password: Xf3#Lp9WqZ, cipher: aes-256-gcm}
+  # Mixed监听器 - 分地区专用端口 玩法：本地浏览器插件或手机APP配置代理，实现分地区访问
+  - {name: MIXED-SG, type: mixed, port: 50000, proxy: 新加坡节点}
+  - {name: MIXED-US, type: mixed, port: 50001, proxy: 美国节点}
+  - {name: MIXED-TW, type: mixed, port: 50002, proxy: 台湾节点}
+  - {name: MIXED-HK, type: mixed, port: 50003, proxy: 香港节点}
+  - {name: MIXED-JP, type: mixed, port: 50004, proxy: 日本节点}
+  - {name: MIXED-AL, type: mixed, port: 50007, proxy: 一键连接}
+
+# ==================== 核心配置 ====================
+mode: rule
+port: 7890
+socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+tproxy-port: 7895
+ipv6: true
+allow-lan: true
+unified-delay: true
+tcp-concurrent: true
+log-level: warning
+bind-address: '*'
+find-process-mode: 'always'
+keep-alive-interval: 15
+keep-alive-idle: 600
+
+# 认证配置（默认凭据请务必修改！）
+authentication:
+  - mihomo:yyds666
+skip-auth-prefixes:
+  - 192.168.1.0/24
+  - 192.168.31.0/24
+  - 192.168.100.0/24
+  - 127.0.0.1/8
+
+# 实验性功能
+experimental:
+  quic-go-disable-gso: true
+
+# 管理面板配置
+external-ui-url: https://github.com/Zephyruso/zashboard/releases/latest/download/dist.zip
+external-ui-name: zashboard
+external-ui: ui
+external-controller: 127.0.0.1:9090
+secret: yyds666    # 请修改为自定义密钥
+# 允许网页面板跨域访问
+external-controller-cors:
+  allow-origins:
+    - "*"
+  allow-private-network: true
+
+# 配置存储
+profile:
+  store-selected: true
+  store-fake-ip: true
+
+# geosite / geoip 数据源（GEOSITE 规则依赖；MetaCubeX 官方规则库，GitHub release 官方源）
+geox-url:
+  geoip: "https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip.dat"
+  geosite: "https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geosite.dat"
+  mmdb: "https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/country.mmdb"
+
+# 流量嗅探
+sniffer:
+  enable: true
+  force-dns-mapping: true   # 强制 DNS 映射，提高分流准确度
+  parse-pure-ip: true       # 解析纯 IP 连接
+  override-destination: true
+  sniff:
+    HTTP:
+      ports: [80, 8080-8880]
+    TLS:
+      ports: [443, 8443]
+    QUIC:
+      ports: [443, 8443]
+  skip-domain:
+    - "+.push.apple.com"
+
+# TUN模式配置
+tun:
+  enable: false
+  stack: mixed
+  mtu: 1480
+  dns-hijack:
+    - "any:53"
+    - "tcp://any:53"
+  udp-timeout: 300
+  auto-route: true
+  strict-route: true
+  auto-redirect: true
+  auto-detect-interface: true
+  # 提示：系统级防泄露的最强手段是开启 TUN（自动劫持全部 DNS 流量）；
+  # 不开 TUN 时，请把系统 / LAN 设备的 DNS 指向 127.0.0.1:53（本机）或本机局域网 IP:53。
+
+hosts:
+  miwifi.com: 192.168.31.2
+  "epdg.epc.mnc010.mcc234.pub.3gppnetwork.org": [87.194.8.8, 87.194.88.8, 87.194.89.8, 87.194.9.8]
+  services.googleapis.cn: services.googleapis.com
+  cn.bing.com: www4.bing.com
+
+# ==================== DNS 配置 ====================
+# 防泄露要点：
+#   1) respect-rules: true：DNS 服务器连接遵循路由规则（国外 DoH 走代理隧道、国内 DoH 直连），
+#      解析行为与规则分流一致，避免“规则走代理、解析却直连”的泄露。
+#   2) 默认 nameserver 用国内 DoH；只有“将走代理”的规则集才用国外 DoH，
+#      且其域名在 rules 中显式固定走代理。
+#   3) fake-ip-filter 补齐系统连通性检测 / 时间同步 / 运营商登录等域名，防止系统误判断网而回退运营商 DNS。
+dns:
+  enable: true
+  listen: 0.0.0.0:53        # 本机 / LAN 设备可把 DNS 指向此地址，避免走运营商 DNS
+  ipv6: true
+  prefer-h3: false          # respect-rules 下官方不推荐 DoH3；且 QUIC 已被规则拦截
+  cache-algorithm: arc      # 性能更优的 ARC 缓存算法
+  cache-size: 4096
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - "+.lan"
+    - "+.local"
+    - "+.localhost"
+    - "+.home.arpa"
+    - "+.internal"
+    # 系统连通性检测（防止 fake-ip 导致“无网络”判断，回退 ISP DNS 造成泄露）
+    - "+.msftconnecttest.com"
+    - "+.msftncsi.com"          # 通配已覆盖 dns.msftncsi.com
+    - "captive.apple.com"
+    - "connectivitycheck.gstatic.com"
+    - "detectportal.firefox.com"
+    # 时间同步
+    - "time.nist.gov"
+    - "+.pool.ntp.org"
+    - "time.*.com"              # 通配已覆盖 time.windows.com
+    - "ntp.*.com"               # 通配已覆盖 ntp.ubuntu.com
+    # 运营商 Wi-Fi 登录页
+    - "+.cmpassport.com"
+    - "id6.me"
+    - "open.e.189.cn"
+    - "mdn.open.wo.cn"
+    - "opencloud.wostore.cn"
+    - "auth.wosms.cn"
+    - "+.10099.com.cn"
+    # 原配置保留项
+    - "+.market.xiaomi.com"
+    - "+.pub.3gppnetwork.org"
+    - "+.push.apple.com"
+    - "+.bing.com"
+    - "+.miwifi.com"
+    - "+.docker.io"
+    # 国内应用登录（+.qq.com 已覆盖 localhost.ptlogin2.qq.com）
+    - "+.qq.com"
+    # 直连 / 国内类规则集：返回真实 IP
+    - rule-set:Direct
+    - rule-set:Private
+    - rule-set:China
+    - geosite:cn                # 国内域名返回真实 IP（geosite 库兜底，防 fake-ip 干扰国内应用）
+  use-hosts: true
+  respect-rules: true
+  # 引导用 DNS（解析 DoH/DoT 服务器自身的域名），必须是 IP
+  default-nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+  # 默认解析：未命中 nameserver-policy 的域名（国内 DoH，直连）
+  nameserver:
+    - "https://dns.alidns.com/dns-query"
+    - "https://doh.pub/dns-query"
+  # 直连出口的解析
+  direct-nameserver:
+    - "https://dns.alidns.com/dns-query"
+    - "https://doh.pub/dns-query"
+  # 解析代理节点域名（防套娃 / 防循环，用国内直连可达的 DoH）
+  proxy-server-nameserver:
+    - "https://dns.alidns.com/dns-query"
+    - "https://doh.pub/dns-query"
+  nameserver-policy:
+    # 广告域名直接返回空应答
+    "rule-set:Advertising,AWAvenueAds": rcode://success
+    # 直连类：国内 DoH（微软已并入直连，微软域名走国内解析后直连）
+    "rule-set:Direct,Private,China,Microsoft":
+      - "https://dns.alidns.com/dns-query"
+      - "https://doh.pub/dns-query"
+    # 走代理类：国外 DoH（连接本身经代理隧道，不直连暴露查询）
+    "rule-set:AI,Telegram,Twitter,SocialMedia,Netflix,YouTube,Spotify,TikTok,disney,Google,Proxy":
+      - "https://dns.google/dns-query"
+      - "https://cloudflare-dns.com/dns-query"
+
+# ==================== 代理策略组（9 个可见 + 6 个隐藏自动子组） ====================
+proxy-groups:
+  # 主入口：默认自动选择，可手动切换各地区 / 故障转移 / 全部节点 / 直接连接
+  - {name: 一键连接,     type: select, proxies: [自动选择, 故障转移, 香港节点, 台湾节点, 日本节点, 美国节点, 新加坡节点, 全部节点, 直接连接], icon: https://github.com/Koolson/Qure/raw/master/IconSet/Color/Static.png}
+  # 自动选择：隐藏（面板不可手动选择），纯自动优选延时最低节点；故障转移：按序自动切换
+  - {name: 自动选择,     type: url-test, include-all: true, url: 'https://www.google.com/generate_204', interval: 200, lazy: true, hidden: true, empty-fallback: REJECT, icon: https://github.com/Koolson/Qure/raw/master/IconSet/Color/Auto.png}
+  - {name: 故障转移,     type: fallback, proxies: [香港节点, 台湾节点, 日本节点, 美国节点, 新加坡节点, 全部节点], url: 'https://www.google.com/generate_204', interval: 200, lazy: true, empty-fallback: REJECT, icon: https://github.com/Koolson/Qure/raw/master/IconSet/Color/ULB.png}
+  # 常用地区节点组（select：默认选中“XX自动”=自动优选该地区最快节点，也可手动指定单个节点）
+  - {name: 香港节点,     type: select, include-all: true, filter: *FilterHK, proxies: [香港自动], icon: https://github.com/Koolson/Qure/raw/master/IconSet/Color/Hong_Kong.png}
+  - {name: 台湾节点,     type: select, include-all: true, filter: *FilterTW, proxies: [台湾自动], icon: https://github.com/Koolson/Qure/raw/master/IconSet/Color/Taiwan.png}
+  - {name: 日本节点,     type: select, include-all: true, filter: *FilterJP, proxies: [日本自动], icon: https://github.com/Koolson/Qure/raw/master/IconSet/Color/Japan.png}
+  - {name: 美国节点,     type: select, include-all: true, filter: *FilterUS, proxies: [美国自动], icon: https://github.com/Koolson/Qure/raw/master/IconSet/Color/United_States.png}
+  - {name: 新加坡节点,   type: select, include-all: true, filter: *FilterSG, proxies: [新加坡自动], icon: https://github.com/Koolson/Qure/raw/master/IconSet/Color/Singapore.png}
+  # 全部节点（手动挑选任意节点；首个选项“自动选择”=全部节点中最快）
+  - {name: 全部节点,     type: select, include-all: true, proxies: [自动选择], icon: https://github.com/Koolson/Qure/raw/master/IconSet/Color/Global.png}
+  # 各地区自动优选子组（隐藏，作为各地区分组内的“自动选择”选项）
+  - {name: 香港自动,     type: url-test, include-all: true, filter: *FilterHK, url: 'https://www.google.com/generate_204', interval: 200, lazy: true, empty-fallback: REJECT, hidden: true, icon: https://github.com/Koolson/Qure/raw/master/IconSet/Color/Auto.png}
+  - {name: 台湾自动,     type: url-test, include-all: true, filter: *FilterTW, url: 'https://www.google.com/generate_204', interval: 200, lazy: true, empty-fallback: REJECT, hidden: true, icon: https://github.com/Koolson/Qure/raw/master/IconSet/Color/Auto.png}
+  - {name: 日本自动,     type: url-test, include-all: true, filter: *FilterJP, url: 'https://www.google.com/generate_204', interval: 200, lazy: true, empty-fallback: REJECT, hidden: true, icon: https://github.com/Koolson/Qure/raw/master/IconSet/Color/Auto.png}
+  - {name: 美国自动,     type: url-test, include-all: true, filter: *FilterUS, url: 'https://www.google.com/generate_204', interval: 200, lazy: true, empty-fallback: REJECT, hidden: true, icon: https://github.com/Koolson/Qure/raw/master/IconSet/Color/Auto.png}
+  - {name: 新加坡自动,   type: url-test, include-all: true, filter: *FilterSG, url: 'https://www.google.com/generate_204', interval: 200, lazy: true, empty-fallback: REJECT, hidden: true, icon: https://github.com/Koolson/Qure/raw/master/IconSet/Color/Auto.png}
+  # 直连分组（放在最下方）
+  - {name: 直接连接,     type: select, proxies: [DIRECT], icon: https://github.com/Koolson/Qure/raw/master/IconSet/Color/Direct.png}
+
+  # 家宽隧道前置：CF 优选节点自动测活，家宽 openvpn 经此拨号（dialer-proxy）
+  - {name: 隧道前置, type: url-test, proxies: [优选IP-01, 优选IP-01.T, 优选IP-02], url: 'https://www.google.com/generate_204', interval: 300, lazy: true, hidden: true, empty-fallback: REJECT, icon: https://github.com/Koolson/Qure/raw/master/IconSet/Color/Auto.png}
+  # 家宽模式：自动测活（url-test 自动选择延迟最低家宽节点）
+  - {name: 家宽自动, type: url-test, proxies: [家宽JP, 家宽JP-2, 家宽JP-3, 家宽JP-4, 家宽JP-5, 家宽JP-6, 家宽JP-7, 家宽KR, 家宽TH, 家宽KR-2, 家宽JP-8, 家宽JP-9, 家宽JP-10, 家宽RU, 家宽JP-11, 家宽JP-12, 家宽KR-3, 家宽JP-13, 家宽KR-4, 家宽KR-5, 家宽KR-6, 家宽KR-7, 家宽JP-14, 家宽JP-15, 家宽JP-16, 家宽KR-8, 家宽JP-17, 家宽KR-9, 家宽KR-10, 家宽JP-18, 家宽KR-11, 家宽JP-19, 家宽KR-12, 家宽JP-20, 家宽JP-21, 家宽JP-22, 家宽JP-23, 家宽JP-24, 家宽JP-25, 家宽US, 家宽KR-13, 家宽RO, 家宽CA, 家宽KR-14, 家宽AE, 家宽KR-15, 家宽KR-16, 家宽JP-26, 家宽KR-17, 家宽KR-18, 家宽KR-19, 家宽KR-20, 家宽JP-27, 家宽RU-2, 家宽KR-21, 家宽JP-28, 家宽JP-29, 家宽JP-30, 家宽JP-31, 家宽KR-22, 家宽KR-23, 家宽KR-24, 家宽JP-32, 家宽KR-25, 家宽GD, 家宽KR-26, 家宽VN, 家宽KR-27, 家宽KR-28, 家宽KR-29, 家宽KR-30, 家宽KR-31, 家宽KR-32, 家宽KR-33, 家宽KR-34, 家宽US-2], url: 'https://www.google.com/generate_204', interval: 600, lazy: true, hidden: true, empty-fallback: REJECT, icon: https://github.com/Koolson/Qure/raw/master/IconSet/Color/Auto.png}
+  # 家宽模式：VPN Gate OpenVPN 出口（多台家宽节点自动测活，经 dialer-proxy 隧道拨号）
+  - {name: 家宽出口, type: select, proxies: [家宽自动, 家宽AE, 家宽CA, 家宽GD, 家宽JP, 家宽JP-10, 家宽JP-11, 家宽JP-12, 家宽JP-13, 家宽JP-14, 家宽JP-15, 家宽JP-16, 家宽JP-17, 家宽JP-18, 家宽JP-19, 家宽JP-2, 家宽JP-20, 家宽JP-21, 家宽JP-22, 家宽JP-23, 家宽JP-24, 家宽JP-25, 家宽JP-26, 家宽JP-27, 家宽JP-28, 家宽JP-29, 家宽JP-3, 家宽JP-30, 家宽JP-31, 家宽JP-32, 家宽JP-4, 家宽JP-5, 家宽JP-6, 家宽JP-7, 家宽JP-8, 家宽JP-9, 家宽KR, 家宽KR-10, 家宽KR-11, 家宽KR-12, 家宽KR-13, 家宽KR-14, 家宽KR-15, 家宽KR-16, 家宽KR-17, 家宽KR-18, 家宽KR-19, 家宽KR-2, 家宽KR-20, 家宽KR-21, 家宽KR-22, 家宽KR-23, 家宽KR-24, 家宽KR-25, 家宽KR-26, 家宽KR-27, 家宽KR-28, 家宽KR-29, 家宽KR-3, 家宽KR-30, 家宽KR-31, 家宽KR-32, 家宽KR-33, 家宽KR-34, 家宽KR-4, 家宽KR-5, 家宽KR-6, 家宽KR-7, 家宽KR-8, 家宽KR-9, 家宽RO, 家宽RU, 家宽RU-2, 家宽TH, 家宽US, 家宽US-2, 家宽VN, 直接连接], icon: https://github.com/Koolson/Qure/raw/master/IconSet/Color/VPN.png}
+# ==================== 规则路由 ====================
+rules:
+  # 广告拦截（常用：直接拒绝；如需临时放行可改为一键连接）
+  - RULE-SET,Tracking,REJECT
+  - RULE-SET,AWAvenueAds,REJECT
+  - RULE-SET,Advertising,REJECT
+  - GEOSITE,category-ads-all,REJECT        # geosite 广告分类兜底（v2ray 标准库，覆盖面广）
+
+  # DNS 服务器域名：解析通道固定，避免 DNS 流量走错路径（防泄露关键）
+  - DOMAIN-SUFFIX,alidns.com,直接连接
+  - DOMAIN-SUFFIX,doh.pub,直接连接
+  - DOMAIN,dns.google,一键连接
+  - DOMAIN,cloudflare-dns.com,一键连接
+
+  # 大陆直连优先（置于国外服务规则之前：大陆应用一律直连，不被国外服务规则集抢先命中）
+  - RULE-SET,Private,直接连接
+  - RULE-SET,Direct,直接连接
+  - RULE-SET,Download,直接连接
+  - RULE-SET,AppleCN,直接连接
+  - RULE-SET,Microsoft,直接连接        # 微软全家桶直连（Office / OneDrive / Windows 更新 / Teams / Xbox 等）
+  - RULE-SET,China,直接连接             # 国内域名直连
+  - GEOSITE,CN,直接连接                  # geosite 国内域名兜底（覆盖规则集未收录的国内域名，先于 GEOIP 命中）
+  # 阻止走代理的 QUIC（强制回退 TCP，避免 QUIC 绕过代理 / 被干扰）。
+  # 放在直连规则之后：直连 QUIC（大陆 / 微软 / 苹果）不受影响。如需 Telegram 语音等 UDP，可删除此行。
+  - AND,((DST-PORT,443),(NETWORK,UDP)),REJECT
+
+  # 常用国外服务（统一走一键连接）
+  - RULE-SET,AI,一键连接
+  - RULE-SET,Telegram,一键连接
+  - RULE-SET,Twitter,一键连接
+  - RULE-SET,SocialMedia,一键连接
+  - RULE-SET,Netflix,一键连接
+  - RULE-SET,YouTube,一键连接
+  - RULE-SET,Spotify,一键连接
+  - RULE-SET,TikTok,一键连接
+  - RULE-SET,disney,一键连接
+  - RULE-SET,Google,一键连接
+  - RULE-SET,github,一键连接
+  - RULE-SET,Proxy,一键连接
+
+  # IP规则
+  - RULE-SET,PrivateIP,直接连接,no-resolve
+  - RULE-SET,TelegramIP,一键连接,no-resolve
+  - RULE-SET,ProxyIP,一键连接,no-resolve
+  - RULE-SET,ChinaIP,直接连接,no-resolve
+
+  # 大陆 IP 兜底直连：覆盖规则集未收录的域名 / 纯 IP 连接的大陆应用（GEOIP 库覆盖面更全）
+  - GEOIP,CN,直接连接,no-resolve
+
+  # 兜底规则：其余（国外）走一键连接
+  # 家宽模式：VPN Gate 相关流量走家宽出口（OpenVPN 经 CF 隧道）
+  - DOMAIN-SUFFIX,vpngate.net,家宽出口
+  - MATCH,家宽出口
+
+# ==================== 规则集 ====================
+# 规则集行为模板
+BehaviorDN: &BehaviorDN {type: http, behavior: domain, format: mrs, interval: 86400}
+BehaviorDY: &BehaviorDY {type: http, behavior: domain, format: yaml, interval: 86400}
+BehaviorIP: &BehaviorIP {type: http, behavior: ipcidr, format: mrs, interval: 86400}
+ClassicalYaml: &ClassicalYaml {type: http, behavior: classical, interval: 3600, format: yaml, proxy: DIRECT}
+BehaviorCL: &BehaviorCL {type: http, behavior: classical, interval: 86400, format: yaml, proxy: DIRECT}   # 经典规则集（blackmatrix7 等，DOMAIN/DOMAIN-SUFFIX/DOMAIN-KEYWORD/PROCESS-NAME）
+
+# 规则提供者（仅保留常用）
+rule-providers:
+  # 广告
+  Tracking:       {<<: *BehaviorDN, url: https://github.com/666OS/rules/raw/release/mihomo/domain/Tracking.mrs}
+  Advertising:    {<<: *BehaviorDN, url: https://github.com/666OS/rules/raw/release/mihomo/domain/Advertising.mrs}
+  AWAvenueAds:    {<<: *BehaviorDY, url: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Clash.yaml}
+  # 直连 / 国内
+  Direct:         {<<: *BehaviorDN, url: https://github.com/666OS/rules/raw/release/mihomo/domain/Direct.mrs}
+  Private:        {<<: *BehaviorDN, url: https://github.com/666OS/rules/raw/release/mihomo/domain/Private.mrs}
+  Download:       {<<: *BehaviorDN, url: https://github.com/666OS/rules/raw/release/mihomo/domain/Download.mrs}
+  AppleCN:        {<<: *BehaviorDN, url: https://github.com/666OS/rules/raw/release/mihomo/domain/AppleCN.mrs}
+  China:          {<<: *BehaviorCL, url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_No_Resolve.yaml}   # 大陆直连全量：ChinaMaxNoIP（11万+ 域名，含大陆可达国际服务），每日更新
+  # 常用国外服务
+  AI:             {<<: *BehaviorDN, url: https://github.com/666OS/rules/raw/release/mihomo/domain/AI.mrs}
+  Telegram:       {<<: *BehaviorDN, url: https://github.com/666OS/rules/raw/release/mihomo/domain/Telegram.mrs}
+  Twitter:        {<<: *BehaviorDN, url: https://github.com/666OS/rules/raw/release/mihomo/domain/Twitter.mrs}
+  SocialMedia:    {<<: *BehaviorDN, url: https://github.com/666OS/rules/raw/release/mihomo/domain/SocialMedia.mrs}
+  Netflix:        {<<: *BehaviorDN, url: https://github.com/666OS/rules/raw/release/mihomo/domain/Netflix.mrs}
+  YouTube:        {<<: *BehaviorDN, url: https://github.com/666OS/rules/raw/release/mihomo/domain/YouTube.mrs}
+  Google:         {<<: *BehaviorDN, url: https://github.com/666OS/rules/raw/release/mihomo/domain/Google.mrs}
+  Microsoft:      {<<: *BehaviorCL, url: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Microsoft/Microsoft.yaml}   # 微软全家桶全量：blackmatrix7（Office/OneDrive/Xbox/Teams/Skype/Bing/Azure 等）
+  Proxy:          {<<: *BehaviorDN, url: https://github.com/666OS/rules/raw/release/mihomo/domain/Proxy.mrs}
+  # 媒体（DustinWin）
+  Spotify:        {<<: *BehaviorDN, url: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/spotify.mrs}
+  TikTok:         {<<: *BehaviorDN, url: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/tiktok.mrs}
+  disney:         {<<: *BehaviorDN, url: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/disney.mrs}
+  # GitHub
+  github:          {<<: *ClassicalYaml, url: https://rule.kelee.one/Clash/GitHub.yaml}
+  # IP规则
+  PrivateIP:      {<<: *BehaviorIP, url: https://github.com/666OS/rules/raw/release/mihomo/ip/Private.mrs}
+  TelegramIP:     {<<: *BehaviorIP, url: https://github.com/666OS/rules/raw/release/mihomo/ip/Telegram.mrs}
+  ProxyIP:        {<<: *BehaviorIP, url: https://github.com/666OS/rules/raw/release/mihomo/ip/Proxy.mrs}
+  ChinaIP:        {<<: *BehaviorIP, url: https://github.com/666OS/rules/raw/release/mihomo/ip/China.mrs}
+
+# ==================== EOF ====================
+
+
